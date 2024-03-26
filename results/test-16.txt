@@ -1,0 +1,144 @@
+Thermal conductivity of liquid crystalline epoxy/BN ﬁller composites having ordered network structure Miyuki Harada a,⇑ 
+
+a Faculty of Chemistry, Materials and Bioengineering, Kansai University, Suita-shi, Osaka 564-8680, Japan b Osaka Municipal Technical Research Institute, Osaka 536-8553, Japan 
+
+Received in revised form 26 March 2013 Accepted 12 June 2013 Available online 26 June 2013 
+
+1. Introduction
+
+
+BN ﬁller was added to a liquid crystalline (LC) epoxy resin to obtain a high thermal conductive material. The LC epoxy/BN composites, which were cured at different temperatures, formed an isotropic or LC polydomain phase structure. The relationship between the network orientation containing mesogenic groups and the dispersibility of the BN ﬁller was discussed. As a result, the thermal conductivity of the LC polydomain system was drastically enhanced even at a relatively low volume fraction of BN (30 vol%), regardless of the fact that both the LC and isotropic phase systems consisted of the same resin and ﬁller content combination. This result is due to the formation of thermal conductive paths by the BN ﬁller by exclusion of the BN ﬁller from the LC domain formed during the curing process in the composite having the LC polydomain matrix. 
+
+Epoxy resins are widely used as adhesives, coatings, paints and electrical insulation materials in industrial ﬁelds. Recently, the strong requirements of developing highly functional and high performance epoxy resins have increased. Liquid crystalline (LC) epoxy resins are well known as a kind of the particular epoxy resins and they have LC phase temperature region. They have been the subject of investi- gations for their unique and excellent properties such as a high Tg [1,2], fracture toughness [3–10] and thermal conductivity [11,12]. The synthesis of a lot of novel LC epoxy resins has been reported, and the liquid crystallinity of the epoxy monomers and their curings has been simultaneously investigated [13–20]. However, there are only a few reports concerning the relationship between the ordered structure and physical properties of the curings. 
+
+On the other hand, in the recent development of the electrical devices, electrical encapsulating materials have been inquired some roles such as insulators and thermal conductors. Although conventional epoxy resins have a poor thermal conductivity (0.17–0.20 W/m K), we have already reported that an LC epoxy re- sin showed a high thermal conductivity (0.43 W/m K) [12]. How- ever, it is insufﬁcient for use in industrial ﬁelds. Therefore, the thermal conductive property is needed to be enhanced by the addi- tion of inorganic ﬁllers with the high thermal conductivity and electrical insulation. Generally, when thermal conductive ﬁllers were loaded at low concentrations into the matrix, the thermal 
+
+conductivity of the composite is only slightly improved. With an increasing ﬁller concentration, the high thermal conductivity can be achieved, becausethe thermal conductive paths due to well- continuous ﬁller phase are formed. Generally, a lot of thermal con- ductive ﬁllers such as silicon carbide (SiC), silicon nitride (Si3N4), alumina (Al2O3), aluminum nitride (AlN), and boron nitride (BN) are well known. By adding of these insulating types of ﬁllers, epoxy resins can have a high heat dissipating property with maintaining their electrical insulation ability [21–28]. Generally, it is known that SiC, Si3N4, Al2O3, and AlN also have relatively high dielectric constants. Therefore, there are some problems with the application of these electric insulation materials. On the other hand, the hexag- onal BN, which is known as white graphite, has a relatively low dielectric constant and density. 
+
+In this study, we investigated the thermal conductivity of the LC epoxy/BN composites having an isotropic and LC phase structure. As is well known, the BN ﬁller has platelet shape and relatively low density compared to other thermal conductive ﬁllers. There- fore, we expected that in the LC phase system with added BN ﬁller, it can easily move by the exclusion of the BN ﬁller from the LC do- main during the curing process. 
+
+2. Experimental
+
+
+2.1. Synthesis of the diglycidyl ether of terephthalylidene-bis-(4-
+
+
+2.1. Synthesis of the diglycidyl ether of terephthalylidene-bis-(4- amino-3-methylphenol) (DGETAM) 
+
+DGETAM was synthesized by the condensation of terephthalal- dehyde and 4-amino-3-methylphenol and then the epoxidation by 
+
+1359-8368/$ - see front matter (cid:2) 2013 Elsevier Ltd. All rights reserved. http://dx.doi.org/10.1016/j.compositesb.2013.06.031 
+
+chrolomethyloxirane. The synthesis pathway of DGETAM was de- scribed in detail in a previous paper [6]. This synthesized epoxy re- sin exhibited a nematic phase between 169 and 212 (cid:3)C: C 169 N 212 I. 
+
+2.2. Materials for curing
+
+
+The epoxy resins used in this study were the diglycidyl ether of terephthalylidene-bis-(4-amino-3-methylphenol) (DGETAM, C 169 N 212 I, Mw = 456). 
+
+and the diglycidyl ether of the Bisphenol-A type epoxy resin (DGE- BA, JER 828EL, JER Co., Ltd., Mw = 370, Epoxy equivalent = 185 g/ equiv.) 
+
+200 (cid:3)C for 30 min in an oven. The dimensions of the aluminum sample container were 25 (cid:2) 25 (cid:2) 15 mm3. 
+
+The BN ﬁller (0–45 wt%) was dispersed in 2.0 g of DGETAM (4.4 mmol) melted at 180 (cid:3)C. A stoichiometric amount of the cur- ing agent (0.236 g, 2.2 mmol) was added to the mixture, and stir- red for 30 s until melted at 180 (cid:3)C on a heating plate. It was then cured at 160 (cid:3)C for 1 min on a heating plate at 120 (cid:3)C for 2 h, and 160 (cid:3)C for 40 min in an oven. 
+
+The curing agent was (m-PDA, m.p. 62 (cid:3)C, Mw = 108, Wako Pure Chemical Industries Co., Ltd.) 
+
+The BN (HGP, DENKA Co., Ltd.) used as a thermal conductive ﬁller is shown in Fig. 1. Its properties are summarized in Table 1. 
+
+2.3. Curing of the epoxy resin (DGETAM) / BN ﬁller Composites
+
+
+1 min until melted at 200 (cid:3)C on a heating plate. It was then cured at
+
+
+The BN ﬁller (0–45 wt%) was dispersed in 2.0 g of DGETAM (4.4 mmol) melted at 200 (cid:3)C. A stoichiometric amount of the curing agent (0.236 g, 2.2 mmol) was added to the mixture, and stirred for 1 min until melted at 200 (cid:3)C on a heating plate. It was then cured at 
+
+At high ﬁller content system, the viscosity of the composites be- came higher. Therefore, the preparation method using a small amount of solvent was applied in the composites over 50 wt% BN loading. 
+
+The BN ﬁller (50 wt%) was dispersed in a chloroform (4.4 g) solution with 2.0 g of DGETAM (4.4 mmol) and a stoichiometric amount of the curing agent (0.236 g, 2.2 mmol), then evaporated to eliminate the solvent. The mixture was then melted at 180 (cid:3)C for 30 s on a heating plate. It was cured at 160 (cid:3)C for 1 min on a heating plate and at 120 (cid:3)C for 2 h and 160 (cid:3)C for 40 min in an oven (see Table 2). 
+
+The BN ﬁller (0–45 wt%) was dispersed in the 2.0 g of DGEBA (5.4 mmol) at 80 (cid:3)C. A stoichiometric amount of the curing agent (0.28 g, 2.7 mmol) was added to the mixture, and stirred for 60 s until melted at 80 (cid:3)C on a heating plate. The mixture was then cured at 80 (cid:3)C for 2 h and at 180 (cid:3)C for 2 h in an oven. The dimen- sions of the aluminum sample container were 25 (cid:2) 25 (cid:2) 15 mm3. For the BN 50 wt% composite, the preparation was similar to the LC phase DGETAM/BN (50 wt%) as previously described. 
+
+2.4. Measurement
+
+
+The chemical structure of the synthesized epoxy resins and chemical conversions during the curings were conﬁrmed by FT-IR spectroscopy (SPECTRUM 2000, Perkin–Elmer Inc.) using the KBr method. The resolution of the IR spectrum was 4 cm(cid:3)1 and the spectra were collected after 4 scans. 
+
+The transition temperature of this synthesized epoxy resin was measured by a differential scanning calorimeter (DSC220C, Seiko Instrument, Inc.) at the heating rate of 5 (cid:3)C/min. 
+
+The LC texture of the cured resin was observed under crossed polarized light using a polarized optical microscope (POM, BH-2, 
+
+Table 2 Curing conditions of DGETAM or DGEBA/m-PDA/BN composites. 
+
+DGETAM (isotropic phase) 200 (cid:3)C 60 s DGETAM (LC phase) DGEBA 
+
+180 (cid:3)C 30 s + 160 (cid:3)C 60 s 80 (cid:3)C 60 s 
+
+120 (cid:3)C 2 h + 160 (cid:3)C 40 min 80 (cid:3)C 2 h + 180 (cid:3)C 2 h 
+
+Fig. 2. Polarized optical micrographs of DGETAM/m-PDA systems. Curing temper- ature: (a) 200 (cid:3)C and (b) 160 (cid:3)C. 
+
+Olympus Co.). The thickness of the polished samples was about 30 lm. 
+
+The polarized IR spectrum of the cured epoxy resin was ob- tained using a polarized FT-IR spectrometer (SPECTRUM ONE, Per- kin–Elmer, Inc.) equipped with a microscope (Auto Image, Perkin– Elmer Japan Co., Ltd.). The resolution of the IR spectrum was 8 cm(cid:3)1. The spectra were collected after 32 scans. The sample (thickness: approximately 5–10 lm) used for the IR measurement was cut from the bulk specimens for measurement of the LC do- main diameter. The sample was irradiated with polarized IR light (parallel, A// and perpendicular, A\). 
+
+The dichroic ratio R in each area (15 (cid:2) 15 lm2) was calculated from the IR absorbance at 1620 cm(cid:3)1 based on the C@N stretching vibration. The dichroic ratio R was deﬁned as R = (A// (cid:3) A\)/ (A// + A\), where A// and A\ are the intensities of the parallel and perpendicular polarized IR absorbances, respectively. Dichroic ra- tio maps were drawn to estimate the LC domain diameter in each area. The range of the R values from (cid:3)0.04 to +0.04 was regarded as an unordered area along neither polarized directions of the IR. This area was recognized as the boundary region between the domains. The domain diameter was determined by the following method. It was assumed that the domain is elliptical and that the elliptical colored area in the dichroic ratio map, where the absolute value of R is greater than 0.04, is an isolated domain. The diameter of the single domain was calculated as the average of the length of the 
+
+major and minor axes. This value was used to calculate the average diameter of all the domains in the observation area. 
+
+The anisotropy of the network chains in the LC domains was evaluated using a wide angle X-ray diffractometer (XRD, NANO- Viewer MicroMax-007HF, Rigaku Co.) equipped with imaging plate (R-AXIS IV, Rigaku Co.). The layer spacing was calculated using Bragg’s formula (nk = 2dsin h). Diffraction patterns were obtained by Cu Ka (k = 0.154 nm) irradiation generated at 40 kV and 30 mA. The thickness of the sample was 2 mm. 
+
+Dispersibility of the BN ﬁller in the DGETAM/BN composites was observed using a scanning electron microscope (SEM, JSM- 6700F, JEOL Co., Ltd.). Prior to the examination, the surfaces were coated with a thin layer of gold to improve the conductivity and prevent charging. 
+
+The thermal conductivity at 25 (cid:3)C was determined from the thermal diffusivity, a, density, q and speciﬁc heat, Cp. The thermal conductivity k was calculated using the following equation: k = aqCp. The thermal diffusivity a of the systems was measured by a method based on a laser ﬂash analysis (TC7000, ULVAC-RIKO Co.). The sample was prepared in a cylindrical shape with a 10 mm diameter and 500 lm thickness and coated with a carbon layer on the entire surface by a carbon sprayer (Graphite coat, Nihon Sen- paku Co., Ltd.) to enhance the thermal contact and to prevent direct transmission of the laser ﬂash light through the specimen. The measurement temperature was 25 (cid:3)C. 
+
+The density q of the systems was measured by a pycnometer method at 25 (cid:3)C. The speciﬁc heat capacity Cp was measured by a differential scanning calorimeter (DSC Exster 7020, SII, Inc.) at the heating rate of 10 (cid:3)C/min. The sample weight was 10 mg and the reference sample was a-Al2O3 (Sapphire) (Cp: 0.78 J/g K). 
+
+3. Results and discussion
+
+
+3.1. Preparation and phase structure of the unloaded DGETAM system
+
+
+The polarized optical micrographs (POMs) of the unloaded DGE- TAM/m-PDA systems are shown in Fig. 2. The system cured at 200 (cid:3)C shows a dark ﬁeld under crossed nicols. This indicated that the system formed an isotropic network. On the other hand, the system cured at 160 (cid:3)C clearly exhibited birefringence patterns based on the formation of the LC phase. It is considered that lower curing temperature on the curing process suppressed the molecu- lar motion and promoted a network chain orientation by the p–p stacking. These results indicated that the system cured at a lower temperature consists of many LC domains. Fig. 3 shows the XRD patterns of these cured systems. Although the system cured at 200 (cid:3)C showed only a halo at around 18(cid:3) of 2h (4.8 Å) indicating an amorphous halo, in the system cured at 160 (cid:3)C, a very high intensity peak due to the smectic LC phase at 3.1(cid:3) of 2h (28 Å) 
+
+was observed. This peak is based on a layer structure formation of the smectic phase, and the distance calculated using Bragg’s for- mula indicated the length derived from the repetition of the lay- ered phase. This value was in good agreement with the theoretical value (31 Å). Based on these results, the domain in this cured system mainly consisted of the smectic LC phase. Therefore, under these curing conditions, two different types of network chain orientations were obtained. 
+
+To evaluate the size of the ordered region in detail, a method based on IR dichroism was adopted. To macroscopically observe the network chain orientation, dichroic ratio maps were drawn 
+
+based on calculations from the absorbance value at 1620 cm(cid:3)1 in the polarized IR spectrum (Fig. 4). The arrangement of the network chains containing the mesogenic groups was evaluated from the maps. In system (a) cured at 200 (cid:3)C, the dichroic ratio map totally showed a colorless pattern due to the amorphous polymer struc- ture of this system. On the other hand, many spots having positive and negative R values were observed in system (b) cured at 160 (cid:3)C and the mean diameter of the domain in this system was almost 60 lm. Based on these results, it was indicated that system (a) has an isotropic phase and system (b) has a smectic LC phase (mean diameter of LC domains: 60 lm). 
+
+3.2. Filler dispersion of DGETAM/BN composites having different phase
+
+
+3.2. Filler dispersion of DGETAM/BN composites having different phase structures 
+
+Table 3 Thermal conductivity of DGEBA and DGETAM/m-PDA systems. 
+
+To investigate the effect of the BN ﬁller loading, the relation- ship between the BN dispersion and formation of the LC domain on the curing process was evaluated. Fig. 5 shows the dichroic ra- tio maps based on the calculation as well as Fig. 4 and the over- written ﬁller dispersed region by tracing the BN aggregation using optical microscopy in the DGETAM/BN (6 vol%) system. Namely, in this ﬁgure, the dark area on the maps indicates the BN ﬁller aggregation. In system (a) cured at 200 (cid:3)C, the map showed a col- orless pattern based on an isotropic phase as well as an unloaded system. Moreover, the loaded BN ﬁller was uniformly dispersed into the matrix with a small size of aggregation from the initial to ﬁnal stage of curing. On the other hand, in system (b) cured at 160 (cid:3)C, while the initial curing system showed uniform BN dis- persion, the dispersibility during the progress of the curing reac- tion gradually changed. Especially, aggregation of the ﬁller occurred with formation of the LC domain mainly located be- tween the LC domains. The schematic models are shown in Fig. 6 based on these results. 
+
+To evaluate the BN ﬁller dispersion in the matrix, SEM observa- tions were carried out (Fig. 7). The observed surface was prepared by polishing the fractured surfaces of the DGETAM/BN composites. In the isotropic system, the BN ﬁller was uniformly dispersed into the matrix regardless of the BN ﬁller content. Even in the 26 vol% BN system, ﬁller aggregation was not clearly observed. On the other hand, in the LC polydomain system, though the low BN ﬁller content system(BN: 12 vol%) showed a relatively uniform BN dis- persion, a lot of white sites, which indicate the regions of BN ﬁller aggregation, were obviously observed with the increasing ﬁller content. These ﬁller aggregations partially connect to each other and it seems that a continuous ﬁller pathway was constructed in the 26 vol% BN system. This result is due to the exclusion of the 
+
+Fig. 8. Thermal conductivity of the DGEBA (s) and DGETAM ((}) isotropic, ((cid:2)) LC)/ m-PDA/BN composites. 
+
+BN ﬁller from the LC domain formed during the curing process and this prospect was supported by both the IR mapping results and the trace BN ﬁller data in the optical micrographs of the curing process. 
+
+3.3. Thermal conductivity of DGETAM/BN composites
+
+
+The thermal diffusivity of the DGETAM/BN composites having two types of different phase matrices (isotropic and LC polydomain phases) were evaluated by the laser ﬂash method and the thermal conductivity was calculated by multiplying the thermal diffusivity, speciﬁc heat, and density (Table 3, Fig. 8). In the unloaded DGETAM system, the thermal conductivity of the isotropic phase system was 0.35 W/m K and that of the LC polydomain system was 0.38 W/ m K. The difference in the thermal conductivity is derived from the partial ordered network structure containing a mesogenic group [12]. With the increasing BN ﬁller content, the thermal con- ductivity of the isotropic system linearly increased and achieved 1.5 W/m K for a 30 vol% BN loading. In this system, the composites could not be prepared at a high BN volume fraction due to the too high curing temperature. On the other hand, the thermal conduc- 
+
+tivity in the LC polydomain system drastically increased around BN 20 vol% compared to the isotropic system. The LC polydomain system showed 2.2 W/m K at 30 vol% BN. In addition, this system ﬁnally achieved 2.5 W/m K at 35 vol% BN. As previously men- tioned, these two systems have two types of differences. One is the partially observed ordered network contained in the matrix, and the other is aggregation of the BN ﬁller. It is considered that these factors in the LC polydomain system contribute to the higher thermal conductivity. Basically, the inorganic BN ﬁller has a higher thermal conductivity than an organic polymer matrix even if it has ordered network chains. Therefore, it is considered that a continu- ous path of the BN ﬁller partially formed and it mainly worked as a thermally conductive path in the composite. However, the contri- bution of each factor was not precisely separated in this study. We will report these results in our next paper. 
+
+To investigate the changes in the LC structure and domain diameter with BN loading precisely, an XRD analysis and polarized IR mapping were carried out. From a lower angle (2h = 3(cid:3)) based on the XRD peak (Fig. 9), the existence ratio of the smectic and nema- tic phase can be roughly estimated from the ratio of the peak inten- 
+
+kmf2km þ kf (cid:3) 2ðkm (cid:3) kf ÞV f g 2km þ kf þ ðkm (cid:3) kf ÞV f 
+
+where kc, km and kf are the thermal conductivities of the composites, matrix polymer and ﬁller, respectively; and Vf is the volume fraction of the ﬁller. While the Maxwell model can be adapted for the com- posite only in the case of the isolated ﬁller loading system (Vf < 0.2) and the Bruggeman model takes into account the interaction be- tween the ﬁllers. However, both models cannot be applied for the scale-like BN ﬁller used in our composite systems. The experimental data and prediction line are shown in Fig. 12. It is clear that the experimental data do not well agree with both the Maxwell and Bruggeman models. The experimental data are always higher than the prediction line. This result is based on the fact that both models assume that the shape of the ﬁller is spherical, and the dispersibility is always uniform, although the shape of the used BN ﬁller is plate- let-like in our composites. Especially, the LC polydomain system showed a higher value compared to the line based on the formula. This result suggests that the enhancement of the thermal conduc- tivity is based on not only on the shape of the ﬁller, but also the for- mation of a continuous ﬁller phase in the LC composite system. 
+
+4. Conclusions
+
+
+To obtain a high thermal conductive material, the BN ﬁller was added to the DGETAM/m-PDA system and cured at different tem- perature. The loaded BN ﬁller dispersion was evaluated in the ob- tained composites having isotropic and LC polydomain phases. In addition, their relationship between the ordered network structure containing mesogenic groups and dispersibility of the BN ﬁller was discussed. Especially, the LC polydomain phase system formed a continuous path of the BN ﬁller with the increasing ﬁller content. This result was derived from the exclusion of the BN ﬁller from the LC domain formed during the curing process. The thermal con- ductivity of the LC polydomain system increased even at a low BN volume fraction, regardless of the fact that both phase systems consisted of the combination of the same resin and ﬁller content. This result is due to the formation of thermal conductive paths by the BN ﬁller in the composite having the LC polydomain matrix. 
+

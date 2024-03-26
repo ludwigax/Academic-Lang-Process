@@ -1,0 +1,977 @@
+Recent  progress  in  polymer/two-dimensional  nanosheets  composites with  novel  performances 
+
+Jialong Li a , Xiaoxu Liu a , ∗, Yu Feng b , ∗, Jinghua Yin b a School of Material Science and Engineering, Shaanxi Key Laboratory of Green Preparation and Functionalization for Inorganic Materials, Shaanxi University of Science and Technology, Xi’an, 710021, China b Key Laboratory of Engineering Dielectrics and Its Application, Ministry of Education, Harbin University of Science and Technology, Harbin 150080, China 
+
+Since  the  discovery  of  graphene  in  2004,  investigation  concerning  the  novel  performances  of  2D nanosheets embedded polymer composites have grown rapidly in various ﬁelds. In this article, we sum- marized the preparation of various 2D nanosheets, including graphene, MXene, hexagonal boron nitrides ( h -BN), ferroelectric ceramic and transition metal dichalcogenides (TMDs). We highlighted the effects of sizes, thicknesses, surface modiﬁcations and arrangements of the 2D nanosheets on the performance of polymer nanocomposites and the emergence of novel electric, thermal conductive, electromagnetic inter- ference shielding and mechanical properties. Subsequently, the relationships between the speciﬁc struc- ture of 2D nanosheets and polymer composites properties were discussed. Structure design of polymer composites containing 2D nanosheets is also evaluated and reviewed. Finally, the perspectives and chal- lenges were discussed on the basis of their current developments. This article covers not only an overview of the state-of-the-art advances of 2D nanosheets ﬁlled polymer composites but also the future prospects that may open a new window to realize the tunable performance or multifunction of polymers by ratio- nally using 2D nanosheets as reinforcements. 
+
+Introduction  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  2 Intrinsic properties and preparation of 2D nanosheets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3 2.1. Intrinsic properties of 2D nanosheets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  3 2.2.  Top-down methods for preparing 2D nanosheets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5 2.2.1.  Physical methods. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  5 2.2.2.  Chemical methods . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  6 2.3.  Bottom-up methods for preparing 2D nanosheets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  7 3.  Electrical relevant properties of 2D nanosheets ﬁlled polymer composites. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  8 3.1.  Breakdown properties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  8 3.1.1.  Short-term breakdown properties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  8 3.1.2.  Long-term breakdown properties. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  10 3.2.  High dielectric constant. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11 3.2.1.  Based on the percolation theory . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  11 3.2.2.  Based on the effective medium theory . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  12 3.2.3.  Effect of interface and related theories. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  12 3.3.  Energy storage performances . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  12 3.3.1.  Direct dispersion of unmodiﬁed 2D nanosheets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13 3.3.2.  Surface design of 2D nanosheets. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  13 3.3.3.  Multilayer structure design . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  14 
+
+https://doi.org/10.1016/j.progpolymsci.2022.101505 0 079-670 0/© 2022 Elsevier B.V. All rights reserved. 
+
+3.3.4.  Multiphase design  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  15 3.3.5.  Towards practical applications. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  16 4.  Thermal management properties of 2D nanosheets ﬁlled polymer composites . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  17 4.1.  Thermal conductive models and equations for polymer composites . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  21 4.2.  2D nanosheets used for improving polymers thermal conductivities . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  21 Inorganic metallic 2D nanosheets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  21 
+
+Inorganic nonmetallic 2D nanosheets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  22 Inﬂuence factors on thermal conductivity of 2D nanosheets ﬁlled polymer composites . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  22 4.3.1.  Size of 2D nanosheets. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  22 4.3.2.  Surface modiﬁcation of 2D nanosheets. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  25 4.3.3.  Orientation of 2D nanosheets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  26 4.3.4.  Assemble 2D nanosheets into 3D networks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  27 5.  EMI shielding properties of 2D nanosheets ﬁlled polymer composites . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  28 5.1.  Basic principles of EMI shielding. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  28 5.2.  2D nanosheets used for improving polymers EMI shielding properties  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  30 5.2.1.  Graphene-based 2D nanosheets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  30 5.2.2.  MXene 2D nanosheets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  30 5.2.3.  Other 2D nanosheets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  31 Inﬂuence factors on EMI shielding properties of 2D nanosheets ﬁlled polymer composites . . . . . . . . . . . . . . . . . . . . . . . . . . .  31 5.3.1.  Surface modiﬁcation of 2D nanosheets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  31 5.3.2. Incorporating metallic or magnetic ﬁllers with 2D nanosheets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  32 5.3.3.  Arrangement of 2D nanosheets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  34 6.  Mechanical properties of 2D nanosheets ﬁlled polymer composites . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  36 6.1.  2D nanosheets used for improving polymers mechanical properties . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  36 Inﬂuence factors on mechanical properties of 2D nanosheets ﬁlled polymer composites . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  37 6.2. 6.2.1.  Size of 2D nanosheets. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  37 6.2.2.  Surface modiﬁcation of 2D nanosheets. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  38 6.2.3.  Arrangement of 2D nanosheets . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  38 7.  Summary and perspectives . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  41 Declaration of Competing Interest . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  42 Acknowledgement . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  43 References  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  43 
+
+1. Introduction 
+
+
+Polymer-based  materials  display  intrinsic  merits  such  as  pro- cessability, scalability, ﬂexibility, lightweight, superior voltage tol- erance  as  well  as  low  cost.  Nanoﬁllers  with  different  properties are  usually  used  as  reinforcements  to  be  embedded  with  poly- mers, eventually utilizing the properties of both, which is one of the most common methods to avoid some intrinsic disadvantages of the pristine polymers, for instance, low polarization and ther- mal conductivity [1–7] . In past decades, incorporating varied zero- dimensional (0D) spherical-nanoparticles into polymers has been reported intensively, fabulous properties of the composites are thus achieved [ 1 , 8 ]. Nevertheless, large amounts of nanoparticles are ur- gently required to obtain improved performances of the compos- ites ( e. g. high dielectric constant and thermal conductivity) [9–11] . The lifted cost, synthesizing diﬃculty and some dramatically de- creased performances of the composites inevitably restricted their usage in practical applications. Compared with the 0D nanoparti- cles, one-dimensional (1D) nanowires or nanoﬁbers with high as- pect ratio present greater potential in constructing polymer com- posites with excellent performance, such as dielectric, thermal con- ductive and mechanical properties [12–14] . 
+
+Two-dimensional  (2D)  nanosheets  can  be  deﬁned  as  a  class of freestanding nanomaterials with a high ratio of lateral size to thickness.  The  speciﬁc  structure,  unique  surface  chemistry,  and quantum  size  effect  of  2D  nanosheets  endow  them  with  excep- tional anisotropic physicochemical properties, which are quite dif- ferent  to  their  bulk  counterparts  or  nanoparticles  [15–17] .  Since the advent of monolayer graphene exfoliated from bulk graphite in 2004 [15] , a serious of 2D nanosheets beyond graphene have been synthesized via various physical and chemical methods [18– 22] .  Graphene,  hexagonal  boron  nitride  ( h -BN),  numerous  tran- 
+
+sition  metal  dichalcogenides  (TMDs),  oxide  or  perovskite  ceram- ics and transition metal carbides and nitrides (MXene) have been widely  used  as  2D  reinforcement  ﬁllers  for  different  polymers [ 4 , 23–32 ]. Taking advantages of the speciﬁc structure and excellent anisotropic properties of the embedded 2D nanosheets, innovative multifunction properties of the composites could be realized at rel- atively low ﬁller loading, simultaneously maintain intrinsic ﬂexibil- ity of polymers, which made the composites much suitable appli- cation materials in some ﬁelds. A search comparation of the open publications about 0D, 1D and 2D nanoﬁllers reinforced polymer composites in the past decade with Web of Science was conducted, and the results are shown in Fig. 1 . Clearly, the research focuses and scientiﬁc interests of polymer science have shown faster in- crease in 2D nanosheets. 
+
+In  designing  the  polymer  composites,  the  appropriate  selec- tion of 2D nanosheets facilitate enhancing different performances of  the  composites,  such  as  dielectric,  thermal  conductive,  elec- tromagnetic  interference  shielding  or  mechanical  performances. In  this  scenario,  proper  size  selection,  surface  modiﬁcation  or decoration and the arrangement design of 2D nanosheets would endow  further  property  enhancement  or  multifunction  with  the polymers. For instance, the immense-sized h -BNNS ﬁlled polymer present higher thermal conductivity than the counterparts contain- ing small-sized h -BNNS at identical loading; the surface modiﬁca- tion of 2D nanosheets accelerates their dispersion in polymer ma- trixes [33] ; uniform aligned and continuous 2D nanosheets would maximize  various  properties  enhancement  of  polymers  [24,34], such as electric or thermal conductive. However, the relationships between type, size, surface modiﬁcation of 2D nanosheets and the relevant comprehensive properties have been rarely summarized. 
+
+In this review, the primary focus is settled on the novel perfor- mances of the polymer composites containing 2D nanosheets. This 
+
+3 O 
+
+
+2 Nb 
+
+
+0.5 Bi 
+
+
+4 Ti 
+
+
+4 O 
+
+
+The speciﬁc heat capacity per unit volume Dielectric displacement Applied electric ﬁeld Breakdown strength 
+
+review starts from  an overview and classiﬁcation of  the synthe- sizing methods of 2D nanosheets such as graphene, h -BN, TMDs, ceramics, MXene and metallic nanosheets. The dielectric, thermal management, electromagnetic interference shielding and mechan- ical performance of the 2D nanosheets ﬁlled polymer composites accompanied with their applications are then discussed, as shown in Fig. 2 . This includes a comprehensive discussion of the effects of  2D  nanosheets  sizes,  surface  modiﬁcations,  arrangements  and ﬁller-matrix  interactions  on  these  performances  of  the  polymer composites.  Finally,  the  brief  conclusion  and  future  perspectives on  2D  nanosheets  ﬁlled  polymer  composites  are  summarized.  It 
+
+is  expected  that  this  review  could  provide  a  comprehensive  un- derstanding about the mechanism of various novel properties of polymer composites in the context of different 2D nanosheets as additives, and bring a uniﬁed perspective for the next-generation polymer composites with excellent performances. 
+
+2. Intrinsic properties and preparation of 2D nanosheets 
+
+
+2.1. Intrinsic properties of 2D nanosheets 
+
+
+The preeminent properties enable 2D nanosheets to be the ex- cellent reinforcements for polymer. The primary intrinsic proper- 
+
+σ = 1 × 10 8 
+
+∗σ = 4000–9800 S cm −1 Resistivity = 0.29 μ(cid:7) m [48] bandgap = 
+
+Bandgap = 5–6 eV [32] , σ = 10 −14 bandgap = 7.2–8.8 eV, εr = 9–10, E b = 600–800 MV m −1 ∗ Theoretical calculated value based on Density Functional Theory and molecular dynamics. 
+
+, εr = 3 ∼4, E b = ∼800 MV m −1 [58] 
+
+Modulus = 1 Tpa, Strength = 130 GPa Modulus = 200–250 Gpa [38] 
+
+500–1200 [39–41]  Modulus = 250 Gpa [42] ∗55.8[ 47 ] 
+
+3 N 
+
+
+ties of 2D nanosheets reviewed in this work are summarized in Table  1 ,  including  electrical,  thermal  and  mechanical  properties. Therein  graphene,  metallic  nanosheets  and  MXene  are  excellent electric conductive 2D materials, in which the monolayer graphene is revealed to be the strongest material with modulus of 1 TPa and strength of 125 GPa. The MoS 2  nanosheets are also ap- plied in tailoring polymer multifunction performances taking ad- vantages of their semiconducting nature and relatively high modu- lus and strengths. Recently, another semiconductive 2D nanosheets, 4 ,  is  used  to  elevate  thermal  conductivity  of  polymers.  The 
+
+3 are typical insulating 2D nanosheets. Si- 
+
+
+3 are typical insulating 2D nanosheets. Si- multaneously, the highest thermal conductivity in insulating non- metallic 2D nanosheets, relatively high modulus and strengths of h -BNNS enlarge their applications in multifunctional polymer ma- terials. Besides, ceramic 2D nanosheets or quasi-2D nanoﬂakes are often used to lift polarization of polymer matrixes owing to their high intrinsic dielectric constant ( εr ), which are commonly used in  achieving  high  εr  of  polymers  or  realizing  high  energy  stor- age performances of them. Nevertheless, the performances of 2D nanosheets are closely related to their size, thickness, surface de- fects as well as surface modiﬁcation, which will be in-depth dis- cussed in the corresponding sections. 
+
+2 O 
+
+
+Fig.  1.  The  yearly  publication  numbers  on  polymer  composites  with  0D, 1D  and  2D  nanoﬁllers  in  the  last  decade  based  on  the  Web  of  Sci- ence  database  by  using  the  keywords  “polymer  composites,  nanoparticles”, “polymer  composites,  nanoﬁbers/nanowires/nanorods” and  “polymer  composite, nanosheets/nanoﬂakes/nanoplates”, respectively. 
+
+Fig. 3.  Schematic of 2D nanosheets obtained by physical top-down methods and the corresponding exfoliation mechanism. (a) Micromechanical exfoliation of graphene from highly oriented pyrolytic graphite (HOPG) using scotch tape. [72] , Copyright 2011. Reproduced with permission from Elsevier Science Ltd. (b) Diagram and corresponding SEM images of the ball-milling exfoliation mechanism of h -BNNS. [73] , Copyright 2015. Reproduced with permission from American Chemical Society. (c) Photograph of the Vitamix blender used for MoS 2 exfoliation, TEM and AFM images of typical exfoliated MoS 2 nanosheets. [69] , Copyright 2015. Reproduced with permission from American Chemical Society. 3D represented structure of bulk MoS 2 and exfoliated single layer MoS 2. [74] , Copyright 2011, Reproduced with permission from Nature Publishing Group. (d) TEM and AFM images of graphene. [75] , (Copyright 2008. Reproduced with permission from Nature Publishing Group.) and h -BNNS. [76] , (Copyright 2011. Reproduced with permission from Elsevier Science Ltd.) exfoliated with sonicating in NMP and DMF, respectively. 
+
+In synthesizing 2D nanosheets, the top-down methods are the most prevalent scenarios. The mechanism of top-down methods is to overcome the interlayer van der Waals interactions among bulk 2D materials with assistant of external energy, consequently exfo- liate one or few atomic layers from the bulk material [59] . The ex- tra energy provided by many approaches facilitate conquering the layer-layer interactions, such as micromechanical force, ultrasoni- cating energy and some chemical intercalation et al. Many stud- ies have elaborated different physical or chemical processes to de- velop high quality 2D nanosheets via using the top-down meth- ods [ 21 , 22 , 25 , 60–62 ]. During the van der Waals interactions break- ing process, the methods in which physical interaction dominating are regarded as the physical methods in this review, including mi- cromechanical exfoliation, ball-milling, shear-force exfoliation and sonicating. In contrast, the 2D nanosheets preparing methods dom- inated  by  chemical  actions  are  concluded  as  chemical  top-down methods, for example, chemical intercalation, electrochemical re- action or chemical etching. 
+
+Micromechanical exfoliation or cleavage by using adhesive tape is  ﬁrst  employed  to  peel  off 2D  nanosheets  from  bulk  mate- 2  [ 15 , 63–66 ],  as  con- rials,  such  as  graphene,  h- BNNS  and  MoS 
+
+2 et al.) [67] , thus increase the exfo- 
+
+
+cluded in Fig. 3 (a). The 2D nanosheets obtained by this method are chieﬂy  used  in the  investigation of  their  intrinsic physical prop- erties.  Limited  by  the  low  yield  and  uncontrollable  thickness  of 2D  nanosheets,  a  series  of  procedures  are  further  proposed.  As presented in Fig. 3 (b), ball-milling afforded extra shearing forces, which facilitates breaking the van der Waals interactions among 2D nanosheets ( h -BNNS, MoS 2 et al.) [67] , thus increase the exfo- liation eﬃciency. Milling agent such as ethyleneglycol, benzyl ben- zoate  et  al.  [ 32 , 68 ]  is  often  used  in  this  strategy  to  reduce  the impact, contamination and balls attrition, which is called the wet grinding  as  well  [68] .  The  dominating  factor  here  is  the  exter- nal shearing forces , which provided by speed blender or kitchen blender serves similar effects ( Fig. 3 (c)) [69] . In addition, ultrasoni- cation exfoliation in aqueous surfactant solutions enable producing 2 , h -BNNS and robust and scalable 2D nanosheets ( e.g. WS MMT et al.) [ 70 , 71 ], as shown in Fig. 3 (d). 
+
+The shear-force or sonicating assisted exfoliating methods often required aid of solvents [77] . Organic solvents such as N -methyl- 2-pyrrolidone (NMP) [75] , N,N -dimethylformamide (DMF) [76] are usually employed as eﬃcient solvents to exfoliate 2D nanosheets owing to the surface energy similarities with the layer-structured bulk materials [78] , such as BN, graphite, MMT and MoS 2 . Layer spacing of bulk materials is expanded and the interlayer adhesion is  weakened  with  the  solvent  treatments.  Hence  2D  nanosheets are exfoliated owing to the solvents assisted breaking the van der 
+
+Fig. 4.  Schematic of preparing 2D nanosheets by various chemical top-down methods and the corresponding mechanism. (a) Diagram of chemical intercalation and the AFM results of CNO nanosheets obtained via this method. [101] ,Copyright 2020, Reproduced with permission from John Wiley & Sons Inc (b) Diagram of exfoliating 2D nanosheets by electrochemical intercalation. (c) The summarized schematic of hummers and modiﬁed hummers methods, the TEM image of graphene [102] , Copyright 2016, Reproduced with permission from Elsevier Science Ltd. MoS 2 [98] , Copyright 2021, Reproduced with permission from Springer Nature. prepared with this method. (d) Synthesis and delamination of Mo 2 CT X nanosheets from Mo 2 Ga 2 C. [103] , Copyright 2016, Reproduced with permission from John Wiley & Sons Inc. 
+
+Waals interaction between adjacent layers [16] . Nevertheless, the lateral dimensions of 2D nanosheets is a shearing time depended process, excessive ball-milling, shearing or sonicating generally de- creases the lateral size of 2D nanosheets [79] . 
+
+that allows the anions to penetrate between the layers [32] . Conse- quently, the adsorption and chemical reaction between bulk h -BN and anions separate the atom layers, and then the sonication ac- celerate the layers peeling away from each other. 
+
+Moreover,  plasma assisted  exfoliation provide additional elec- trostatic  attractive  stress  for  exfoliating  2D  nanosheets  from  the bulk stamp [80] , which is reliable and easily scaled up [81] . These methods can be summarized as direct exfoliation from bulk mate- rials by physical means, which produce 2D nanosheets with high crystalline  and  few  defects.  Besides,  the  layer-by-layer  thinning technique by thermal annealing has been used to prepare mono- or few layered MoS 
+
+2 nanosheets [82] . 
+
+
+Chemical  intercalation .  The  eﬃctiveness  of  some  chemicals [83] and bio-macromolecules [84] in promoting 2D nanosheets ex- foliation via chemical intercalations has been proved as well. For instance,  the  TBAOH  is  used  in  exfoliating  TiO 2  [85]  and  CNO nanosheets [86] ( Fig. 4 (a)), while the TPAOH is employed to pro- 2  MXene  nanosheets  [87] .  During  the  stirring  or  soni- duce  Ti cating the mixtures of TBAOH and HCa 10  (pristine layered- bulk of CNO), large-sized TBA + ion is intercalated into CNO layers through reaction (1), thereby the CNO nanosheets can be exfoliated [88] . 
+
+2 Nb 
+
+
+3 O 
+
+
+3 C 
+
+
+Besides, intercalating strong oxidants or hydroxides ( e.g. NaOH and KOH) into bulk materials facilitate the exfoliating yield of 2D nanosheets as well, for instance, BNNS [89] . The adsorbed alkali metal  ions  on  the  outer  h -BN  surfaces  leads  to  curling  of  them 
+
+Electrochemical method is another highly eﬃcient top-down method  in  preparing  2D  nanosheets,  which  is  widely  used  in preparing MoS 2  and graphene. A serious of TMDs can be exfoli- ated into atomically thin nanosheets by Li + intercalation [90–92] , as depicted in Fig. 4 (b). The hydrogen gas generated from chemical reaction  between  intercalated  lithium  atoms  and  water  separate bulk layers. Meanwhile, M 4 + cations are reduced to M 3 + as the Li + 2  (M = Mo, Ti, Ta), and intercalating into interlayers to form Li hydrogen is formed between adjusted layers to further disassem- ble the bulk TMDs, which is due to the oxidized reaction between M 3 + and water [90] . 
+
+The electrochemical method is also used to prepare graphene nanosheets. Wang et al. [93] used graphite as negative electrode, few-layer graphene nanosheets are acquired after electrochemically charged and expanded in an electrolyte of Li salts and organic sol- vents under high current density. Su et al. [94] employed natural graphite ﬂakes and highly oriented pyrolytic graphite as source of graphene and electrode, while a silver pad as anode. Large lateral sized graphene ( ∼30 μm) can be attained after the electrochem- ical exfoliation at room temperature. It is noted that the electro- chemical intercalation is a current density dominated process, ex- cessive discharge current would destruct the layer-structure of 2D nanosheets [92] . 
+
+Hummers  methods .  Graphite  intercalation  compounds  ( e.g. GO) can be synthesized with assistant of strong oxidizing agents, 4 )  and  sulfuric  acid such  as  potassium  permanganate  (KMnO 
+
+Fig. 5.  Schematic of bottom-up methods used in preparing 2D nanosheets. (a) Diagram of the CVD growing method and TEM images of the CVD grown (a1) graphene. [106] , Copyright 2009. Reproduced with permission from American Association for the Advancement of Science. (a2) BNNS. [109] , Copyright 2012. Reproduced with permission from American Chemical Society. (a3) MoS 2 nanosheets with various shape and size. [112] , Copyright 2014. Reproduced with permission from Nature Publishing Group. (a4) Diagram of depositing Ti, Al, C forming a few-nanometer Ti 3 C 2 T X MXene layer and the STEM image of the ﬁrst two Ti 3 C 2 T X layers. [113] , Copyright 2014. Reproduced with permission from American Chemical Society. (b) SEM image and TEM image of Al 2 O 3 and TiO 2 nanosheets prepared by hydrothermal method, respectively. [58] , Copyright 2019. Reproduced with permission from John Wiley & Sons Inc. [116] , Copyright 2018. Reproduced with permission from American Chemical Society (c) Diagram of the molten salts method and TEM images of various as-prepared 2D nanosheets [117] . 
+
+2 SO 
+
+
+2 and BN) 
+
+
+(H 4 ), which is a classic approach called Hummers method [95] . Abundant  functional  groups  are  introduced  onto  GO  nanosheets surface  prepared  with  this  procedure,  which  inevitably  altered GO  nanosheets  lattice  structures  and  ﬁnally  their  thermal  and electrical performances. Therefore, chemical or thermal reductions are  further  used  to  form  rGO  by  removing  oxygen-containing functional  groups  [ 35 , 96 , 97 ].  The  Hummers  method  remains  the most  widely  used  process  in  fabricating  rGO  or  the  functional- ized graphene, while some other 2D nanosheets ( e.g. MoS 2 and BN) can be also fabricated by the analogous procedure, which is called modiﬁed Hummers method [98] , as shown in Fig. 4 (c). 
+
+Etching.  Much  different  from  the  traditional  2D  nanosheets, preparing MXene nanosheets required selective etching of “A” el- ements  in  bulk  MAX-phase,  where  strong  etchants  such  as  HF or their salts and LiF-HCl solutions are used ahead of exfoliation [ 25,99 ], as shown in Fig. 4 (d). However, the F containing solutions are  hazardous  and  A-site  of  some  MAX-phase  precursors  could rarely be etched by them. Recently, Huang et al. [100] proposed a redox-controlled A-site etching of MAX-phases with Lewis acidic melts, a serious of MXene nanosheets with A-site elements of Si, Zn and Ga in relevant MAX-phase are successfully synthesized. 
+
+CVD growing. The chemical vapor deposition (CVD) method is a precursor reaction or decompose on the Cu, Ni or SiO 2 /Si sub- strates to form 2D nanosheets under high temperature [ 29 , 32 , 34 ], which  schematic  is  presented  in  Fig.  5 (a).  As  a  classic  bottom- up  method,  the  CVD  method  has  been  used  to  synthesize  large amount  of  2D  nanosheets  including  graphene  [104–107] ,  BNNS [108–110] , MoS 2 [ 111 , 112 ]. Compared with the top-down methods, the controllable size, shape, thickness and quality of 2D nanosheets is the main merit of CVD growing [112] ( Fig. 5 (a1-a3)). Thus, the CVD method highly suited for designing large-scale or 
+
+2 and WS 
+
+
+highly  aligned  2D  nanosheets,  and  pre-dispersed  frameworks  in polymer matrix with assistance of temples. In recent years, CVD is revealed to be a promising method in directly fabricating largescale and  ultrathin  MXene  [113–115] .  Halim  et  al.  prepared  a  Ti 
+
+2 T 
+
+
+ﬁlm by depositing Ti, Al, C following by selective etching of Al, as shown in Fig. 5 (a4). The lateral dimensions of the deposited MXene reaches centimeters, while the thickness is merely 19 nm [113] . In this view, the future investigation of bottom-up synthesizing may facilitate exploring the intrinsic performances of numerous MXene, acquiring more accurate values instead of the theoretical calcula- tions. However, high temperatures, high vacuum conditions, suit- able substrates are required in CVD method often raises the ex- pense. Meanwhile, the removement of substrates also brings extra costs. 
+
+3 C 
+
+
+Wet chemistry approach is another typical bottom-up method in  preparing  2D  nanosheets  based  on  the  chemical  reactions among precursors, which is widely used in fabricating MoS 
+
+2  (M = Mo, W) nanosheets have nanosheets et al. Freestanding MS been successfully fabricated by decomposing single-source precur- sors containing metal and sulfur in oleylamine at high tempera- tures [118] . Apart from the TMDs, BNNS can be produced via this method according to the reaction between boric acid (H 
+
+2 )  at  900  °C  with  nitrogen  ﬂow  protection  (reac- tion (2–4)) [ 119 ]. Meanwhile, the layer number of BN can be well- controlled via adjusting the reaction concentration [ 120 ] . 
+
+3 BO 
+
+
+2 H 3 B O 3 
+
+
+(cid:9) −→ B 2 O 3 + 3 H 2 O 
+
+C O ( N H 2 ) 2 
+
+(cid:9) −→ H N 3 + NHC O 
+
+(cid:9) −→ 2 BN + 3 H 2 O 
+
+2 , The  hydrothermal  method  is  also  used  in  fabricating  MoS whereas it is diﬃcult to control the morphology and size of the 
+
+2  platelet at 105 °C for 12 h [123] . The Al 2 (SO 
+
+4 F  to  form  2D 
+
+
+2  [ 121 , 122 ].  Nevertheless,  the  hy- hydrothermal  synthesized  MoS drothermal  method  is  used  to  fabricate  metal  hydroxides  or  ox- 4 F  to  form  2D ides  2D  nanosheets.  Ji  et  al.  used  NiCl 3  nanoplates 
+
+2 O 
+
+
+have been successfully fabricated via using Al 
+
+2 O and 
+
+
+2 nanosheets can be prepared via using hydrothermal 
+
+
+ammonium  hydroxide  at  200  °C  for  24  h  and  subsequently  cal- cined  at  600  °C.  Mentionable,  the  morphology  of  Al 3  can  be controlled  via  adjusting  the  pH  values  of  the  precursor  solution [58] . The TiO 2 nanosheets can be prepared via using hydrothermal method as well [116] , as shown in Fig. 5 (b). 
+
+2 O 
+
+
+Molten  salt  method  is  a  kind  of  highly  eﬃcient  method  in preparing 2D nanosheets taking advantages of low cost and rapid simultaneously. Hu et al. have successfully synthesized a serious of 2D metal oxides and hydroxides nanosheets via a molten salts method  [117] ,  as  shown  in  Fig.  5 (c).  The  synthesize  of  2D  ce- ramic  nanosheets  or  their  quasi-2D  nanoﬂakes  mainly  relied  on this method, such as NN, NBBT, BT and SBT, CNO et al. The ma- jor problem of the molten salt synthesized 2D ceramics is the dif- ﬁculty of controllable thickness, further exfoliation is required to obtain mono- or few-layered 2D nanosheets. 
+
+3. Electrical relevant properties of 2D nanosheets ﬁlled 
+
+
+3. Electrical relevant properties of 2D nanosheets ﬁlled polymer composites 
+
+Polymer-based materials play a key role in advanced electronic devices and electric power systems [ 12 , 124 ]. Electrical-related per- formances,  such  as  insulation,  dielectric  properties  and  ﬁnally energy  storage  performances  of  polymers  would  be  implausibly changed with incorporating some 2D nanosheets. 
+
+3.1. Breakdown properties 
+
+
+Polymers stand out particularly as incomparable materials for many electrical insulation and energy storage applications owing to their high dielectric strength, high voltage endurance, low di- electric loss, low equivalent series resistance, and a gradual failure mechanism [ 125 , 126 ]. Extensive research has been devoted to im- prove the insulation properties of polymers in terms of achieving good reliability under high voltages. The electrical breakdown of polymers can be demarcated according to time dependency [126] , as shown in Fig. 6 . 
+
+Short  term  breakdown  refers  to  the  failure  of  polymer  thin ﬁlms at external electrical ﬁeld, which lasts only seconds or less. According to the time scale, short term breakdown of polymers can 
+
+be divided as electrical breakdown, thermal breakdown as well as electro-mechanical  breakdown  [127] .  Electrical  breakdown  is  the result  of  electron  avalanche  in  materials  at  low  temperature.  As heat  generated  from  dielectric  loss  and  accumulated  joule  heat- ing exceeds the thermal dissipating capacity of polymers, thermal breakdown will take place. Therefore, increasing thermal conduc- tivity of polymers is of vital importance in mitigating their ther- mal breakdown. Electro-mechanical breakdown is the deformation or fracture of materials, which is closely related to the mechanical performances ( e.g. Young’s Modulus) of them. For the progress last longer than minutes, which is called long-term breakdown, often refers to the degradation of large-scale or thick polymers working at high-voltage conditions. The long-term breakdown is usually re- lated to partial discharge, electrical trees, and water trees in mate- rials [128] . 
+
+The short-term breakdown of polymers is a complex progress dependent  on  the  sample  thickness,  voltage  frequency  and  con- trol, electrode geometry and contact, ambient medium, tempera- ture and humidity [12] . Excellent short term breakdown strength ( E b ) is one of the most intrinsic and desirable properties of poly- mers,  which  plays  signiﬁcant  role  in  most  electric  power  appli- cations and dominates the design rules of polymers [ 1 , 12 , 32 , 57 ]. Recently, more electric power application requires higher voltage stress, thinner insulation, and higher working temperature, which poses  stringent  requirements  for  polymers  to  possess  higher  E b . Natural advantages of high aspect-radio and few aggregations turn insulating 2D nanosheets into the innovative candidate for enhanc- ing E b  of polymers, due to the risk of high loading is minimized [ 128 , 129 ]. Actually, it is easy for 2D ﬁllers to orientate parallel with the surface of the composites even after the straightforward ad- dition, especially for the nanocomposites prepared via tap-casting and  hot-pressing  methods.  As  a  result,  the  homogeneously  dis- persed insulating 2D nanosheets in the composites act as blocks to rise energy barriers, prevent the charge carrier injection and move- ment [57] . 
+
+Fig. 7 (a) shows the ﬁnite element simulated electric ﬁeld distri- 2 . bution of PVDF-HFP composites containing different shaped TiO A much more uniform electric ﬁled distribution is obtained in the composites ﬁlled with TiO 2 nanosheets, especially at the top sur- face, which is because the charge injection from electrode is highly suppressed by the nanosheets [116] . In this point, subsequent work provides more detailed information. The breakdown phase evolu- 
+
+Fig. 7.  (a) Schematic illustration of electric ﬁeld distribution of nanocomposites with 5 wt% of 0D, 1D, and 2D TiO 2 nanoﬁller. [116] , Copyright 2018. Reproduced with permission from American Chemical Society. Simulations of the effects of microstructure on breakdown of nanocomposites with ﬁller fraction of 10 vol%. (b) The morphology of breakdown phase in the polymer nanocomposites with different microstructures; (c) Evolution of the breakdown phase fraction with the electric ﬁeld; (d) Extracted values of breakdown strength for different nanocom posites. The nanoﬁber has a height/radius ratio of 20 and the nanosheets length scale is 1: 6: 6. [130] , Copyright 2017. Reproduced with permission from John Wiley & Sons Inc. 
+
+3  with various shapes (0D, 1D and 2D) and different aligned directions (vertical and parallel) are per- formed in Fig. 7 (b) (S0-S5). Simulated results in Fig. 7 (c)(d) identi- ﬁed that the excellent breakdown-bearing capacity of the compos- ite with parallel nanosheets (S5). The nanosheets endow the elec- tric ﬁeld much dispersed, as such the growth of breakdown phase is hindered and achieve a high breakdown strength [130] . Similarly, 2  nanosheets has Ji [123] et al. demonstrated that adding Ni(OH) outstanding advantages in improving E b  of PVDF compared with adding 0D or 3D ﬂower-like ﬁllers at consistent ﬁller loading. In addition to the ﬁller shape, the alignment of 2D nanosheets is an- other key factor, which will be following discussed. 
+
+b ,  the  insulating  2D  nanosheets  with wide bandgap reveal preeminent advantages. These 2D nanosheets present themselves as eﬃcient scattering centers for charge car- rier  during  the  breakdown  process,  charge  accumulation  in  the composites  could  be  further  impeded.  In  early  decades,  a  natu- rally abundant and commercially available kind of clay nanosheets, montmorillonite (MMT), is commonly used to improve E b of poly- mers  [131] .  Recently  h -BNNS  are  frequently  used  and  the  effect of h -BNNS on enhancing E b  of various polymers has been inves- tigated  in  detail.  h -BNNS  have  been  demonstrated  ease  to  dis- perse homogeneously in polar polymers ( e.g. ﬂuoropolymers and 
+
+their biopolymers) since the strong interactions between the sur- face with rich polar BN-bonds and the matrices. Li et al. [132] re- b of P(VDF-TrFE-CTFE) terpolymer ﬁlled with 12 wt% ported that E ultra-thin h -BNNS reaches 610 MV m −1 , which is 70% higher com- pared with that of the pristine terpolymer (i.e. 362 MV m −1 ). The robust  h -BNNS  scaffold  within  polymer  matrix  hampers  the  on- set of electromechanical failure. Meanwhile, the increased β value indicates the excellent reliability of the h -BNNS-ﬁlled composites. In the work of Peng et al. [133] , E b  of the PVDF-based compos- ites  increased  after  incorporating  h -BNNS  (lateral  sizes  of  200– 400  nm  and  thickness  of  about  2  nm),  and  got  a  maximum  E b value  of  486  MV  m −1  (54%  higher  than  neat  PVDF)  at  h -BNNS loading of 8 wt%. The parallel orientation of h -BNNS during solu- tion casting process lead the nanosheets to barrier against applied electric ﬁeld. Furthermore, the surface modiﬁcation of h -BNNS fa- vors promoting the compatibility between polymers and h -BNNS to attain superior insulating performances, especially for the poly- mers with low or without polarization [ 33 , 134 , 135 ].Unfortunately, E b of polymers ﬁlled with insulating 2D nanosheets would be de- graded as they start aggregating in polymeric matrix due to the structural  defects  were  introduced  [1] .  Therefore,  excellent  E b  of polymers  relays  to  a  large  extent  on  the  appropriate  loading  of 2D nanosheets. 
+
+Fig. 8.  (a) DC conductivity of graphene/LDPE nanocomposites as a function of polarization time under 10 kV mm −1 graphene/LDPE nanocomposites. PEA measured space charge behaviors in (c) neat LDPE and (d) 0.005 wt% graphene/LDPE under 50 kV mm −1 . 
+
+Engineering  the  arrangement  of  2D  nanosheets  could  further increase E b of the polymer-based composites, as shown in Fig. 7 (b- d). The breakdown is easy to occur as the nanosheets dispersed along  the  electric  ﬁeld  direction  in  the  composites  due  to  the electric ﬁeld is further concentrated within the composites. While aligning  2D  nanosheets  perpendicular  to  the  electric  ﬁeld  con- tributes to disperse the electric ﬁeld in the composites, ﬁnally en- b  of  polymers.  Li  and  the  co-workers  [131]  proved  that hance  E the incorporation of aligned MMT nanoplatelets provides an inde- pendent and complementary contribution to breakdown strength of  LLDPE/LDPE  blends.  It  was  found  that  the  aligned  2D  MMT and polymer crystal provide superimposed E b enhancement for the stretched  blown  polymer  blends.  Introducing  aligned  h -BNNS  in PVDF matrix eﬃciently suppressed the leakage current density in the composites, consequently an ultrahigh E b  (612 MV/m) of the composites is acquired by Zhu et al. [136] . 
+
+b  of  polymers  is  ﬁlling  conduc- tive  ﬁllers  into  polymers  owing  to  the  formation  of  conducting- insulating interfaces, which is called traps. These traps could resist the charge transport in polymers, thus enhance E b of the compos- ites. As a kind of electric conductive 2D nanosheets, the addition of 0.005 wt% graphene facilitated reducing σ DC and lifting E b of LDPE, as shown in Fig. 8 (a)(b). According to the PEA results in Fig. 8 (c)(d), space charge accumulation in the 0.005 wt% graphene/LDPE is ob- viously suppressed owing to the large quantities of deep traps, ac- tually the ﬁller-matrix interfaces [137] . 
+
+In  this  scenario,  just  extreme  low  ﬁller  loading  is  required owing  to  the  percolating  of  conductive  2D  nanoﬁllers  is  easily achieved. However, E b  of most composites containing conductive 2D nanosheets is inevitably deteriorated contributed to the excess ﬁller loading is required in realizing multifunction of polymer com- posites, such as thermal conductive or EMI shielding. In this case, surface coating technology, multilayer-structure design with differ- 
+
+ent  conductive  2D  nanosheets  loading  or  fabricating  multiphase composites with another insulating 2D nanosheets could be used to avoid the immense decrease of polymers E b , which will be dis- cussed in the following section. 
+
+The long-term breakdown of polymer dielectrics is highly rele- vant with partial discharge (PD), including internal, surface, as well as corona PD [126] . Various PD will rise the electric stress, which causes  erosion,  pitting,  space  charge  buildup,  forming  electrical tree in polymers and ﬁnally breakdown [ 138 , 139 ]. Actually, the for- mation of electrical treeing is the primary origin of the long-term breakdown [ 125 , 140 ]. The long-term breakdown behaviors are as- sociated  with  many  factors,  such  as  electrical  stress  conditions, chemical structures, and their application environment [128] . The electrical trees are interconnected channels ﬁlled with gas, which are strongly related to the existence of defects in the insulation. For the polymer-based composites, nanoﬁllers may act as elemen- tary barriers and endow the materials with dense overall structure. Ideally, homogeneous dispersion of nanoﬁllers is of signiﬁcance in enhancing long term breakdown, which means ﬁller aggregations must be avoided in the composites. 
+
+Owing  to  the  large  aspect  radio  and  less  aggregation  of  2D nanosheets, the introduced ﬁllers could serve as barriers to pre- vent penetrating of electrical trees. The electrical tree morphology of LDPE and its composites after applied AC voltage (7 kV) for 1 h. The electrical tree in LDPE is a typical branched structure, and the new trees on the main channel are sparse, as shown in Fig. 9 (a). For the composites ﬁlled with 2D MMT, the development of the electrical tree is obviously inhibited in both longitudinal and hor- izontal  directions,  as  shown  in  Fig.  9 (b).  Meanwhile,  the  electri- cal tree growing rate is also mitigated after introducing 2D MMT, which facilitates prolonging the lifetime of polymers [141] . In ad- 
+
+dition, the 2D nanosheets ( e.g. mica and MMT) are highly effective in preventing the chemical bonds decomposition of polymers dur- ing corona aging, which is due to the 2D nanosheets blocked off corona PD and reduced internal erosion of polymers [142–144] . 
+
+3.2. High dielectric constant 
+
+
+Towards multifunction, high relative dielectric constant ( εr ) of polymer-based materials is urgently required in applications such as energy storage or EMI shielding. Unfortunately, low εr of poly- mers could rarely withstand the demands of practical applications, especially for the engineering polymers. Incorporating nanoﬁllers with high σ or high εr enables εr of polymers to increase dramat- ically origin from different mechanisms, mainly including percolat- ing and Effective Medium Theory (EMT). 
+
+Introducing conductive ﬁllers into polymers could tremendously increase their dielectric constant according to the rationale of per- colating or the formation of micro-capacitors in the matrix [145] . 
+
+At the percolation threshold, insulator-metal transition happens since the continuous networks are formed within the composites, εr of the composites can be given by power law as Eq. (3 - 1 ) [146] : 
+
+ε r ∝ ε m ( f c − f ) where εm  is  the  dielectric  constant  of  the  polymer  matrix,  f c  is the volume fraction of conductive ﬁllers, f is the volume fraction at percolation threshold, s is the corresponding critical exponent. Additionally,  the  percolation  threshold  depends  on  the  shape  of conductive  ﬁllers  [129] .  The  high  aspect  ratios  of  conductive  2D nanosheets  ( e.g.  metal  ﬂakes,  graphene  and  MXene  et  al.),  mak- ing  them  proper  candidates  for  fabricating  these  polymer-based percolating  systems.  Generally,  low  ﬁller  loading  is  needed  for reaching the percolation in polymer nanocomposites and aggrega- tion could be naturally avoided, which is beneﬁt to attain high εr of nanocomposites. For example, εr  of 2D zinc ﬂakes (ZFs) ﬁlled PVDF-based  composites  is  always  higher  than  0D  zinc  particles ﬁlled ones, until the ﬁller loading reached 26 vol% [147] . Mean- while, the polyimide containing 2D silver nanosheets also present high εr compared with the pristine matrix [148] . 
+
+Taking advantages of the outstanding electrical performances of graphene, dielectric performances of graphene ﬁlled polymers have 
+
+3 C 
+
+
+2 T 
+
+
+been  extensively  investigated.  Owing  to  their  2D  structural  and tremendous conductivity, graphene ﬁlled polymer-based compos- ites could approach the percolation at extremely low ﬁller loading [ 149 , 150 ], thereby generate ultra-high εr . In addition to the forma- tion  of  percolating,  the  free  charge  accumulation  at  ﬁller-matrix interfaces  further  improves  εr  of  the  composites  near  the  2D nanosheets percolation threshold on the basis of Maxwell-Wagner- Sillars (MWS) effect [151] . Therefore, the conductive 2D nanosheets with fruitful surface groups ( e.g. rGO and MXene) are used as εr reinforcements for polar polymers, which is due to the hydrogen bonds formed among ﬁller and polymer chains further enhanced interfacial  polarization  of  the  composites.  Ti X  nanosheets  is a kind of  group-rich inorganic compounds among MXene family with high electrical conductivity. The abundant functional groups X surface help the construction of strong (-OH, -F or -O) on Ti 3 C dipoles at the ﬁller-matrix interfacial region when Ti X is uti- lize as ﬁllers in polymers. As results, εr of the Ti X -ﬁlled com- 2 T posites is increased owing to the enhanced interface polarization. A large εr enhancement (about 230%) of PVDF is reported after 2 wt% 
+
+2 is another typical semi-conductive 
+
+
+nanosheets  with  high  electrochemical  activity.  Nandi  [153]  exfo- 2  via the simplest method with the assist of NMP liate bulk MoS 2 nanosheets. The εr of PVDF-based composites in- to get the MoS creased to 587 at 10 2 Hz at MoS 2  nanosheets loading of 10 wt%, which is attributed to the interfacial polarization along with the formation of nanocapacitor network. The MoS 2 /chitin composites present high εr due to similar reason [154] . 
+
+3 C 
+
+
+3 C 
+
+
+3 C 
+
+
+3 C 
+
+
+2 T 
+
+
+2 T 
+
+
+2 T 
+
+
+2 T 
+
+
+Furthermore,  the  orientation  of  2D  nanosheets  also  generate great inﬂuence on dielectric performances of the percolating sys- tems [ 151 , 155 ]. For the spin-coated rGO/PVDF-HFP composites, the nanosheets realized well-alignment in the parallel direction [155] . The εr is comparatively higher for the aligned rGO ﬁlled compos- ites versus that drop-casted ones, which origins from the increased percolation threshold and the enhanced MWS interfacial polariza- tion. For example, as rGO loading is 2.1 vol%, the εr of composites with highly-aligned rGO is 825 at 10 3 Hz, while εr of the compos- ite ﬁlled with random dispersed rGO is 322. Meanwhile, the high orientation of rGO lead to fewer conductive paths between neigh- boring layers, therefore Tan δ of the spin-coated composites is dra- matically lower than that of drop-cased counterparts. 
+
+Unfortunately,  for  almost  all  the  conductive  2D  nanosheets ﬁlled polymers, large dielectric loss (Tan δ) is always accompanied b . The high Tan δ of the com- with high εr , as well as decreased E 
+
+posites arising from 2D nanosheets percolating is objectionable in some  applications  such  as  energy  storage,  whereas  the  speciﬁc property  along  with  increased  σ accelerate  EMI  shielding  effec- tivenes of polymers. The details will be discussed in Chapter 5. 
+
+In  the  other  demonstration  system,  ceramics  with  high  εr  is adopted  as  ﬁllers  according  to  Effective  Medium  Theory  (EMT) [ 1 , 156 , 157 ]. Eq. (3 - 2 ) describes the EMT model used for predicting εr of the ceramics ﬁlled polymer composites, where η is a shape factor related to the morphology of ceramic ﬁllers [158] . (cid:3) 
+
+For traditional ferroelectric ceramic 0D nanoparticles, extremely high loading ( e.g. > 50 vol%) is always required to realize εr  en- hancement  at  the  expense  of  polymers  mechanical  and  ﬂexible performances  [156] .  Adding  2D  nanosheets  with  high  εr  favors realize  enhanced  polymer  εr  without  sacriﬁcing  their  ﬂexibility since lower  ﬁller loading is  needed.  Simultaneously,  Tan δ of  the 2D nanosheets ﬁlled composites will be kept in a low level due to the reduced ﬁller surface energy and decreased ﬁller agglomera- tion in these composites [159] . Limited by the commercial avail- ability  and  fabrication  diﬃculties,  most  of  ferroelectric  ceramics with outstanding dielectric performances cannot be obtained in 2D scale [31] . Recently, some progresses have been achieved in prepar- ing 2D ferroelectric ceramic nanosheets or their quasi-2D counter- parts (such as 2D platelets or plates), following applied in polymer science. 
+
+As  a  kind  of  widely  used  ferroelectric  ceramic,  BaTiO 3  (BT) nanoplates  have  been  successfully  prepared.  In  Wen’s  work,  εr of  the  quenched  PVDF  sample  containing  9  wt%  BT  nanoplates reached  to  14.96,  while  Tan δ is  0.054  at  10 2  Hz  [159] .  NaNbO 3 (NN) nanoplates is a kind of excellent ferroelectric ceramic with high εr ( ≈300 at 10 3 Hz), which is used as dielectric ﬁller to mod- ify PVDF. The εr enhancement of NN-ﬁlled PVDF exceeds 100% at NN loading of 13 vol%, meanwhile, dielectric loss of the composites remains at a low level [160] . Besides, a serious of 2D ferroelectric ceramic nanosheets or nanoplates, such as CNO [101] , BST [161] , NBBT [162] and SBT [163] are also used to lift εr of PVDF. Consid- ering the relatively confused preparation of ferroelectric ceramics, single metal oxide ceramic nanosheets can be easier fabricated via simple hydrothermal reaction (See Section 2.3 ). Some metal oxides nanosheets with high εr , such as TiO 3 [58] , have been used as dielectric ﬁllers to enhance εr of polymers. 
+
+2 O 
+
+
+Numerous  interfacial  regions  would  be  inevitably  formed  in the composites with introducing nanoﬁllers into polymer matrixes, which  could  cause  signiﬁcant  effects  on  their  dielectric  proper- ties. To understand the important effect of interface on dielectric performance of polymer composites, Lewis’s model and Tanaka’s model are generally used. 
+
+The  Lewis’s  model  thought  the  interfacial  regions  could  be charged since the Fermi levels or chemical potential differences be- tween ﬁller and matrix [164] . Consequently, the matrix responds by  developing  counter  charges  near  the  ﬁller-matrix  interfaces [165] . The charged nanoﬁllers causes redistribution of charges in the  matrix  attributed  to  the  Coulomb  attraction,  which  results in  formation  of  an  electrical  double  layer  consisting  of  a  Stern layer  and  a  Gouy-Chapman  diffused  layer  [166] .  The  Stern  layer or Helmholtz double layer is formed on the nanoparticle surface due to the adsorption of counterions. The diffused layer is formed around the Stern layer by the distribution of negative and positive ions. This layer determines the dielectric properties of the polymer nanocomposites and becomes more predominant near percolation 
+
+threshold of the ﬁller. The dependence of electrical potential dis- tribution around nanoﬁllers on the distance from ﬁller surface can be represent by Eq. (3 - 3 ) [167] . ∇ 2 ψ (r) = −e ε 
+
+where ψ ( r ) is the potential distribution function that varies with distance, r , from the surface of the nanoparticle, ε is the dielectric constant of the medium, k is the Boltzmann constant, and z i and i ( ∞ ) are the valency and concentration of ion species i in the bulk 
+
+Tanaka et al. [168] proposed another theoretical model and this model suggests the interfaces in polymer composites are composed by  three  regions,  including  bonded  layer,  bound  layer  and  loose layer depending on the distance from nanoﬁller. The inner layer is called the bonded layer with the thickness of ∼1 nm, which is strongly bonded to both ﬁller and polymer matrix through various bonds, such as van der Waals force, hydrogen bonds, ionic or co- valent bonds. The middle layer is the bound layer with thickness of ∼2–9 nm, in which polymer chains are strongly interacted with the inner layer or nanoﬁller surface. The outer layer, namely, the loose layer, which is loosely coupled with the middle layer. In the loose layer, polymer chain conformation, mobility, free volume, and crystallinity have been proved to be quite different from those in the matrix [1] . In the region of inner layer, the dipole orientation of the polar radicals is suppressed. Meanwhile, the free volume would be undeniably reduced in the outer layer. These two factors both restrict dielectric constant enhancement of the polymer compos- ites. According to the Tanaka’s model, proper surface treatment of the nanoﬁllers beneﬁt to enhance dielectric performances of the polymer composites. 
+
+3.3. Energy storage performances 
+
+
+With the increasing energy demand and fossil fuels depletion, energy  harvesting  and  storage  became  a  worldwide  issue.  Con- sequently,  dielectric  capacitors  are  widely  used  in  modern  elec- tronics and electrical industry, such as power transmission, wind power  generation,  high  power  weapons,  hybrid  electric  vehicles, radar and microelectronic systems [ 12 , 33 , 169 ], as summarized in Fig. 10 (a). Commercially dielectric capacitors are mainly made of polymers or ceramics. Polymer-based dielectric capacitors attracted increasing  attentions  taking  advantages  their  high  E b ,  mechani- cal  ﬂexibility,  low  density,  ease  of  processing  and  low  cost.  The paramount  component  of  typical  dielectric  capacitors  is  the  in- ternal dielectric layer between electrodes. As electric ﬁeld is ap- plied  on  the  capacitors,  charging  process  take  place  attribute  to the  electric  polarization  induced  by  the  charge  accumulation  on the electrodes, as shown in Fig. 10 (b). The discharge process oc- curs as the applied electric ﬁeld is removed, the charge/discharge behavior of the dielectric capacitors can be determined by the elec- tric displacement-electric ﬁeld ( D - E ) loops, as shown in Fig. 10 (c). Meanwhile, the discharged energy density ( U e ) of dielectrics can be calculated via integrating the effective area between the discharg- ing curve and the displacement axis as Eq. (3 - 4 ) [170] : 
+
+where E is the applied electric ﬁeld, D is the electric displacement, P is the polarization, ε0 = 8.85 × 10 −12 F m −1 is the dielectric con- stant of vacuum. D max and D r are the maximum and remnant elec- tric displacement corresponding to the maximum and remnant po- larization ( P max and P r ). 
+
+The maximum energy density is principally determined by the dielectric properties involving εr and E b , which have been respec- tively discussed. This section gives an overview of the novel energy 
+
+Fig. 10.  (a) The worldwide emerging applications of dielectric capacitors, (b) schematic illustrations of a unpolarized and polarized dielectric capacitor, (c) D - E loop of the dielectrics. 
+
+storage performances of polymer-based composites via ﬁlling vari- ous 2D nanosheets, as well as the generally used techniques. 
+
+The  incorporation  of  electric  conductive  2D  nanosheets  could generate large polarization of polymer-based composites. Unfortu- nately,  the  improved  electric  polarization  of  the  composites  was b  and the increase of Tan δ, achieved at the cost of reduction of E which  cannot  meet  requirements  of  energy  storage  applications at  high  electric  ﬁeld.  However,  some  conductive  2D  nanosheets ﬁlled  polymers  are  still  attractable  as  energy  storage  materials at relatively low electric ﬁelds. For example, at a proper MXene nanosheets loading, PVDF-based composites show lightly enhanced U e  while maintain high eﬃciency of polymer matrix [171] . Some ceramic 2D nanosheets are reported to act as heterogeneous nu- cleation for semi-crystallin polymers to decrease the crystallin size of them, ﬁnally reduce the ferroelectric loss, which is desirable in enhancing U e of them [160] . However, the signiﬁcant εr or σ mis- match between the ceramic 2D nanosheets and the matrix always generate  large  leakage  current  at  ﬁller-matrix  interfacial  regions, ﬁnally decrease E b  of the composites, making them unsuitable in energy storage applications. 
+
+As aforementioned, introducing h -BNNS with excellent insulat- ing  performance  and  mechanical  performance  could  signiﬁcantly increase  E b  of  polymer-based  composites,  thereby  enhance  their U e .  For  example,  h -BNNS  (2 nm  thickness  and 20 0–40 0 nm  lat- eral  sizes)  were  used  as  ﬁllers  to  fabricate  PVDF-based  compos- ites.  The  sample  with  optimal  h -BNNS  loading  shows  almost  a b compared with the pure PVDF, 100% enhancement in U e at its E which beneﬁts from the promoted E b [133] . Zhang et al. prepared PVDF-CTFE-based composites ﬁlled with aligned h -BNNS via uniax- b of the compos- ial stretching. The paralleled h -BNNS yield high E ites, and the increased β-phase concentration of the composites induced by stretching enhanced their polarizations. These factors contribute to generate a high U e  of the stressed ﬁlms [172] . Ad- mitting the fact that incorporating h -BNNS is of crucial importance b of polymers, low εr of in alleviating conduction loss and lifting E 
+
+h -BNNS (about 3 ∼4) made the relevant composites suffer from de- creased polarization, which as a result, precluding the substantial gain in U e and hindering the further application of h -BNNS in en- ergy storage. 
+
+In a word, direct disperse unmodiﬁed 2D nanosheets into poly- mers could rarely induce dramatical improvement of their energy storage performances. Therefore, surface design of 2D nanosheets, multilayer design or multiphase design of polymer composites is strongly recommended in addressing this issue. 
+
+2 O 
+
+
+3 shell eﬃciently reduces 
+
+
+Constructing coating structure on 2D nanosheets surface could realize optimal dielectric properties of them [33] . In a represen- tative  core-shell  system,  the  core  2D  nanosheet  with  high  εr  is coated  by  organic  or  inorganic  layer/shell  which  possesses  low εr .  The  gradient  varied  εr  of  coated  nanosheets  make  the  elec- tric  ﬁeld  distribute  homogeneously  and  suppressed  the  leakage current at ﬁller-matrix interfaces, leading to high E b  of the com- posites.  The  amorphous  Al 3  layer  is  successfully  coated  onto 2D NN (NN@AO) nanoplates, as shown in Fig. 11 (a). The NN@AO nanoplates  ﬁlled  PVDF-HFP  possess  higher  εr  and  lower  Tan δ, could endure a higher applied electric ﬁeld than the composites ﬁlled with NN nanoplates, as presented in Fig. 11 (b)(c). This is due to the fact that the highly insulating Al 3 shell eﬃciently reduces the MWS effect and space charge polarization in the composite, obstructs the current channels generated by the interfacial charge 3  layer facilitates alleviating carriers as well. Meanwhile, the Al the electric ﬁeld concentration since their εr ( ∼11) is much closer to  the  polymer  matrix  ( ∼9.76)  than  that  of  2D  NN  nanoplates. Therefore,  the  coating  layer  acts  as  a  buffer  layer  between  the high εr 2D NN nanoplates and the polymer matrix. As a result, the NN@AO nanoplates ﬁlled composite simultaneously possesses large U e (14.59 J cm −3 ) and high η (70.1%) [173] , as shown in Fig. 11 (d). Bao et al. [101] coated positively charged organic PEI layer on the  negatively  charged  CNO  nanosheets  surface  (CNO@PEI)  and used as dielectric ﬁllers for PVDF. High εr of CNO@PEI provides en- hanced polarization of the composites, while the leakage current 
+
+2 O 
+
+
+2 O 
+
+
+Fig. 11.  (a) Schematic for the preparation of 2D NN@AO Ps and their TEM elemental mappings, (b) εr and Tan δ at 10 3 Hz (c) breakdown strength of the PVDF-HFP composites with NN and NN@AO Ps, (d) U e dependence of the applied electric ﬁeld of pure P(VDF-HFP) and nanocomposite with different contents of 2D NN@AO Ps. [173] , Copyright 2019. Reproduced with permission from the Royal Society of Chemistry. 
+
+density maintains at a low level of about 10 −7 A cm −2 at 50 MV m −1 . Importantly, the generated reversed local electric ﬁeld in the sandwich structure CNO@PEI could suppress charge movement to- wards them, which is beneﬁt to prevent the growth of breakdown paths, as shown in Fig. 12 (a). E b  of the composites gradually en- hanced to 792 MV m −1 at CNO@PEI loading of 0.9 wt% nanosheets. Eventually,  the  composites  show  ultrahigh  U e  of  36.2  J  cm −3  at corresponding E b ( Fig. 12 (b)(c)), which is double compared to that of pure PVDF. Meanwhile, the composite shows a high η of 61.2% even at high electric ﬁeld. Similar results have been also obtained in the 2D CNO@PEI nanosheets reinforced PS-based composites. 
+
+2 O 
+
+
+2 Te 
+
+
+2 Te 
+
+
+2 O 
+
+
+2 Te 
+
+
+3  nanosheets  coated  with  SiO 
+
+2 Te 
+
+
+2 Te 
+
+
+3 )  were  employed  as 2 Te dielectric  ﬁllers  for  PVDF-HFP  and  PVDF,  respectively  [ 174 , 175 ]. As  shown  in  Fig.  13 (a-f),  the  Tan δ of  the  composites  ﬁlled with  core-shell  Bi b  downward 2 Te trend  is  hindered  compared  with  the  counterparts  ﬁlling  Bi 3 nanosheets.  The  highly  insulating  inorganic  shell-layer  inhibited charge  carriers  moving  among  2D  Bi 3  nanosheets  and  poly- mer  matrix,  signiﬁcantly  lowered  local  electric  ﬁeld  strength  in the  composites,  as  the  simulated  results  shown  in  Fig.  13 (g)(h). Unfortunately,  the  authors  did  not  measure  the  energy  storage performances of the composites. 
+
+2 Te 
+
+
+Compared  with  the  complicated  interfacial  engineering  tech- nics,  tailoring  2D  nanosheets  ﬁlled  polymers  into  multilayer  ar- chitecture is another effective route to enhance their energy stor- age performances, which is due to the high εr  and improved E b of  the  composites  could  be  simultaneously  achieved  via  adjust- ing the 2D nanosheets loading in each layer. Pan et al. [160] used NN-ﬁlled PVDF composites as outer-layer and pure PVDF as mid- dle layer to prepare the sandwich-structural composite ﬁlms. Com- pared with the single-layer composites, obvious electric ﬁeld redis- tribution can be seen in the trilayered counterparts and the middle layer undertakes higher electric ﬁeld, as illustrated in Fig. 14 (a). In addition, the development of electric ﬁeld channels is eﬃciently prevented by the middle pristine PVDF. Therefore, the trilayer ar- chitecture endows the composites with a higher electric ﬁeld toler- ating capacity. At the same time, the trilayered architecture signif- icantly suppressed the leakage current density in the composites, 
+
+as shown in Fig. 14 (b). Despite the εr enhancement is not as ap- parent as single-layered composites at same condition since low εr of middle layer, the trilayered samples achieve a suitable balance between the εr , Tan δ and E b . As a result, U e of the composites in- creased to 13.5 J cm −3 at 400 MV m −1 as the NN loading in outer- layer is 5 vol%, (see Fig. 14 (c)). Moreover, the trilayered compos- ites display an ultrafast discharge speed of 0.127 μs and superior power density of 2.68 MW cm −3 , as shown in Fig. 14 (d) and (e). Recently, SBT nanosheets ﬁlled PVDF is utilized as middle layer and pure PVDF as outer layer to construct a trilayered composites, see the SEM image in Fig. 14 (f). High polarization and high E b makes the maximum U e  of the trilayered architecture nanocomposite to reach 11.69 J cm −3 along with an excellent η of 78.95% at SBT load- ing of 5 vol%, as listed in Fig. 14 (g). Finite element simulation of the composites is used to investigate the electric ﬁeld distribution in the composites and reveal the effect of multilayer structure, as shown in Fig. 14 (h). Compared with the pristine PVDF outer layer, the middle layer ﬁlled with SBT nanosheets possesses higher εr , which causes the electric ﬁeld redistribution inside the compos- ites. The improved E b of the trilayered sample is attributed to the low electric ﬁeld distributed in the intermediate layer, thereby a high U e of the composites is achieved [163] . 
+
+The  sample layer-by-layer solution-casting method  is  adopted to insert an assembled h -BNNS layer into PVDF matrix by Huang et al. [136] ( Fig. 15 (a)), the h -BNNS are compact paralleled with the ﬁlm surface, as shown in Fig. 15 (b). It can be clearly seen in the simulated results, Fig. 15 (c)(d), in the composite with h -BNNS interlayer, the restriction effect of h -BNNS on the electrical tree is much obvious than the one with random dispersed h -BNNS. Hence, b of 612 kV mm −1 . The re- the PBP3 composite possesses a high E sults in Fig. 15 (e) show that P r of the composites all lies below 0.01 C m −2 within a wide range of applied electric ﬁeld with thickness of h -BNNS layer increases from 100 to 400 nm, which indicating the leakage current is well suppressed. Therefore, the maximum U e  of the PBP3 composites reached 14.3 J cm −3  along with high η of 73% at ultralow h -BNNS loading, which is actually only 0.16 vol%, as shown in Fig. 15 (f). 
+
+Importantly,  the  multilayer-design  of  polymer-based  compos- ites  tremendously  broadened  the  application  of  conductive  2D nanosheets in energy storage. For example, Feng et al. [152] de- signed a gradient trilayered composites ﬁlled with the conductive 
+
+Fig. 12.  (a) Phase-ﬁeld simulations for the breakdown phase evolution of (1–4) the pristine PVDF, (5–8) the composites with ENN@SFT, and (9–12) the composites with CNO@PEI; Distributions of the local electric ﬁeld at the regions adjacent to (13) the ENN and (14) the CNO_NSs; Regions I and III refer to the ranges of two surface layers, and Region II refers to the range of the ENN or CNO nanosheets. (b) CNO nanosheet weight fraction dependence of E b and the corresponding maximum U e . (c) Comparisons of E b and the corresponding maximum U e of PVDF-based composites. [101] , Copyright 2020. Reproduced with permission from John Wiley & Sons Inc. 
+
+3 C 
+
+
+3 C 
+
+
+2 T x MXene nanosheets. Owing to the high polarization and E 
+
+
+2 T x MXene nanosheets. Owing to the high polarization and E 
+
+2 T x  ﬁlled single-layered one, the 
+
+
+of  the  gradient  composite,  high  U e  of  12.49  J  cm −3  and  high η of  64.39%  is  observed  at  its  E b ,  as  shown  in  Fig.  16 (a-d).  Actu- ally, the average loading level of the trilayered composite is ap- proached to that of 1 vol% Ti 2 T x  ﬁlled single-layered one, the rationale of the high polarization is vividly investigated, as shown in Fig. 16 (e). In brief, high interface adhesion, strong MWS polar- ization and the formation of substantial micro-capacitors co-work to contribute the high polarization. Meanwhile, the dielectric per- formance differences between sub-layers redistribute the electric b .  Con- ﬁeld  in  the  gradient  sample,  which  promotes  rising  its  E sequently,  desirable  energy  storage  performances  of  the  conduc- tive MXene nanosheets ﬁlled composites is realized via multilayer structure design, which cannot be anticipated in the single-layered ones. 
+
+To resolve the contradiction between high polarization and high E b  of  polymer-based  composites,  an  emerging  strategy  of  ﬁlling multiphases ﬁllers is further put forward on the basis of combin- ing various properties of different phase ( e.g. different dimension, 
+
+different ﬁller). In this approach, the role of 2D nanosheets is vi- tally important in enhancing energy storage performances of poly- mers,  but  not  limited  to  ( e.g.  multiphase  consisted  of  0D  or  1D ﬁllers) [ 1 , 12 ]. In this review, the main focus will be settled on the polymer-based composites reinforced by multiphase systems con- taining 2D nanosheets. 
+
+In  this  scenario,  adding  the  proper  third  phase  into  the  bi- nary  polymer-based  composites  with  conductive  2D  nanosheets is  one  of  the  generally  used  strategy.  The  primary  third  phase ﬁller and advantages are summarized in Fig. 17 (a). For example, in the BT-NPs/MXene/PVDF composites, the remarkably increased interface types and enhanced interface polarization facilitates im- proving  their  εr .  The  ﬁnely  retained  high  interface  compatibil- ity and ﬁller dispersion restricted the dramatically increased Tan δ and decreased E b of the composites [176] . The energy storage per- formance  of  the  multiphase  composites  is  thereby  enhanced,  as shown in Fig. 17 (b). Relatively high εr and E b of the BN/Ag/PVDF- HFP composites is also achieved, suggesting the potential applica- tion of those multiphase composites in energy storage [49] . 
+
+Another  typical  strategy  is  incorporating  third  phase  into  bi- nary  composites  containing  insulating  2D  nanosheets.  Owing  to 
+
+Fig.  13.  Frequency  dependence  of  (a)  εr  and  (b)  Tan δ for  pristine  PVDF  and  Bi 2 Te 3 @Al 2 O 3 /PVDF  composites  at  room  temperature,  (c)  E b  of  Bi 2 Te 3 /PVDF  and Bi 2 Te 3 @Al 2 O 3 /PVDF composites. [174] , Copyright 2018. Reproduced with permission from the Royal Society of Chemistry. (d) εr and (e) Tan δ of Bi 2 Te 3 @SiO 2 /P(VDF-HFP) and Bi 2 Te 3 /P(VDF-HFP) composites with different ﬁller loading at 10 3 Hz, (f) E b of Bi 2 Te 3 @SiO 2 /P(VDF-HFP) and Bi 2 Te 3 /P(VDF-HFP) composites. Cross-section images of local electric ﬁeld strength (g) of 5 vol.% Bi 2 Te 3 @SiO 2 /PVDF-HFP and (h) Bi 2 Te 3 /PVDF-HFP composite ﬁlm. [175] , Copyright 2018. Reproduced with permission from Elsevier Science Ltd. 
+
+the  low εr  of  the  insulating  2D  nanosheets  ( e.g.  MMT,  h -BNNS), third phase with excellent electric conductivity or high εr are re- quired  to  boost  their  polarization,  as  shown  in  Fig.  17 (c).  U e  of the MMT nanosheets ﬁlled PVDF-HFP based composites were en- hanced after decorating Ag-NPs onto MMT surfaces. The genera- tion of nanocapacitors help increase the polarization in the ternary composites while the insulating MMT endow them with lifted E b [177] . As consequence, higher U e  is achieved as compared to the binary  composites  ﬁlled  with  MMT,  as  shown  in  Fig.  17 (d).  Luo et al. [178] described a typical multi-phase PVDF-based composites with BT-NPs decorated h -BNNS hybrids. High E b and high polariza- tion is synchronously obtained in the composites attribute to the high polarization nature of the BT ceramic and excellent insulating of h -BNNS. Following, Li et al. [179] proposed similar approach in PEI matrix, analogous results further prove the effectiveness of the multiphase design approach in designing energy storage polymer composites. 
+
+Besides the high energy storage performances of polymer com- posites,  the  stability  and  reliability  of  them  must  be  considered in practical applications as the dielectric capacitors are often re- quired  to  operate  under  harsh  and  extreme  circumstances,  e.g. high-temperature. For instance, the oil and gas explorations, auto- motive and avionics industries and pulse propulsion systems [57] . 
+
+Especially for capacitors used in underground oil and gas explo- ration and electriﬁed aircrafts, the operation temperature can ex- ceed  200  °C  and  250  °C,  respectively  [180] .  As  the  state-of-the- art ﬁlm capacitors, the poor temperature tolerance of biaxially ori- ented polypropylene (BOPP) restrained their stability and reliability in long-term operation under elevated temperatures ( e.g. > 70 °C) [181] .  Therefore,  the  polymer  composites  with  excellent  thermal dissipation  capacity  and  energy  storage  performance  are  eagerly desired in these applications. There is no doubt that the splendid thermal conductive performances pave h -BNNS infusive advantages in high-temperature energy storage. 
+
+In  comparison  with  the  cross-linked  BCB  ( c -BCB),  high-ﬁeld electrical conduction in the h -BNNS ﬁlled composites is intensely suppressed  at  high  temperature,  as  well  as  the  lifted  Young’s module. The introduction of h -BNNS serve c -BCB largely reduced electrical conduction and giant enhanced E b  at high temperature, which  as  a  result,  making  c -BCB/BNNS  possess  excellent  high- temperature energy storage performances. For example, at a high- temperature of 250 °C, U e of c -BCB/BNNS is as high as 1.8 J cm −3 with high η of 70% at 400 MV m −1 , where none of the high- T g polymers can bear the similar conditions [124] . Besides, Azizi et al. describe a novel approach via immediately using h -BNNS as coat- ing layer on both surface of PEI ( h -BN/PEI/ h -BN) [182] . The resul- tant composite with optimized h -BNNS layer displays an ultrahigh η of 90% as well as high U e of 1.2 J cm −3 , even at high-temperature 
+
+Fig. 14.  3D images of electric ﬁeld strength of (a1) 3–0–3 composite ﬁlms with NN/PVDF as outer-layer and (a2) 3 vol% NN/PVDF at the applied electric ﬁeld of 60 0 0 V, 3D images of leakage current density of (b1) 3–0–3 composite ﬁlm and (b2) 3 vol% NN/PVDF at the applied electric ﬁeld of 60 0 0 V. (c) E b , U e , and η of the trilayered composite ﬁlms and pristine PVDF. (d) Discharged energy density (d) and power density (e) of BOPP and the 5–0–5 composite ﬁlm at the applied electric ﬁeld of 200 MV m −1 . [160] , Copyright 2017. Reproduced with permission from Elsevier Science Ltd. (f) Cross-section image of 0/5/0 sample with SBT/PVDF composites as inter-layer. (g) U e and η of pure PVDF and the trilayered samples, structural model (h1), simulation of (h2) x-z, (h3) y-z and (h4) x-y cross sections of the electric ﬁeld distribution of 0/5/0 samples. [163] , Copyright 2020. Reproduced with permission from Elsevier Science Ltd. 
+
+up to 200 °C. Similar results have been reported in the h -BNNS coated PC systems [183] , which further veriﬁed the effectiveness of 2D h -BNNS in enhancing high-temperature energy storage per- formance of polymers. 
+
+3.5 J cm −3 along with high η of 86% at 400 MV m −1 at 70 °C, low 
+
+
+For  convenience,  the  high-temperature  energy  storage  perfor- mances of some high-performance dielectric polymers and some h -BNNS reinforced counterparts are summarized in Fig. 18 . Obvi- ously,  the  polymers  with  introduction  of  h -BNNS  as  ﬁller  or  as layer  possess  implausible  advantage  in  high-temperature  energy storage ﬁelds. Unfortunately, the temperature dependence energy storage ability related closely to the glass transition temperature ( T g ),  the  polymers  with  relatively  low  T g  would  be  rarely  oper- ated at high-temperature even with incorporation of h -BNNS. For instance, despites the h -BNNS ﬁlled PMMA shows satisfying U e of 3.5 J cm −3 along with high η of 86% at 400 MV m −1 at 70 °C, low T g (about 100 °C) restricts their usage in higher temperature [184] . Apart from the lower thermal conductivity compared with h - BNNS, larger bandgap and a much greater εr make the 2D γ -Al 
+
+2 O 
+
+
+3 nanoplates display a 
+
+
+3 nanoplates can be extended to more high- T g dielectric poly- 
+
+
+nanoplates become promising ﬁllers for high-temperature energy storage polymers. The c -BCS containing Al 3 nanoplates display a record U e  of 3.31 J cm −3  and a η of > 90% measured at 450 MV m −1 and 150 °C [58] . It is expected that the exploration of the γ - Al 3 nanoplates can be extended to more high- T g dielectric poly- mers used for high-temperature energy storage in the future. 
+
+2 O 
+
+
+2 O 
+
+
+enhancements are generated from different mechanisms. High εr of polymer composites ﬁlled with the conductive 2D nanosheets relays  on  percolating,  whereas  the  lifted  εr  of  the  counterparts containing  ferroelectric  ceramic  2D  nanosheets  is  dominated  by their  intrinsic  high  polarization.  However,  undesirable  E b  degra- dation and inevitable lifted P r usually appeared in the conductive or ferroelectric ceramic 2D nanosheets ﬁlled composites. The for- mer brings about dramatically decreased electrical resistivity of the composites, the giant ﬁller-matrix electrical performance mismatch in the latter is the primary origin. Differently, despite the fact that b of incorporating insulation 2D nanosheets facilitates improving E polymers and is much suitable in high-temperature energy storage, the  low  polarization  always  restricted  their  further  applications. Of course, the ﬁller loading level of the insulating 2D nanosheets should not be ignored since the structural defects caused by ag- gregations must be avoided. Therefore, dazzling strategies mainly include  interfacial  design,  multilayer  design  and  multiphase  de- sign are further proposed to attain polymer composites with de- sirable  energy  storage  performances.  In  designing  polymer  com- posites for energy storage applications, the usage of these strate- gies or their combination may avoid some disadvantages of various 2D nanosheets and consequently obtain desirable performances of them. 
+
+Herein,  a  brief  summary  about  the  content  in  this  section is  proposed,  as  summarized  in  Fig.  19 .  The  2D  nanosheets  used in  reinforcing  polymers  for  energy  storage  application  can  be simply  classiﬁed  into  three  categories,  including  conductive  2D nanosheets, ferroelectric ceramic 2D nanosheets and insulating 2D nanosheets. The introduction of both conductive and ceramic 2D nanosheets beneﬁt increasing εr  of polymer composites, but the 
+
+4. Thermal management properties of 2D nanosheets ﬁlled 
+
+
+4. Thermal management properties of 2D nanosheets ﬁlled polymer composites 
+
+Polymers are nearly thermally insulating due to their low ther- mal  conductivity  ( λ)  [2] .  The  heat  generated  by  overload  oper- ation  or  partial  discharge  inevitably  result  the  temperature  rise of  insulating  materials,  which  would  cause  the  loss  of  dielectric 
+
+Fig. 15.  (a) Illustration of fabrication process of sandwich-structured ﬁlms (P stands for the PVDF layer, and B denotes the h -BNNSs layer), (b) cross-sectional of SEM pictures of PBP1, PBP3, PBP5, and PBP7, respectively. Comparison of electric ﬁeld distribution and electrical tree propagation path of (c) PBP3 and (d) the composites with random dispersed h -BNNS. (e) Comparison of remnant polarization ( P r ) of PVDF and PBP series ﬁlms under various electric ﬁeld. (f) Maximum U e and η of PVDF and PBP series ﬁlms. [136] , Copyright 2019. Reproduced with permission from John Wiley & Sons Inc. 
+
+performance  gradually.  With  the  development  of  new  materials and technology, the voltage level and the transformer capacity im- proved constantly and then the overheat problems became much more serious. For example, a considerable portion of fault in the transformers is believed to be caused by the thermal accumulation in insulating polymers. Therefore, developing polymer composites with high λ would provide a new approach to lower the operat- ing temperature and then prolong the service life of the electrical equipment and electronic devices. 
+
+Generally, heat transfer in materials relates closely to the en- ergy dispersion through carriers. In solids, the heat transfer mainly relays on phonons, electrons and photons [13] . Phonon is a quanta of vibration occurring in rigid crystal lattices [185] . For polymers, phonons  are  the  primary  thermal  conductive  carriers  owing  to the  lack  of  electrons  and  their  weak  mobility  inside  polymers. However,  poor  phonon  transport  in  polymers  restrict  their  ther- 
+
+mal  conductive  capacity  owing  to  the  internal  phonon  scatter- ing, which can be interpreted as the direction, momentum or en- ergy variation of the phonon [ 186 , 187 ]. Phonon-phonon scattering, phonon-impurity  scattering  and  phonon-boundary  scattering  are the dominating scattering types in polymers and polymer compos- ites, as shown in Fig. 20 (a-c). Phonon-phonon collision in polymers transports energy according to energy and momentum conserva- tion, including normal (N) process and Umklapp (U) process [188] . The N process conserve both energy and momentum of phonons, whereas the U process only conserve the energy, which hampers the heat transfer. 
+
+Fig. 16.  (a) Mono-polar D - E loops, (b) maximum/residual displacements, (c) U e and (d) η of the gradient (2–1–0.1) multilayer and the single-layer PVDF composites ﬁlled with Ti 3 C 2 T x MXene at their E b , respectively. Scheme showing (e1) high MXene/PVDF interface compatibility, (e2) MXene/PVDF MWS polarization, (e3) adjacent sub-layer/sub-layer MWS polarization and (e4) the micro-capacitor mechanism, respectively. [152] , Copyright 2018. Reproduced with permission from the Royal Society of Chemistry. 
+
+Fig. 17.  (a) Schematic diagram of multiphase systems with conductive 2D nanosheets and the primary advantages. (b1) D - E loops, (b2) U e and (b3) η of BT-8/MXene- 2/PVDF composite under various applied electric ﬁelds, respectively. [176] , Copyright 2019. Reproduced with permission from Elsevier Science Ltd. (c) Schematic diagram of multiphase systems with insulating 2D nanosheets and the primary advantages. (d1) P - E loops of the composite ﬁlms with 4 vol.% of OMMT and Ag-OMMT nanoplatelets, (d2) U e and η of the pure PVDF-HFP and the composites containing 4 vol.% of OMMT and Ag-OMMT nanoplatelets, respectively. [177] , Copyright 2018. Reproduced with permission from Elsevier Science Ltd. 
+
+Fig. 18.  (a) U e and (b) η (above 90%) of the high- T g polymer dielectrics and some BNNS ﬁlled composites with elevated temperature from 150–250 °C and increasing electric ﬁeld up to 500 KV mm −1 
+
+Fig. 20.  Schematic illustration of the (a) phonon-phonon scattering (b) phonon-impurity scattering (c) phonon-interface scattering. (d) Categorization of 2D nanosheets used for enhancing polymer λ and multiple factors that inﬂuencing λ of the composites. 
+
+where C p  is the speciﬁc heat capacity per unit volume, v is the phonon velocity, and l is the phonon mean free path. As phonon could  be  easily  scattered  in  polymers,  especially  in  amorphous ones, l is usually an extremely small constant. Consequently, λ of polymers are often restricted in a low range of 0.1–1 W m −1 K −1 [13] . Incorporating nanoﬁllers with high λ is a generally accepted route to lift λ of polymers [8] . Typically, thermal conductive ﬁllers mainly  include  ceramics,  carbon-based  ﬁllers  and  metallic  ﬁllers et  al.  [ 4 , 8 , 13 , 32 ].  In  these  composites,  the  phonon  scattering  is mainly  attributed  to  the  interfacial  thermal  resistance,  which  is the primary barrier for effective thermal transport originated from the acoustic mismatch at ﬁller-matrix interface [ 187 , 189 ]. Owing to the generally occurred phonon scattering in the interfacial regions, corresponding heat lose arise as heat transport across interfaces, ﬁnally cause severely reduction of the thermal conductive perfor- mance of the composites [190] . Actually, the interfacial thermal re- sistance is the essential reason why the thermal transport ability of  ﬁllers  could  not  be  proportionally  transfer  to  the  composites. λ of a bulk material can be well described by the Fourier law as 
+
+where  Q  is  the  heat  ﬂux  and  (cid:9)T / (cid:9)X  is  the  temperature  gradi- ent.  Thermal  boundary  conductance  ( h BD )  numerically  quantiﬁes the phonon transport at the interfaces, the inverse of h BD  is the interfacial thermal resistance with the units of W m −2 K −1 . It re- lates temperature discontinuity to the applied ﬂux at the interface, which can be described as Eq. (4 - 3 ) [8] : 
+
+where  Q represents  the  temperature  discontinuity.  As  aforementioned  in Section  3.2.3 ,  the  chain  structure  and  properties  would  abrupt change  in  the  interfacial  region.  Drastic  phonon  scattering  con- sequently  restrict  the  heat  transportation through  the  interfaces. Appropriate surface modiﬁcation of the thermal conductive ﬁllers 
+
+could strengthen the ﬁller-matrix bonding, then beneﬁt to improve λ of the composites, which will be following discussed. 
+
+Generally, to achieve giant λ enhancement of polymers, large amounts of ﬁllers are often required to construct complete ther- mal  conductive  networks  for  phonon  transporting.  However,  the present  preparation  techniques  could  rarely  meet  the  processing demands.  Meanwhile,  the  dramatically  density  variation  of  the composites leading the degradation of polymer mechanical behav- iors [ 49 , 191 , 192 ]. Nowadays, 2D nanosheets with large aspect ratio provide natural advantages in forming continuous thermal conduc- tive networks at relatively low ﬁller loading, the highly anisotropic λ of  2D  nanosheets  made  them  promising  thermal  conductive ﬁllers for polymers. 
+
+The thermal conductivity of polymer composites is a function of both λ of polymers and ﬁllers. Despite the indispensable high λ of 2D nanosheets, λ of polymer matrix, the arrangement of 2D nanosheets, the formation of continuous thermal conductive paths, as well as the interaction between ﬁllers and matrix must be con- sidered in constructing high λ polymer composites, as summarized in  Fig.  20 (d).  This  section  offers  an  overview  about  the  thermal conductive capacity of polymer composites embedded with vari- ous 2D nanosheets and the correlative key inﬂuence factors. 
+
+4.1. Thermal conductive models and equations for polymer 
+
+
+4.1. Thermal conductive models and equations for polymer composites 
+
+Many models and equations can be used to calculate and pre- dict λ of the polymer composites [3] . Usually, ﬁller loading, λ of polymer matrix and thermal conductive ﬁllers are considered as main factors that affect the ultimate value of the composites λ. Se- rious and parallel models are generally performed to predict λ of the composites [3] , as listed in Eqs. (4–4 ) and Eqs. (4–5) , respec- tively. 
+
+λ is the predicted thermal conductivity of the composites, λp f  is  the  thermal  conductivity  of  the  polymer  matrix  and 
+
+f > 30 vol%), the Y. Agari Model is more suitable for the λ prediction, meanwhile, the verti- cal and parallel conduction mechanism is taken into consideration [ 194 , 195 ], as listed in Eq. (4 -7): 
+
+where C 1  is  a  factor  related to  the  crystallinity and  crystal size, C 2  is  corresponding  to  the  degree  of  forming  thermally  conduc- tive  networks  diﬃculty,  0 ≤C 2 ≤1.  The  value  of  C 2  is  approached to 1 if the thermal conductive network is easy to be constructed. Additionally, the Maxwell-Eucken model [196–198] , Russell model [199]  as  well as  Baschirow-Selenew  model  [200]  are  also  per- formed  to  predict  isotropic λ of  polymer  composites  ﬁlled  with spherical ﬁllers. 
+
+For  the  2D  nanosheets  ﬁlled  polymer  composites,  the  shape, orientation and  anisotropic λ of  2D nanosheets should be taken into consideration. On the basis of Maxwell model, Hamilton and Crosser model ﬁrst concerned the shape parameter of the thermal 
+
+conductive ﬁllers [201] . In the Nielsen-Lewis model, confused fac- tors such as the shape, orientation and aggregation states of ther- mal conductive ﬁllers are taken into consideration [202] , as listed in Eqs. (4–8) and Eqs. (4–9) : 
+
+2 (1 − V m ) 
+
+where A and V m related to the size and shape of the thermal con- ductive ﬁllers. 
+
+Hatta model is presented more appropriate to predict λ of the composites ﬁlled with 2D nanosheets [203] , as listed in Eq. (4–10): 
+
+f ) + λp / ( λ 
+
+S is related to the measurement direction, S = π L /4 X for the in- plane λ prediction while S = 1- π L /2 X for the through-plane coun- terparts. L and X correspond to the diameter and thickness of the 2D nanosheets. 
+
+The  modiﬁed  effective  medium  approximation  (EMA)  model takes the aspect ratio and orientation of 2D nanosheets into ac- count,  which  is  more  useful  for  predicting  λ of  the  composites [ 192 , 204 ], as listed in Eqs. (4–11) : 
+
+β11 (1 − L 11 )(1 − 1 − f [ β11 L 11 (1 − (cid:11) cos 2 θ (cid:12) ) + β33 L 33 (cid:11) cos 2 θ(cid:12) ] 
+
+) + β33 (1 − L 33 ) 
+
+(4–11) < cos 2 θ > is the orientational characteristic of 2D nanosheets in polymer matrix, which is equal to 1/3 for 2D nanosheets randomly dispersed composites and 1 for the highly in-plane oriented ones. 
+
+4.2. 2D nanosheets used for improving polymers thermal conductivities 
+
+3 et al.), usually present relatively lower λ, for example, 
+
+
+Various  2D  nanosheets  have  been  utilized  as  ﬁllers  to  lift λ of  polymers.  The  thermal  conductivity  of  the  2D  nanosheets is  determined  by  the  heat  conductive  modes  of  them,  by  elec- trons, phonon or simultaneously by electrons and phonon. The 2D nanosheets with abundant electrons, such as metallic, always pos- sessing high λ (hundreds to thousands W m −1 K −1 ) owing to elec- trons could move at higher speeds and resist scattering. The 2D nanosheets  with  only  phonon  heat  transfer,  such  ceramics  (BN, 3 et al.), usually present relatively lower λ, for example, AlN, Al tens to hundreds W m −1 K −1 . The λ of general used 2D nanosheets can be seen in Table 1 (See Section 2 ). 
+
+2 O 
+
+
+Metallic  nanoﬁller  [205] ,  especially  some  2D  metallic nanoﬂakes  or  nanosheets  [ 49 , 206 ],  such  as  Al,  Ag,  Cu,  Ni  et  al., are  used  to  improve  polymer  λ.  Nevertheless,  the  incorporated metallic  nanosheets  also  causes  dramatic  electrical  conductivity increase of polymers, leading the composites only to be used only in  applications  that  regardless  of  insulation.  Importantly,  most metallic materials are diﬃcult to be fabricated into 2D scale owing to  the  disordered  metal  bonds,  the  lack  of  layer  structure  and their  poor  oxidation  resistance.  Furthermore,  the  lifted  compos- ites  density  also  generates  processing  diﬃculties.  Therefore,  the thermal  conductive  polymer  composites  ﬁlled  with  sole  metallic nanosheets  are  seldom  reported  to  date,  the  metallic  ﬁllers  are often used as one of thermal conductive ﬁllers in the multiphase systems  or  decorations  of  some  2D  nanosheets,  which  will  be following discussed. 
+
+Some inorganic nonmetallic 2D nanosheets with complete crys- talline  possess  high  λ as  phonons  could  transport  heat  via  lat- tice vibration [8] . For instance, graphene, ceramics as well as MX- ene. Nonetheless, most nonmetallic 2D nanosheets used as thermal conductive ﬁllers are multilayer, not monolayer ones. Phonons can be easily transferred in a single layer attributes to the dense pack- ing atoms and the strong covalent bonding, but diﬃcult to trans- fer across adjacent layers due to the weak Vander Waals force be- tween layers [26] . As a result, inorganic nonmetallic 2D nanosheets usually present anisotropic λ. 
+
+4 nanosheets 
+
+
+Graphene  is  one  of  the  outstanding  thermal  conductive  2D nanosheets  among  current  known  materials  with  highest  λ of 50 0 0  W  m −1 k −1  [23] .  Meanwhile,  the  light  weight  of  graphene compared  with  metals  and  ceramics  also  making  them  a  good candidate for highly thermal conductive composites. Owing to the metallic  performance  of  graphene  [207] ,  it  can  be  accepted  that the heat transfer in graphene is accomplished by both electrons and phonons. Actually, thermal conduction in graphene mainly re- lies on phonons, the contribution of electrons is negligible [ 4 , 208 ]. Ceramic nanosheets are widely used to improving polymer λ without insulation degradation as their inherent high λ and lack of  electrons.  Metal  oxide  is  a  kind  of  familiar  ceramics,  the  2D metal oxide platelets have been used as thermal conductive ﬁllers to enhance λ of polymers [209] . Compared with metal oxide, the non-oxide ceramics usually have higher λ. Particularly for the 2D nanosheets  possess  strong  covalent  bonds  and  excellent  crystal structure  in  monolayer,  such  as  h -BNNS  and  AlN.  Among  non- oxide ceramic 2D nanosheets, h -BNNS with analogy structure like graphene,  has  a  high λ only  inferior  to  that  of  graphene  owing to the isotope impurity scattering [210] . Recently, C 4 nanosheets with appropriate band gap are also utilized to enhance λ of poly- mers [ 55 , 56 ]. Unfortunately, owing to the crystalline structure lim- itation,  phonons  scattering  is  relatively  severe  along  parallel  di- rection, as shown in Fig. 21 . Hence λ of C 4  nanosheets (50.9– 110.9 W m −1 k −1 ) is not as high as those of graphene and h -BNNS (50 0 0 and 360 W m −1 k −1 ). 
+
+3 N 
+
+
+3 N 
+
+
+Additionally, researchers found that the introduction of MXene nanosheets could integrate the random dispersed polymer chains 
+
+around them taking advantages of the abundant surface groups, re- sultantly reduce interfacial resistance and promote the heat trans- ferring through the polymer composites [211–215] . 
+
+The  thermal  conductivities  of  various  polymers  ﬁlled  with abovementioned  2D  nanosheets  are  summarized  in  Table  2 .  Be- sides,  the  Table  also  concludes  the  primary  inﬂuence  factors  of polymer composites λ ﬁlled with 2D nanosheets, including sizes, surface modiﬁcations, as well as dispersions of 2D nanosheets ( e.g. aligned or 3D network) and corresponding alignment technologies. Based on the data listed in this table, the effect of these factors on λ enhancements of polymer composites ﬁlled with 2D nanosheets are analyzed in the following sections. 
+
+4.3. Inﬂuence factors on thermal conductivity of 2D nanosheets ﬁlled 
+
+
+4.3. Inﬂuence factors on thermal conductivity of 2D nanosheets ﬁlled polymer composites 
+
+Apart from the type of 2D nanosheets, the morphology of 2D nanosheets, such as lateral dimensions and aspect ratio, is another important factor that inﬂuences their intrinsic λ, which would re- sult  different  heat  conduction  of  polymer  composites.  Here,  we take the λ of h -BNNS ﬁlled composites as an example since there are relatively extensive data in previous researches. The data se- lection avoids the inﬂuence of other factors as much as possible, for instance, the surface modiﬁcation and ﬁller loading level. The thermal conductivity enhancement factors ( η TC ) of different lateral sized h -BNNS ﬁlled polymer composites are present in Fig. 22 (a) and 22(b). At tantamount ﬁller loading, the larger lateral size of h -BNNS, the higher λ of the polymer composites will be achieved. Introducing  small  nanosheets  into  polymers  always  generate large  amount  of  interfacial  area,  intensify  the  phonon  scattering and humper their transportation, leading to high interface thermal resistance and low λ of the composites. On the contrary, the in- terface density in the composites is naturally reduced with adding large nanosheets, which facilitates the λ enhancement of polymer composites. Importantly, thermal conductive paths constructed via large  nanosheets  provide  large  contact  area  of  2D  nanosheets, which  promote  phonon  transferring  along  their  basal-plane  or across the interfaces [ 306 , 307 ], as summarized in Fig. 22 (c). Mean- 
+
+Table 2 Summary of up-to-date thermal conductivity of polymer composites containing various 2D nanosheets. 
+
+0.5 μm 
+
+
+5.5 μm 
+
+
+0.7 μm 
+
+
+8 μm 
+
+
+1.5 μm 
+
+
+1.5 μm 
+
+
+1-octadecanol/graphene Epoxy/Ti 3 C 2 T x MXene PEG/Ti 3 C 2 T x MXene PEG//Ti 3 C 2 T x MXene PMMA//Ti 3 C 2 T x MXene TPU/Ti 3 C 2 T x MXene PVDF/Ti 3 C 2 T x MXene CNF/Ti 3 C 2 T x MXene EPDM/Ti 3 C 2 T x MXene PVDF/Ti 3 C 2 T x MXene Epoxy/Ti 3 C 2 T x MXene 
+
+4 phr 
+
+
+5.4 vol 
+
+
+2.0 μm 
+
+
+1.0 μm 
+
+
+1.0 μm 
+
+
+while, composites ﬁlled with polydisperse 2D nanosheets always possess higher λ, which is due to the dense and integrated ther- mal conductive pathways can be easily constructed [ 49 , 308 , 309 ]. 
+
+Actually,  polymer  composites  ﬁlled  with  polydisperse  2D nanosheets can be recognized as one kind of multiphase systems 
+
+with different ﬁller size. The multiphase system can be consisted of ﬁllers with different shape or different ﬁllers. In these systems, maximized packing density and reduced viscosity of the compos- ites can be simultaneously achieved [ 310 , 311 ], contribute to easier formation  of  optimal  thermal  conductive  paths  at  relatively  low 
+
+Fig. 22.  (a) ηTC of various polymer composites ﬁlled with different lateral sized h -BNNS at volume fraction of (a) around 20 %, (b) 33%, the data are selected from Table 2 . (c) Summarized illustration of the 2D nanosheets size effect on polymer composites λ. 
+
+ﬁller loading than the polymer composites ﬁlled with sole ﬁllers. For instance, the PVDF-based composites containing nanoscale 2D h -BN  and  microscale  2D  Ag  sheets  realized  giant  λ enhance- ment of polymers [49] . Similar results have been reported in vari- ous polymer composites, such as graphene/BN, GO/BN, BN/MXene [ 310 , 312 , 313 ]. Especially, some 0D spherical nanoparticles with ex- cellent  thermal  conductivity  and  magnetic  performance  are  se- lected as the second component in these systems. The novel strate- gies not only provide bridging medium to connect 2D nanosheets among adjacent layers, but also increase the magnetic response of 2D nanosheets, which will be following discussed in detail in Sec- tion 5. 
+
+The improvement of interfacial compatibility facilitates phonon transferring in polymer composites arise from the reduced inter- facial  thermal  resistance  [ 3 , 32 , 190 ].  Despite  that  2D  nanosheets could  provide better  interfacial  compatibility compared with  the traditional  0D  nanoﬁllers,  surface  treatment  of  2D  nanosheets  is still an effective strategy in lifting their dispersion, reducing inter- facial thermal resistance and further improving heat conduction of polymer composites. 
+
+Covalent  functionalization  via  chemical  reaction  is  the  com- monly  used  technique  to  realize  surface  treatment  of  2D nanosheets  [ 260 , 262 , 314–316 ].  Inorganic  acid,  hydroxide  as  well as  peroxides  are  the  prevailing  used  functionalization  agent [ 73 , 260 , 264 ]. In addition, the usage of these agents also helps im- proving  the  exfoliation  eﬃciency  of  the  layered  ceramic  materi- als, such as h -BNNS [ 241 , 259 , 317 ]. Some organic compounds could also participate in chemical reactions with 2D nanosheets surface, such as organic acids, isocyanate, phenyletilamine, alcohols, silane derivatives and polysilazane [32] , subsequently realizing the cova- 
+
+lent  functionalization.  Silane  derivatives  are  the  generic  function agents, which are widely used to modify various 2D nanosheets, such as graphene-based nanosheets and h -BNNS [ 32 , 72 , 318 ]. It is worth mentioning that h -BNNS could be rarely functionalized by silane derivatives directly due to its relatively complete crystalline structure, smooth and chemically inert surface, pretreatment of h - BNNS by using hydroxide is an eﬃcient route to realize the further covalent functionalization [ 76 , 317 ]. 
+
+However,  the  surface  treatment  via  covalent  functionalization might  not  always  produce  positive  inﬂuence  on  enhancing  λ of 2D nanosheets ﬁlled polymer composites. It is due to the chemical reaction usually break the crystalline structure of 2D nanosheets, leading  to  defects  formed  on  their  basal  plane,  which  may  de- crease  the  conjugation  within  the  nanosheets  and  impede  the phonon  transferring  [275] .  In  terms  of  avoiding  defects  genera- tion, the non-covalent functionalization through physical adsorp- tion were carried out to modify 2D nanosheets surface [267–269] . Compounds  used  for  the  non-covalent  strategies  mainly  include alkyl amine, alkyl phosphine and aromatic groups [32] . The func- tionalization  agents  interact  with  2D  nanosheets  surface  via  van der Waals force or π - π stacking [319] , the intact crystalline struc- ture of 2D nanosheets can be guaranteed as well as increasing the ﬁller/matrix interfacial adhesion, Fig. 23 (a) provides a brief illus- tration for understanding the difference between the covalent and non-covalent functionalization of 2D nanosheets. 
+
+TC  of  the  h -BNNS  ﬁlled  polymer  composites  is chosen  as  example  again  to  evaluate  the  effect  of  covalent  and non-covalent  functionalization  on  their  thermal  conductive  per- formances,  as  presented  in  Fig.  23 (b).  It  can  be  recognized  that both covalent and non-covalent treatments of 2D nanosheets sur- face  tend  to  generate  positive  effect  on  lifting  polymer  compos- ites  λ.  At  relatively  low  2D  nanosheets  loading,  covalent  modi- 
+
+Fig. 23.  (a) Schematic of 2D nanosheets surface functionalization, (b) ηTC of various polymers ﬁlled with covalent and non-covalent functionalized h -BNNS. The data are collected from Ref. [ 224,261,262,267,269,270,320,321 ]. 
+
+ﬁcation  is  much  more  beneﬁcial  in  enhancing  polymer λ owing to the stronger bonding formed in the composites compared with the non-covalent modiﬁed ones. However, the inﬂuence of surface functionalization is closely correlated to the 2D nanosheets ﬁller loading level. As ﬁller loading exceeds the critical concentration, the non-covalent modiﬁcation of 2D nanosheets tends to be more effective in lifting composites λ. The thermal percolation can be used to explain this phenomenon due to the continuous thermal conductive  paths  are  naturally  formed  within  the  composites  at extremely  high  ﬁller  loading  [ 34 ].  Brieﬂy,  phonon  can  transport through interconnected 2D nanosheets conveniently. The complete crystalline structure of non-covalent functionalized 2D nanosheets endows much lower thermal resistance for phonon transportation within  the  thermal  conductive  network.  Mentionable,  the  ther- mal  percolation  is  analogous  with  electrical-related  one,  but  the ﬁller/matrix λ difference is much higher than the electric conduc- tivity, resulting a much higher thermal percolating threshold [290] . Therefore, at low ﬁller loading, most surface functionalization of 2D nanosheets surface often works in the λ enhancement issue. Nevertheless, tremendous λ enhancement of the polymer compos- ites will be achieved when continuous thermal conductive paths are  formed  by  the  interconnected  2D  nanosheets,  which  will  be detailly discussed in the following sections. 
+
+As the phonon transferring difference along different directions, 2D nanosheets always possess higher λ in parallel direction than that in perpendicular direction [ 204 , 307 ]. Hence the parallel distri- bution tendency of 2D nanosheets enables polymer composites to possess highly increased in-plane λ. In many cases, thermal con- ductive composites with random 2D nanosheets cannot meet the requirements  of  applications  which  high  through-plane  λ is  de- mand. Accordingly, the orientation of 2D nanosheets is further rec- ommended. Assemble 2D nanosheets into highly orientated struc- tures could not only further enhance in-plane λ of polymers, but also  providing  possibility  that  attaining  extremely  high  through- plane λ. The main methods of aligning 2D nanosheets in polymer composites are shown in Fig. 24 (a). 
+
+Polymer  composites  prepared  via  tape-casting  [241] ,  stretch- ing  alignment  [274] ,  spin-coating  [ 223 , 250 ]  or  hot-pressing [ 224 , 243 , 295 ] could facilely realize the 2D nanosheets orientation during processing attribute to their high aspect ratio, in-plane λ of the composites will be enhanced due to the formation of paral- leled thermal conductive paths, as shown in Fig. 24 (b). The elec- tro  spinning  is  generally  employed  to  achieve  highly  orientation of  2D  nanosheets,  Huang’s  group  vertical  crossed  the  spined  h - BNNS  ﬁbers  in  PVDF  matrix  ( Fig.  24 (c1)),  realizing  an  ultrahigh 
+
+Fig. 24.  (a) Primary methods in realizing 2D nanosheets orientation, (b) schematic of thermal conductive paths in polymers ﬁlled with random dispersed and parallel-aligned 2D nanosheets. (c1) Preparation of PVDF ﬁlled with vertically folded BNNS, (c2) infrared thermal images of MOSFETs integrated with different thermal interface materials, (c3) the surface temperature variations of MOSFETs versus time. [191] , Copyright 2018. Reproduced with permission from American Chemical Society. (d) Preparation of PDMS/PVA/BNNS composites with high through-plane λ. [322] , Copyright 2017. Reproduced with permission from American Chemical Society. 
+
+Fig. 25.  (a) Illustration of external ﬁeld induced alignment of 2D nanosheets, (b) λ and (c) ηTC of various polymer composites ﬁlled with random( R ) and aligned( A ) 2D nanosheets induced by external ﬁeld [272–274] . 
+
+in-plane λ of 16.3 W m −1 K −1 [191] . The infrared thermal images of the MOSFETs integrated with the as-prepared thermal conduc- tive composites in Fig. 24 (c2) and the MOSFETs surface tempera- ture variations in Fig. 24 (c3) clearly indicate their excellent ther- mal management capacity. The same group also constructed PDMS composites with highly through-plane λ by rolling the spined h - BNNS ﬁber membranes [322] , as Fig. 24 (d) presented. Analogously, slicing up the parallel orientated 2D nanosheets in the normal di- rection, further rotated these slices with 90 ° is a straightforward route in enhancing through-plane λ of polymers [323] . 
+
+Comparatively, external ﬁeld induction is much more ﬂexible in controlling 2D nanosheets orientation by adjusting the ﬁeld direc- tions [ 249 , 272–274 , 277 , 324 ], as shown in Fig. 25 (a). Mentionable, the weak magnetic response of most 2D nanosheets hampers the eﬃcacy as magnetic ﬁeld induced strategy is employed. Therefore, magnetic nanoparticles such as Ni, Fe and Fe 4 , are always coated onto  2D  nanosheets  surfaces  to  effectively  lift  their  response  to magnetic ﬁeld [ 272 , 277 ]. Moreover, the coating pretreatment of 2D nanosheets realize the multiphase systems in polymers (see Sec- tion 4.3.2), which also generate positive effect on the construction 
+
+3 O 
+
+
+of thermal conductive paths. The λ and η TC of the polymer com- posites  with  random  dispersed  and  ﬁeld  aligned  2D  nanosheets are shown in Fig. 25 (b) and (c) [272–274] , indicating the ﬁeld in- duced alignment of 2D nanosheets is an effective issue in enhanc- ing anisotropic λ of polymers. However, since the decreased align- ment  degree of  2D  nanosheets limited  by  reduced  space  among them,  the  effectiveness  of  this  approach  will  be  reduced  as  2D nanosheets loading further increases [249] . 
+
+Easily  rearrangement  of  2D  nanosheets  endows  the  enhance- ment of anisotropic λ with polymers. Nevertheless, to attain dras- tic  enhancement  of  polymer  λ,  high  2D  nanosheets  loading  is still required in forming continuous thermal conductive networks. High  loading  often  allows  heat  to  transport  along  adjacent  2D nanosheets with lower contact thermal resistance as compared to those ﬁller/matrix ones, but increases the polymer weights, sac- riﬁces  the  polymer  ﬂexibility  and  generates  fabricating  diﬃcul- ties [ 256 , 325 , 326 ]. Some applications such as aeronautics and as- tronautics, which are vitally sensitive to polymer weights require 
+
+low 2D nanosheets loading [257] . Consequently, forming continu- ous thermal conductive networks in polymers at lower nanosheets loading is of great signiﬁcance. 
+
+Assemble  2D  nanosheets  with  template  assistant,  employing foams or aerogels constructed by 2D nanosheets as additives pro- vide possibilities that realizing 3D continuous thermal conductive networks  formation  at  low  ﬁller  loading  level  [ 222 , 257 , 276 , 312 ]. The  3D  networks  strategy  show  enormously  dominance  in  lift- ing polymer λ compared with 2D nanosheets randomly dispersion means. Appropriate 3D network could provide signiﬁcant enhance- ment in both in-plane and through-plane λ of polymer composites, such  as  radial  freeze-casting  strategy  [254] ,  the  combination  of ice-templating self-assembly and inﬁltration methods [222] . These strategies could minimize the anisotropic thermal transport behav- ior of the 2D nanosheets ﬁlled composites, which further broaden their applications. Different to the composites ﬁlled with random dispersed 2D nanosheets, nanosheets with smaller size are more appropriate and ﬂexible in constructing 3D networks in polymers [222] . However, the merits of 3D network will be vanished as the 2D nanosheets loading exceeds a critical concentration, which is due to the thermal percolating is naturally generated for randomly dispersed 2D nanosheets, as concluded in Fig. 26 (a). 
+
+In  addition,  attributed  to  the  reliability  of  the  highly  orien- tated  2D  nanosheets  or  strong  3D  network  constructed  via  2D nanosheets,  effective  thermal  conductive  transport  pathway  can be  well  maintained  in  the  composites  against  high  tempera- ture. Therefore, these composites always present outstanding high- temperature λ and thermal cycling stability [ 254 , 286 , 326 ], verify- ing the stable thermal conducting capability of them under long- term operation, as shown in Fig. 26 (b-d). 
+
+5. EMI shielding properties of 2D nanosheets ﬁlled polymer 
+
+
+5. EMI shielding properties of 2D nanosheets ﬁlled polymer composites 
+
+With ever increasing developments of advanced techniques and widespread applications of electronic devices in military, wireless communications, electronics and medical instruments, electromag- netic  interference  (EMI)  has  become  a  serious  issue  [327–331] . Usually, the electronics devices are composed of highly integrated circuits and essentially rely on electromagnetic signals, EMI would be generated inevitably and cause their malfunctioning. Addition- ally, the anthropogenic EMI pollutions also generate harmful affairs to human health, such as headache, depression, even cause cancer. Therefore, developing highly effective EMI protective elements or EMI shielding materials is of great signiﬁcance. 
+
+Modern industry urges light weight and ﬂexible EMI shielding materials, hence the conventional metallic or magnetic materials with excellent shielding capability but heavy weight and high den- sity (for example, copper, aluminum, steel, iron et al.) could rarely meet  the  demands.  Considering  the  high  electrical  conductivity and  superior  permeability  of  metallic  materials  plays  a  decisive role in its high EMI shielding capacity , ﬂexible conductive poly- mers or polymers composites ﬁlled with electric/magnetic conduc- tive ﬁllers are potential candidates for EMI shielding. 
+
+5.1. Basic principles of EMI shielding 
+
+
+Traditionally, EMI can be regarded as a self-propagating trans- verse  oscillating  wave,  which  consisted  of  orthogonal  magnetic ﬁeld ( H ) and electric ﬁeld ( E ) [332] . The propagate direction of EM wave is along the right angle to the plane containing H and E , as shown in Fig. 27 (a). 
+
+where P, E , and H are the plane-wave intensity, electric ﬁeld and magnetic ﬁeld strength of the EM wave. The subscripts in repre- sent the incident strength of each ﬁeld, while subscripts r represent the residual counterparts after the EM wave transmitted through shielding materials. 
+
+The  amplitudes  ratio  of  H  and  E  is  the  wave  impedance  ( Z ) [332] . According to the distance ( r ) from the shielding material to the EMI source, the measurement region is divided into near-ﬁeld region and far-ﬁeld region with λ/2 π as boundary ( λ is the free- space wavelength of the radiation) [337] , as shown in Fig. 27 (b). In the far-ﬁeld region, Z of the EM wave is equal to the free space impedance  ( Z 0 ),  which  is  a  constant  value  of  377  (cid:7) [338] .  The EMI  shielding  of  materials  can  be  investigated  via  adopting  EM plane wave theory. On the contrary, in the near-ﬁeld region, Z is no longer a constant and SE of H and E must be observed sepa- rately. The theory on the basis of electric and magnetic dipoles is then applied for the EMI shielding [339] . For example, at low Z, H controls the near-ﬁeld, while E takes over the region when Z of the EM source is beyond Z 0 , which is also illustrated in Fig. 27 (b). Moreover,  the  transition  point  from  the  near-ﬁeld  region  to  far- ﬁeld region is at the transition region where r approaches but less than λ/2 π [339] , as indicated in the internal portion of Fig. 27 (b). The main mechanism of EMI shielding is composed of reﬂec- tion ( R ), absorption ( A ) and multiple reﬂection ( M ), as shown in Fig. 27 (c1). As EM wave reaches the shielding material surface, re- ﬂection as well as transmission inside the material simultaneously occurs. Therefore, the SE of a shielding material is the sum of the contribution from R, A and M , which can be presented as Eq. (5–2): 
+
+As Fig. 27 (c2) shows, the strength of the transmission EM wave decreases exponentially, and its strength will drop to 1/e ( e is the Euler’s number and 1/e = 0.37) of the incident value at a distance, which is called the skin depth ( δ) [ 332 , 336 ] as Eq. (5- 3 ) describes: 
+
+where f is the frequency of the EM wave, μ and σ is the relative magnetic permeability and electrical conductivity of the shielding material, respectively. According to Eq. (5–3) , skin depth of shield- ing material decreases with increasing σ , leading to enhanced re- ﬂection but decreased absorption [340] . Hence the reﬂecting capa- bility towards EM wave relies on the high σ of the shielding ma- terial. The high εr , Tan δ and σ of the materials contribute to the stronger EM absorption effect [ 335 , 336 ]. 
+
+There are several factors including electrical conductivity, per- meability,  electrical  polarization,  frequency  and  thickness,  which attribute materials shielding. According to EM wave theory, SE of absorption ( SE A ), reﬂection ( SE R ) and multiple reﬂection (S E M ) are expressed as Eqs. (5- 4 ), (5–5), (5–6) [341] : 
+
+For an EMI shielding material, the shielding capability to EM wave  is  deﬁned  as  electromagnetic  shielding  effectiveness  (SE), which is the ratio of impinging energy to the residual energy and 
+
+where d is the EM wave traveled distance inside the EMI shielding AC is AC electrical conductivity, μr is the magnetic rela- material, σ tive complex permeability. Besides, the multiple reﬂection capacity 
+
+Fig. 26.  (a) Illustration of the ﬁller loading depended effectiveness of 3D structural nanosheets network, orientated nanosheets and random dispersed nanosheets for en- hancing polymer λ. Thermal conductivity upon multiple heating and cooling cycles for (b) orientated h -BNNS/epoxy composites. [254] , Copyright 2020. Reproduced with permission from Elsevier Science Ltd. (c) 3D h -BNNS/epoxy composites. [326] , Copyright 2019. Reproduced with permission from John Wiley & Sons Inc, (d) neat epoxy and 3D graphene/epoxy composites. [286] , Copyright 2019. Reproduced with permission from the Royal Society of Chemistry. 
+
+requires large interfacial areas. Compared to the shielding terms of SE A  and SE R , SE M  is a relativly low value in most shielding envi- ronments [342] , which can be ignored as SE A is higher than 10 dB [335] . 
+
+Nonetheless,  the  EMI  shielding  via  reﬂection  is  unfavorable in  many  cases  since  secondary  interference  will  be  generated [ 343 , 344 ],  as  illustrated  in  Fig.  27 (c1).  Therefore,  in  term  of  the dominant EMI shielding mechanism, materials possess absorption shielding  capacity  are  much  desirable.  The  material  absorbance ability towards EMI shielding can be expressed by reﬂection loss ( RL ),  which  can  be  described  as  Eqs.  (5–7)  and  Eqs.  (5–8) ,  the 
+
+absorption will reach maximum as the minimum RL is obtained [332] . 
+
+where Z in is input impedance of the EMI shielding material at the surface, Z 0  is the intrinsic impedance of free space (377 (cid:7)), c is the light velocity. 
+
+Fig. 27.  (a) Schematic illustration of an electromagnetic transverse oscillating wave, (b) dependence of the wave impedance ( Z ) on the distance ( r ) from the EMI source, illustration of the (c1) EMI shielding mechanism and (c2) the skin depth ( δ) of an EMI shielding material. 
+
+5.2. 2D nanosheets used for improving polymers EMI shielding properties 
+
+For  some  polymers  possess  a  conjugated  structure,  the  spe- ciﬁc  π -electrons  delocalization  providing  them  unique  intrinsic conductivity,  such  as  polyaniline  (PANI),  polypyrrole  (PPy),  poly- thiophene  (PTH),  polyfuran  (PF),  polyacetylene  (PA),  polypara- phenylene (PPP), poly(p-phenylene vinylene) (PPV), and poly(3,4- ethylenedioxythiophene)  (PEDOT),  which  are  called  the  intrinsi- cally  conducting  polymers  (ICP)  [332] .  However,  extensive  delo- calization of π -electrons hinders their processability [335] . Apart from  the  ICP,  most  of  polymers  are  insulators  and  restrict  them to  shield  the  EM  wave.  As  aforementioned  ( Section  3.2.1 ),  at- tribute  to  the  intrinsic  performance  of  some  electric  conductive 2D nanosheets, such as graphene and MXene [345–347] , electri- cal percolating networks could be constructed in polymer matrix at relatively low ﬁller loading. Accordingly, σ of the polymer com- posites could be drastically elevated as well as their εr and Tan δ. Furthermore, large surface area of 2D nanosheets with abundant functional groups provides enough interfaces for the internal mul- tiple reﬂection, which also contributes to further lift the EMI SE of the composites. 
+
+hance SE of the composites since the inclusion of heteroatoms en- hances σ of graphene [351–353] . 
+
+Besides, graphene-based 2D nanosheets, such as GO and rGO, are  also  widely  used  as  ﬁllers  for  EMI  shielding.  As  the  2D  ox- idized  form  of  graphene  decorated  with  various  functional  oxy- gen  groups,  despite  the  poor  σ of  GO  nanosheets,  the  heat  or light treatment, as well as chemical reduction of them contribute to maintain most properties of graphene [ 332 , 354 ]. The rGO is a kind of graphene derivation with additional structural defects, ox- idized chemical groups  and  heteroatoms,  possessing electric  and thermal  properties  as  pristine  graphene  [355] .  The  fruitful  func- tional groups and structural defects (oxidized chemical groups and heteroatoms) enable rGO to improve impedance mismatch and en- hance dipole polarization of polymer composites, leading to sig- niﬁcant  increased  EMI  absorption  [ 151 , 351 , 356 , 357 ].  Since  σ of rGO is determined by the reduction extent [358] , the composites ﬁlled with completely reduced rGO always show higher EMI SE. In general, incorporating graphene-based 2D nanosheets could en- hance EMI absorption effect of the polymer composites, which has been demonstrated in various polymers with different physical and chemical properties. 
+
+To date, graphene is the leading ﬁller for EMI shielding polymer composites attribute to their preeminent σ . The electrical perfor- mances of graphene correlate to their layer number, as indicated in Fig. 28 (a), the electronic behavior of graphene will translate to which of graphite as the strip thickness exceeds 6 nm ( ∼8 mono- layers)  [328] .  The  work  of  Ma  et  al.  proves  the  lateral  size  de- pended σ of graphene with a limitation of 2 μm [348] . Within this range, σ of them shows liner increasing tend as the lateral size enlarges, as shown in Fig. 28 (b). Structural defects could af- fect σ of graphene as well, Fig. 28 (c) presents the distinct diminu- tion of graphene semiclassical conductivity as the defect content rises [349] . As summarized in Fig. 28 (d), the large sized monolayer graphene without defects is the top choice of EMI shielding ﬁllers [23] , which has a much higher SE compared with that of Au ﬁlms [350] . Besides, heteroatom doping of graphene could further en- 
+
+2 MXene nanosheets with -F or -OH show semiconductor- 
+
+
+2 N systems 
+
+
+MXene nanosheets present various electronic performances in relevant with their composition diversity, surface functionalization as  well  as  thickness.  Generally,  pure  MXene  nanosheets  without any surface functionalization always possess metallic-like σ [359] . However,  after  the  surface  functionalization,  MXene  nanosheets present  different  electric  properties  varies  from  semiconducting to topological insulation related to the functional end group and their orientation on the two-dimensional plane [28] . For instance, the Ti 2 MXene nanosheets with -F or -OH show semiconductor- like σ . Similar results are reported in the M 2 N systems [360] .  Owing  to  the  existence  of  abundant  functional  groups  on MXene  nanosheets  surface,  most  of  them  are  non-magnetic  like 2D nanosheets. Nevertheless, some MXene nanosheets are found to possess excellent ferromagnetism, such as the MXene containing Cr and Mn [360–363] . For these advantages, MXene nanosheets are 
+
+2 C and M 
+
+
+3 C 
+
+
+Fig. 28.  (a) Electric resistivity of graphene as a function of the strip thickness. [328] , Copyright 2010. Reproduced with permission from American Chemical Society. (b) σ of monolayer graphene as a function of the lateral size [348] , (c) Semiclassical conductivity of graphene as a function of three possible defect content, [349] , Copyright 2011. Reproduced with permission from American Physical Society. (d) Illustration of graphene σ variation considering layer number, lateral size and existence of defect. 
+
+widely selected as ﬁllers to enhance the EMI shielding capacity of polymer composites. 
+
+As  illustrated  in  Fig.  29 (a),  the  EMI  shielding  mechanism  of MXene nanosheets was proposed as follow: Portion of EM wave could be reﬂected as they strike the MXene owing to the abun- dant free electrons at nanosheets surfaces. The energy of EM wave drops as they pass across MXene lattice contribute to the interac- tion between incident EM wave and the dense electrons of MX- ene.  Moreover,  the  internal  reﬂection  effect  among  MXene  mul- tilayer  structural  assists  the  internal  absorption  of  residual  EM wave  [43] .  Subsequently,  EMI  SE  of  these  composites  is  dramat- ically  enhanced.  The  maximum  EMI  SE  of  SA-based  composites X 2D nanosheets reaches 57 dB, as shown 
+
+3 C 
+
+
+in  Fig.  29 (b).  Zhu  et  al.  reported  a  high  SE R  ratio  of  the  d- Ti X /CNF composites [330] , demonstrated that the EMI shield- ing of MXene/polymer composites is an absorption dominated pro- cess, as shown in Fig. 29 (c)(d). 
+
+3 C 
+
+
+2 T 
+
+
+2 T 
+
+
+The EMI shielding mechanism of polymer composites contain- ing MXene nanosheets can be concluded as Fig. 29 (e). In addition to the effect of MXene themselves, the inhomogeneous charge dis- tribution at ﬁller-matrix interfaces generate from conductivity dif- ference will cause charge accumulation and electric current path discontinuities  to  attenuated  EM  wave  power,  which  can  be  re- garded as a resistor-capacitor circuit model [364] . 
+
+2 nanosheets are semiconductors with a ﬁnite band gap 
+
+
+Transition-metal dichalcogenides (TMDs), such as molybdenum disulﬁde (MoS 2 ) 2D nanosheets are another  kind  of  candidate  in  lifting  polymers  EMI  SE  [ 327 , 365– 367 ]. MoS 2 nanosheets are semiconductors with a ﬁnite band gap of  1.2  eV  and  gap-opening  priority  [368] .  Ning  et  al.  [327]  re- 2  nanosheets  facili- ported  the  incorporation  of  few-layered  MoS tate microwave absorption of paraﬃn wax composite in view of the  arising  defect  dipole  polarization  from  Mo  and  S  vacancies and large speciﬁc surface area of MoS 2  is chemically stable with  abundant  defects/dislocations,  has  tunable  electronic  prop- erties from metallic to semiconducting, which beneﬁt enhancing εr  and σ of polymer composites [367] . Despite the synthesizing diﬃculty, some novel methods are adopted to attain 2D metallic nanosheets or nanoplates for EMI shielding, such as Cu, Ag et al. [ 331 , 369 ]. High σ of 2D metallic nanosheets provide outstanding advantages in the EMI shielding application. For example, high σ 
+
+of  89.12  S  m −1  and  speciﬁc  EMI  SE  of  334.59  dB  cm 3  g −1  are achieved in the epoxy composite foam with 20 wt% addition of 2D silver nanosheets [369] . 
+
+According to the extensive results reported to date, σ and EMI SE of various 2D nanosheets ﬁlled polymer composites are sum- marized in Table 3 with the emphasis on the 2D nanosheets type, loading level and distribution. The introduced 2D nanosheets here mainly include graphene, MXene and some TMDs. 
+
+5.3. Inﬂuence factors on EMI shielding properties of 2D nanosheets 
+
+
+5.3. Inﬂuence factors on EMI shielding properties of 2D nanosheets ﬁlled polymer composites 
+
+The  hydrophobic  characteristic  of  pristine  graphene  making them diﬃcult to be dissolved in aqueous medium or some organic solvents. Surface modiﬁcation is a preeminent scenario in lifting graphene  dispersion,  which  contribute  to  enhancing  EMI  SE  of polymer composites. Liang et al . [412] employed surface function- alization to diminish the percolation threshold of epoxy/graphene composites. An extremely low percolation threshold of 0.52 vol% has  been  realized  contribute  to  the  lifted  dispersion  of  surface functionalized graphene in polymer matrix. Hsiao et al . [413] ex- plored the effect of covalent modiﬁcation of graphene on the elec- trical  property  and  EMI  shielding  performance  of  a  WPU  com- posite through using different amounts of aminoethyl methacry- late (AEMA). The restacking and aggregation of graphene is inhib- ited after AEMA is grafted, and the high ﬁller-matrix compatibil- ity is attained because of the electrostatic attraction. As a result, remarkable increased σ of the WPU/AEMA-graphene is observed, as well as the EMI SE. Non-covalent methods also work for this strategy, among which π - π stacking interaction has obvious ad- vantages owing to its facile formation and no damage to graphene honeycomb  scaffold.  The  water-borne  polymer  with  25  wt%  sul- fonated graphene composite shows extraordinary mechanical per- formances  contribute  to  the π - π interaction,  which  enables  the composite to maintain a high EMI SE even after 10 0 0 times bend- ing [333] . 
+
+In  spite  of  the  excellent  electric  conductive  performances  of MXene  nanosheets,  the  high  oxidizability  in  air  generally  causes undesirable  damage  to  their  σ [ 414 , 415 ].  Covalent  surface  mod- iﬁcations  of  MXene  by  chemical  reactions  have  been  proved  as eﬃcient routes in alleviating them from oxidation [416–418] . Be- 
+
+Fig. 29.  (a) Illustration of the EMI shielding mechanism of MXene nanosheets, (b) EMI SE of the Ti 3 C 2 T X /SA composites. [43] , Copyright 2016. Reproduced with permission from American Association for the Advancement of Science. (c)(d) EMI SE performances of the Ti 3 C 2 T X /CNF composites. [330] , Copyright 2018. Reproduced with permission from American Chemical Society. (e) Schematic of EMI shielding mechanism in polymer composites ﬁlled with MXene nanosheets. [364] , Copyright 2018. Reproduced with permission from Elsevier Science Ltd. 
+
+2 T 
+
+
+3 C 
+
+
+2 nanocrystals and amorphous car- 
+
+
+sides, the surface modiﬁcation of MXene via thermal treatment is also  explored,  as  summarized  in  Fig.  30 (a).  Gu  et  al.  [399]  em- ployed the thermal reduction to modify Ti X  nanosheets sur- face with a medium-low temperature of 200 °C. Results show that the thermal treatment removed partial polar groups (-OH, -F) on MXene surface  without  by-product,  consequently  suppressed the electron  conduction  resistance.  Higher σ and  EMI  SE  of  the  an- nealed MXene ﬁlled epoxy composites is thus acquired, as shown in Fig. 30 (b). Yin et al. [393] also found a low reﬂection effective- ness of wax composites with introducing surface modiﬁed Ti X , but through high-temperature annealing of 800 °C, as presented Fig. 30 (c). The formation of TiO 2 nanocrystals and amorphous car- bon after annealing is the primary reason. However, EMI SE of the annealed MXene/wax composites is not as high as the unannealed 
+
+3 C 
+
+
+2 T 
+
+
+counterparts with increasing nanosheets loading because the TiO 2 on MXene surfaces inhibited the further construction of conduc- tive network. It can be concluded that different electric properties of MXene nanosheets can be obtained by tuning the temperature of surface modiﬁcation. 
+
+Despite  the  highly  eﬃciency  of  incorporating  sole  2D nanosheets  on  rising  the  EMI  SE  of  polymers,  the  proper  ad- dition  of  third-phase  0D  nanoparticles  facilitate  a  further  SE enhancement  of  the  multiphase  composites.  The  incorporated 0D  nanoparticles  could  serve  as  bridging  medium  of  adjust  2D nanosheets, which beneﬁts the formation of conductive networks in  the  multiphase  systems.  Hence,  decorating  metallic  nanopar- 
+
+Table 3 Summary of up-to-date σ and EMI SE of polymer composites containing various 2D nanosheets. 
+
+PANI/Ti 3 C 2 T X Wax/Ti 3 C 2 T X Wax/A-Ti 3 C 2 T X Epoxy/Ti 3 C 2 T X Wax/Ti 3 C 2 T X Paraﬃn/ZnO-Ti 3 C 2 T X PVB/Ti 3 C 2 T X Ti 3 C 2 T X /PVB/Co 2 Z PANI/Ti 3 C 2 T X Epoxy/A-Ti 3 C 2 T X SA/Ti 3 C 2 T X CNF/Ti 3 C 2 T X PEODT:PSS/Ti 3 C 2 T X PPy/paraﬃn/Ti 3 C 2 T X PPy/PET/Ti 3 C 2 T X Wax/Ti 3 C 2 T X -CNT PS/Ti 3 C 2 T X PI-aerogel/Ti 3 C 2 T X Ti 3 C 2 T X /PVA/MWCNT/PSS Ti 3 C 2 T X /PVA/SWCNT/PSS Epoxy/Ti 3 C 2 T X -rGO CNF/Ti 3 C 2 T X NR/Ti 3 C 2 T X PVA-foam/Ti 2 C PVA-foam/Ti 2 C SA-aerogel/Ti 3 C 2 T X CA aerogel/Ti 3 C 2 T X Epoxy foam/Ti 3 C 2 T X Fe 3 O 4 @Ti 3 C 2 T X /GNP/PDMS PS/PANI/MoS 2 Wax/MoS 2 
+
+ticles  onto  2D  nanosheets  surface  or  introducing  them  into  2D nanosheets  ﬁlled  composites  could  immediately  improve  σ of the  composites,  ﬁnally  enhance EMI  SE.  The  decoration  of  sliver (Ag) and gold (Au) nanoparticles onto graphene or GO nanosheets have been demonstrated competent in promoting EMI SE of PANI [ 377 , 388 ].  The  2D  nanosheets  ﬁlled  polymers  with  addition  of cobalt  (Co)  and  nickel  (Ni)  nanoparticles  also  present  analogous 
+
+3 O 
+
+
+results  owing  to  their  forcefully  increased  EMI  SE A  [ 377 , 389 ]. Moreover,  the  eﬃciency  of  this  method  is  corelated  with  the electrical resistance of the introduced metallic nanoparticles [377] . Incorporating magnetic 0D nanoparticles could also further in- crease EMI SE of 2D nanosheets ﬁlled composites. Typical magnetic nanoparticles including γ -Fe 4  [392] , 3 O 4 [378] et al. have been adopted as decora- NiO [420] and NiFe 
+
+3 O 
+
+
+2 O 
+
+
+2 O 
+
+
+Fig. 30.  (a) Schematic of surface modiﬁcation for Ti 3 C 2 T X MXenes through annealing at different tem perature. (b) EMI shielding performances of epoxy ﬁlled with Ti 3 C 2 T X and annealed MXene nanosheets at 200 °C. [399] , Copyright 2019. Reproduced with permission from Elsevier Science Ltd. (c) EMI reﬂection coeﬃcient of wax ﬁlled with 50 wt% Ti 3 AlC 2 , Ti 3 C 2 T X and annealed Ti 3 C 2 T X nanosheets at 800 °C. [393] , Copyright 2016. Reproduced with permission from American Chemical Society. 
+
+tions for some 2D nanosheets or the third component in the 2D nanosheets ﬁlled EMI shielding composites, as shown in Fig. 31 (a) and (b). As Section 4.3.4 states, the improved magnetic response of 2D nanosheets endows the orientation ﬂexibility with them un- der external magnetic ﬁelds. As presented in Fig. 31 (c), the TPU composites containing in-plane orientated Fe 4 @rGO nanosheets induced  by  magnetic  ﬁeld  show  higher  EMI  SE  compared  with the random dispersed ones and the counterparts containing out- of-plane  orientated  Fe 4 @rGO,  which  is  ascribed  to  the  higher probability  of  internal  repeated  reﬂection  and  scattering  of  inci- dent waves [391] . 
+
+3 O 
+
+
+3 O 
+
+
+The feasible EMI shielding mechanism of these polymer com- posites is summed up in Fig. 31 (d). Compared with the sole 2D nanosheets ﬁlled polymer composites, σ of the multiphase systems further increased since the proper impedance matching between air and the shield is obtained [419] . Apart from the high dielec- tric loss generated from the large surface area of 2D nanosheets, the strong interaction between 2D nanosheets and magnetic ﬁllers improved interfacial polarization, which help further improve di- electric loss. Meanwhile, the functional groups and defects on 2D nanosheets surfaces, as well as deformities in magnetic nanopar- ticles  promote  the  formation  of  dipoles  [ 421 , 422 ].  The  polariza- tion and relaxation behaviors of these dipoles at electromagnetic ﬁeld  generated  by  EM  irradiation  enable  the  composites  to  dis- sipate  energies,  which  contribute  to  improve  their  EMI  SE  [34] . Moreover, the magnetic nanoﬁllers endow high magnetic loss with the composites, which ulteriorly increase the EMI absorption of the composites. In general, the synergism of 2D nanosheets and mag- netic ﬁllers provides the polymer composites with satisfactory EMI SE. Mentionable, bi-layered composite ﬁlled with isolated magnetic ﬁllers and 2D nanosheets also present excellent EMI SE with sim- 
+
+2 Mxene compos- 
+
+
+ilar mechanism, RL of the layered PVB/Co 2 Mxene compos- ites is as high as -46.3 dB at 5.8 GHz with thickness of 2.8 mm [397] . 
+
+3 C 
+
+
+2 T 
+
+
+3 C 
+
+
+Commonly, EMI SE of polymer composites is positive corelated with their thickness and 2D nanosheets loading. As such, the com- posites with high ﬁller loading always present high EMI SE. For in- stance, SA, as a kind of low molecular weight polymer, suﬃcient high  encapsulation  strength  allows  the  incorporation  of  90  wt% X  MXene nanosheets. With a thin thickness of just 8 μm, Ti EMI SE of the composite reaches an extremely high value of 57 dB [43] . Nevertheless, the encapsulation strength decreases as molec- ular weight of polymer matrix increases, such as epoxy, PU and other  engineering  polymers  [ 423 , 424 ].  Although  a  high  absorp- tion  dominated  EMI  SE  of  70  dB  of  epoxy/graphene  is  achieved recently at extremely high-frequency (EHF) band (220–325 GHz), while  the  graphene  loading  is  still  less  than  10  wt%  [425] .  EMI SE of these polymers ﬁlled with 2D nanosheets are still unsatis- factory  even  with  thick  thickness,  which  is  limited  by  the  rela- tively low ﬁller loading. Concurrently, high 2D nanosheets loading arises the composites density, inevitably immolates the lightweight advantage  which  is  extremely  important  for  aerospace  applica- tions. To address this issue, assemble highly aligned 2D nanosheets within  polymer  matrixes  or  fabricating  well-deﬁned  3D  porous foams or sponges have been extensively applied. These methods which relay on adjusting 2D nanosheets arrangements, are effec- tive in increasing polymer EMI SE at ultralow loading is due to σ of 2D nanosheets is highly anisotropic resulted from their speciﬁc structure. As such, the epoxy ﬁlled with aligned graphene aerogel present higher EMI SE compared with the nonaligned counterpart 
+
+Fig. 31.  (a1) TEM image Fe 3 O 4 @C/rGO, (a2) reﬂection loss, (a3) magnetic loss tangent of Fe 3 O 4 @C/rGO. [421] , Copyright 2020. Reproduced with permission from Else- vier Science Ltd. (b1) TEM image of multi-layered Ti 3 C 2 T X intercalated with Fe 3 O 4 nanoparticles, EMI shielding performance of the Fe 3 O 4 @Ti 3 C 2 T X /GF/PDMS composites (b2) at 10.2 GHz and (b3) at 27.5 GHz . [411] , Copyright 2020. Reproduced with permission from Elsevier Science Ltd. (c1) TEM image of Fe 3 O 4 /rGO, (c2) EMI SE of the Fe 3 O 4 @RGO/TPU composites with random dispersed, out-of-plane and in-plane orientated Fe 3 O 4 @rGO at X-band and (c3) SE T , SE R , SE A of them. [391] , Copyright 2020. Re- produced with permission from Elsevier Science Ltd. (d) Feasible EMI shielding mechanism of the polymer composites ﬁlled with magnetic nanoparticles decorated 2D nanosheets. 
+
+as the absorption effect ( SE A ) is increased [380] . Besides, the highly aligned lamellar structure composed of 2D nanosheets facilitates the multiple reﬂection effect ( SE M ) of EMI inside them, which will further enhance EMI SE of the composites [409] . 
+
+basis of FD are evolved, as shown in Fig. 32 (c)(d). 3D porous com- posites or the 3D pre-support model can be directly obtained, the dense and strong interconnection of 2D nanosheets is thus real- ized, leading to ideal EMI SE of the composites [ 329 , 410 , 429 ]. 
+
+In  EMI  shielding,  the  generally  used  methods  in  realizing  2D nanosheets  arrangement  include  vacuum-assisted  ﬁltration  (VAF) [ 330 , 407 , 426 ] and freeze-drying (FD) [ 408 , 427 ]. In the VAF process, 2D nanosheets dispersion within polymers could be assembled to- ward the ﬂow direction, as shown in Fig. 32 (a). However, the weak bonding between 2D nanosheets and polymer matrix always cause nanoscale cracks in composites. Further, a method of separate ﬁl- tering 2D nanosheets and polymers alternately is developed based on VAF to achieve strong ﬁller-matrix bonding [ 405 , 428 ], as shown in  Fig.  32 (b).  Unfortunately,  isolated  2D  nanosheets  layer  in  the multilayer systems limited σ enhancement of the whole compos- ites,  thus  low  EMI  SE.  Accordingly,  a  serious  of  methods  on  the 
+
+For  comparation,  Fig.  32 (e)  summarized  the  speciﬁc  EMI SE/thickness (SE/t) of the composites with different 2D nanosheets arrangement as a function of 2D nanosheets loading. Polymer com- posites  ﬁlled  with  aligned  2D  nanosheets  or  their  3D  structures reveal signiﬁcant advantages compared with the ones containing random dispersed 2D nanosheets in EMI shielding, particularly at low  loading  level ( <  10  wt%).  The  structural  arrangement  of  2D nanosheets  promote  more  abundant  channels  for  electron  trans- portation, which could further improve σ of polymer composites. In addition, the formation of dense network leading to enhanced eddy current, which generated from the interaction between EMI wave and dipoles [ 421 , 429 , 430 ]. Importantly, the 3D porous struc- 
+
+Fig. 32.  Schematic illustrating of preparing polymers with aligned or 3D structural 2D nanosheets via the process of (a) vacuum-assisted ﬁltration. [431] , Copyright 2019. Reproduced with permission from Elsevier Science Ltd., (b) alternating vacuum-assisted ﬁltration [428] , (c) (d) freeze-drying related fabrications and their typical structures. [408] , Copyright 2019. Reproduced with permission from American Chemical Society. [410] , Copyright 2019. Reproduced with permission from Elsevier Science Ltd. (e) The EMI SE versus thickness value of polymer composites ﬁlled with random dispersed and structure arranged 2D nanosheets (including graphene-based and MXene nanosheets) as function of ﬁller loading, the data are collected from Table 3 . 
+
+ture allows the incident EM wave to entry the shielding compos- ites rather than reﬂect, reducing the chance of causing secondary reﬂections owing to most energy is dissipated through absorption [410] . It is mentionable that while the high σ of the composites enables them to reﬂect and absorb EM wave, the absorption capa- bilities of highly aligned 2D nanosheets and 3D networks play a dominant role for EMI shielding. 
+
+6. Mechanical properties of 2D nanosheets ﬁlled polymer 
+
+
+6. Mechanical properties of 2D nanosheets ﬁlled polymer composites 
+
+Excellent mechanical performance is another important prop- erty  of  polymers  in  practical  engineering  applications,  such  as aerospace,  energy  and  biomedicine.  The  parameters  in  polymers mechanical  performances  mainly  including  Young’s  modulus  ( Y ), tensile  strength  and  fracture  toughness.  Improving  polymer  me- chanical properties to achieve higher reliability and longer dura- bility  is  one  of  the  most  critical  and  challenging  aspects  in  the technical advancement. 2D nanosheets with unique planar struc- ture  and  unconventional  mechanical  properties  have  been  em- ployed  as  ideal  candidates  for  reinforcing  polymer  composites [ 30 , 34 , 432 ]. Typical 2D nanosheets used in this aspect mainly in- clude graphene, h -BNNS, TMDs and MXene, which have been in- troduced into polymers with different chemical and physical prop- erties  to  enhance  the  mechanical  performances.  For  providing  a clear comparison, Table 4 summarized the representative mechan- ical performances of 2D nanosheets ﬁlled polymer composites ac- cording to previous researches. 
+
+6.1. 2D nanosheets used for improving polymers mechanical properties 
+
+2 and 
+
+
+2 C nanosheets is 312 GPa under biaxial strain 
+
+
+As  mechanical  reinforcements  of  polymers,  the  intrinsic  me- chanical  performances  of  2D  nanosheets  is  vital  crucial.  The  ex- erted  Young’s  modulus  of  monolayer  graphene  was  1.0 ±0.1  TPa and the intrinsic strength was conﬁrmed to be 130 ±10 GPa, which is  the  strongest  2D  materials  to  date  [ 459 , 460 ].  The  OPBI  com- posites containing 0.4 wt% graphene presents signiﬁcant improved tensile strength and Young’s modulus. Whereas for the OPBI ﬁlled with  h -BNNS,  their  mechanical  properties  approach  the  approxi- mate level as the ﬁller loading reached 4 wt%. The distinction in ﬁller loading is due to the relatively lower intrinsic strength of h - BNNS (85 GPa) compared with graphene [461] . The Young’s mod- ulus ( ∼300 GPa) and strength (23 GPa) of MoS 2  are lower than monolayer graphene, but considerably higher than the macroscopic materials  [51] .  The  density  functional  theory  (DFT)  and  molecu- 2 and lar dynamics (MD) simulated Young’s modulus of Ti Ti 3  MXene  are  597,  502  and  534  GPa  [462–464] ,  which  are excellent  candidates  for  reinforcing  polymers  mechanical  perfor- mances.  Noteworthy,  the  mechanical  properties  of  MXene  is  in- ﬂuenced by the metal element (M) in them, the predicted elas- 2 C nanosheets is 312 GPa under biaxial strain tic modulus of Mo [465] , which is lower than the Ti containing MXene. Besides, the defects on 2D nanosheets surfaces generally hamper their intrin- sic mechanical properties, thus attenuate mechanical properties of polymer composites. Whereas not all the defects are detrimental to the composite mechanical properties, the Stone-Wales (SW) de- 
+
+3 C 
+
+
+4 C 
+
+
+Table 4 Summary of up-to-date mechanical performances of polymer composites containing various 2D nanosheets. 
+
+EP/Ti 3 C 2 T X /NH 2 -CF ANF/d-Ti 3 C 2 T X PVA/Ti 3 C 2 Tx Ti 3 C 2 T X @CNF 
+
+fects of graphene improve polymer mechanical performances ow- ing to strengthened ﬁller-matrix interface bonding arise from their high adsorption of polymer molecule [466] . 
+
+Considering the high aspect ratio features of 2D nanosheets, the well-known Halpin-Tsai (H-T) model is generally employed to pre- dict the Young’s modulus of polymers containing 2D nanosheets [467–469] , as Eqs. (6- 1 ) and (6- 2 ) show: 
+
+f / Y m − 1 Y f / Y m + ξ Y 
+
+f  and Y c  are the modulus of the polymer matrix, 2D where Y m , Y nanosheets  and  the  composites.  V f  is  the  volume  friction  of  2D nanosheets, ξ is the reinforcing eﬃciency parameter corelated to anisotropy of 2D nanosheets, which is 2( L / t ) ( L is the lateral size and t is the thickness of nanosheets, L / t = nanosheet aspect ratio) for  in-plane  alignment.  The  H-T  model  was  further  modiﬁed  to predict the Young’s modulus of 2D nanosheets ﬁlled polymer com- posites more accurately as follow [ 30 , 470 ]: 
+
+1 + 2(L/ 3 t) ηL V 
+
+( Y f / Y m ) − 1 f / Y m + 2 L/ 3 t Y 
+
+f / Y m ) − 1 ( Y f / Y m + 2 Y 
+
+(cid:3) 1 + (2 L/ 3 t) ηL V 
+
+where Y R is the Young’s modulus of the composites ﬁlled with ran- || is the modulus of the compos- domly dispersed 2D nanosheets, Y ites ﬁlled with unidirectionally distributed 2D nanosheets. 
+
+6.2. Inﬂuence factors on mechanical properties of 2D nanosheets 
+
+
+6.2. Inﬂuence factors on mechanical properties of 2D nanosheets ﬁlled polymer composites 
+
+The  size  of  2D  nanosheets  is  a  crucial  factor  for  poly- mer  composites  mechanical  performances  owing  to  the  domi- nating  role  of  ﬁller-matrix  contact  area.  Introducing  large-sized 2D  nanosheets  endow  the  strengthened  adhesive  force  between ﬁller  and  matrix  since  the  interfacial  contact  area  is  enlarged [23] .  The  mechanical  properties  of  epoxy/graphene  composites as  function  of  graphene  lateral  size  have  been  investigated,  as shown in Fig. 33 (a). According to results presented in Fig. 33 (b), graphene  with  large  size  is  more  constructive  in  enhancing  the strength of the composite compared with the small-sized graphene ﬁlled  counterpart.  The  increased  T g  of  the  composites  further demonstrated  the  momentous  suppressing  effect  of  large-sized graphene on epoxy segmental chains movement [471] , as shown in Fig. 33 (c). 
+
+2 ﬁlled PVA composites. It is clear from 
+
+
+Lie  et  al.  found  that  h -BNNS  with  relatively  large  aspect  ra- tio are more adequate in improving modulus and breaking elon- gation  of  CA  [472] ,  as  illustrated  in  Fig.  33 (d).  Similarities  have 2 ﬁlled PVA composites. It is clear from been reported in the MoS Fig.  33 (e),  the  addition  of  the  standard  sized  MoS 2  nanosheets degrades  the  mechanical  properties  of  PVA,  while  the  counter- parts ﬁlled with large-sized nanosheets improve the performance [51] . The signiﬁcant size dependency of the composites mechanical property enhancements suggested the load can be eﬃciently trans- ferred ascribed to the large contact area between 2D nanosheets and  polymers.  Besides,  the  thickness  of  2D  nanosheets  also  af- fected  mechanical  performances  of  the  composites  in  the  light of  interlayer  slippage  would  inescapably  attenuate  the  intrinsic load-carrying  eﬃciency  of  2D  nanosheets  [473] .  In  consequence, 2D  nanosheets  with  large  lateral  size  and  high  aspect  ratio  are much  preferred  in  strengthening  composites  mechanical  proper- ties theoretically. Nevertheless, the large-sized thin 2D nanosheets are prone to curling in the simple-mixed polymer composites. The uncontrollable morphology of them might cause structural defects inside the composites, which might deteriorate mechanical proper- ties of the polymer composites. 
+
+Fig. 33.  (a) Mechanical testing illustration of epoxy-based composite containing different sized functionalized non-oxidized graphene ﬂake (f-NOGF) (b) stress-strain curves, (c) dynamic mechanical analysis of pure epoxy and the composites with various sized f-NOGFs at 0.6 wt% loading. [471] , Copyright 2016. Reproduced with permission from Elsevier Science Ltd. (d) Young’s modulus, tensile strength and ultimate strain h -BNNS/CA composite ﬁlms containing 0.5 wt% h -BNNS selected with different centrifugation rate (aspect ratio). [472] , Copyright 2014. Reproduced with permission from The Royal Society of Chemistry. (e) stress-strain curves of pure PVA and the composites ﬁlled with different sized MoS 2 at 0.25 wt% loading. [51] , Copyright 2012. Reproduced with permission from American Chemical Society. 
+
+Most thin 2D nanosheets are prone to agglomeration and weak dispersed in the polymer matrixes due to the high surface energy and the gigantic speciﬁc surface area [ 224 , 268 , 474 , 475 ]. For exam- ple, the strong van der Waals force among graphene nanosheets reaches  up  to  a  high  value  of  5.9  KJ  mol −1  [23] .  Besides,  the mechanical  performances  of  polymer  composites  containing  2D nanosheets relies on the strength of ﬁller-matrix interfacial com- patibility. Our previous work explored the interface thickness vari- ation of h -BNNS/LDPE composites during the stressing process by using in-situ small angle X-ray scattering (SAXS) [476] , as shown in Fig. 34 (a). Results revealed that the interfacial layer thickness dramatically decreases as the applied tensile strain grows. Conse- quently, the interfacial layer gradually became undetectable owing to the interface debonding occurred with stress rising, ﬁnally the failure happens, as shown in Fig. 34 (b). 
+
+Actually,  the  interfacial  bond  strength  between  the  2D nanosheets and polymer matrix is extremely weak as the van der Waals  bridge  is  the  primary  bonding  means  [ 23 , 34 , 477 ].  There- fore, the surface modiﬁcation is also generally adopted in achieving polymer composites with high mechanical performances since the uniformly 2D nanosheets dispersion and strong interfacial bond- ing  could  be  simultaneously  realized.  The  covalent  modiﬁcation of  2D  nanosheets  has  been  proved  to  enable  the  composites  to transmit  stress  from  matrix  to  the  incorporated  2D  nanosheets [ 260 , 264 , 266 ]. APTES modiﬁed h -BNNS dramatically improved the mechanical performances of epoxy ( Fig. 34 (c)) [224] . The compos- ites containing modiﬁed h -BNNS possess high enhancement eﬃ- ciency  in  tensile  strength  and  elongation  at  proper  APTES-BNNS loading,  as  shown  in  Fig.  34 (d).  The  lifted  storage  modulus  and T g  of  the  composites  ( Fig.  34 (e))  indicate  the  APTES-BNNS  con- nected  the  epoxy  molecular  chains  tightly,  prevented  the  chain movements so that enhance their load-bearing capabilities. How- ever, the covalent modiﬁcation based on chemical reaction often 
+
+curtails the intrinsic strength of 2D nanosheets considering the in- evitably formed defects on their surfaces. 
+
+The signiﬁcant effect of non-covalent modiﬁcation through hy- drogen bridge or π - π interaction is explored as well. Nandi et al. [102]  embedded  the  polythiophene-graft-poly(methyl  methacry- late)  (PT-g-PMMA)  non-covalently  modiﬁed  graphene  (PFG)  into PVDF  and  the  mechanical  performances  of  the  composites  are greatly  enhanced,  as  shown  in  Fig.  34 (f).  The  clear  comparison manifests  the  composites  strain  initially  increases  with  the  PFG loading, exhibits a maximum at 1 wt % PFG loading. As given in Fig. 34 (g) and (h), the modiﬁed 2D nanosheets dispersed uniformly in  PVDF  matrix  and  thus  the  improved  Young’s  modulus  of  the composites is well coincided with the Halpin-Tsai theoretical value for the random ﬁller distributed systems, which indicates the con- siderable eﬃciency of non-covalent modiﬁcation. It is worth noting that the parallel alignment of 2D nanosheets within the compos- ites is more beneﬁcial in lifting the mechanical performances ac- cording to the Halpin-Tsai parallel module (red line in Fig. 34 (h)), especially at higher 2D nanosheets loading level, which will be dis- cussed in the following section. 
+
+2 T 
+
+
+The strong atomic bonds along the parallel direction empower the ultrahigh anisotropic mechanical property with 2D nanosheets. Arranging 2D nanosheets along the loading direction beneﬁt fur- ther boosting the loading-carrying facilities of the polymer com- posites.  The  composites  containing  2D  nanosheets  prepared  via VAF facilitate the alignment of 2D nanosheets perpendicular to the ﬁltration direction. Parallel alignment of dispersed 2D nanosheets such as h -BNNS [268] and Ti X [456] , increased the mechani- 2 T cal performance of polymers eﬃciently. The Young’s modulus and stress of the composites with aligned 2D nanosheets increased and then decreased with growing ﬁller loading, as shown in Fig. 35 (a) and  (b).  The  aligned  2D  nanosheets  furnished  suﬃcient  ﬁller- 
+
+3 C 
+
+
+Fig. 34.  (a) Original 2D SAXS images and Porod curves of LDPE containing 3 wt% h -BNNS during the stretching process, (b) the stress-strain curve of the h -BNNS/LPDE composite and the interface layer thickness variation. [476] , Copyright 2018, Reproduced with permission from Springer Nature. (c) Schematic diagram of covalent modiﬁ- cation for BNNS via using APTES, (d) tensile strength, elongation and (e) storage modulus and T g of the APTES-BNNS/epoxy composites with increasing ﬁller loading. [224] , Copyright 2020, Reproduced with permission from American Chemical Society. (f) Mechanical performances of the non-covalent surface modiﬁed graphene (PFG) ﬁlled PVDF composites, (g) schematic presentation of fabrication of the composites, (h) Young’s modulus of the composites and comparation of theoretical data using Halpin-Tsai parallel and random model. [102] , Copyright 2016, Reproduced with permission from Elsevier Science Ltd. 
+
+Fig. 35.  (a) Young’s modulus and tensile stress of PVA composites ﬁlled with parallel aligned FBN at various PVA content. [268] , Copyright 2018. Reproduced with permission from The Royal Society of Chemistry. (b) Typical stress-strain curves of parallel aligned Ti 3 C 2 T X /ANF composite papers and digital image of the paper withstanding a weight of 200 g, [456] , Copyright 2019. Reproduced with permission from The Royal Society of Chemistry. (c) Proposed fracture mechanism illustration of the composites containing aligned 2D nanosheets as dispersions. 
+
+Fig. 36.  (a) Fabrication of PC composites ﬁlled with aligned, semi-inﬁnite CVD graphene and true stress-strain responses of planar and scrolled ﬁber nanocomposites. [480] , Copyright 2016. Reproduced with permission from American Association for the Advancement of Science. (b) Cross-sectional SEM images and mechanical properties of alternating multilayered MXene/CNF composites. [458] , Copyright 2020. Reproduced with permission from American Chemical Society. (c) Proposed fracture mechanism illustration of the multilayer composites containing aligned 2D nanosheets as interlayer. 
+
+matrix contact area to maximized the interfacial bonding, ﬁnally contribute to the mechanical property enhancements of the com- posites. Nonetheless, the load could not be entirely exerted on the mechanical  reinforcements  due  to  the  dispersed  2D  nanosheets are  inconsecutive  in  matrixes.  The  deformation  of  polymer  ma- trix occurs prior to the fraction of 2D nanosheets, as proposed in Fig. 35 (c). Moreover, the slipping of 2D nanosheets inevitably take place at high loading [ 478 , 479 ]. Meanwhile, the mechanical per- formance of the composites is affected by the nanosheets lateral size  as  well  even  in  the  aligned  systems.  The  composites  ﬁlled with small-sized nanosheets are always poor load-bearers, which has been abovementioned. 
+
+2 T 
+
+
+3 C 
+
+
+The  interlayer  constructed  by  continuous  2D  nanosheets  in polymers  are  more  attractive  in  their  mechanical  improvements. Liu  et  al.  [480]  used  CVD  grown  graphene  as  interlayer,  fab- ricated  the  multilayer  PC  composites  by  layer  stacking.  The scrolled composite ﬁber with aligned graphene present extraordi- nary high modulus at exceptionally low graphene volume fractions of  only  0.082%, as  presented in  Fig.  36 (a). The highly-assembled Ti X  nanosheets  layer  plays  an  analogous  role  in  the  multi- layer MXene/CNF systems prepared by alternated VAF, as shown in Fig. 36 (b). The multifunctional ﬁlm revealed the improved me- chanical  strength  (112.5  MPa)  compared  with  both  freestanding MXene ﬁlm and homogeneous MXene/CNF composites [458] . The highly interconnected 2D nanosheets layer assembled through the whole composite seamlessly, allowed the load to be principally ap- plied  on  the  reinforcements  and  facilitated  improving  the  load- carrying capacity of the composites at low ﬁller content. As pro- posed  in  Fig.  36 (c),  the  fracture  mechanism  of  the  alternating multilayer  composites  differs  much  to  those  containing  aligned 2D nanosheets dispersion. The rigid 2D nanosheets interlayer car- 
+
+ried most fracture energy and generate zigzag cracks ﬁrstly during stretching. The cracks growth is prevented by the robust polymer layers, which act as load-bearing frames to withstand the whole structure until reached ultimate loading [ 458,481 ]. Moreover, the multilayer composites possess high toughness (2.7 MJ m −3 ) com- pared  to  the  homogeneous  dispersed  composites  ( Fig.  36 (b)), which addressed the conﬂict between strength and toughness of nanocomposite as MXene interlayer number is 4. Comparable re- sults are obtained in a bi-continuous lamellar composites consist of GO and PVA layers [481] . 
+
+Assembling 2D nanosheets to construct 3D structure also help improve  polymer  composites  toughness  without  sacriﬁcing  their strength  [ 255 , 329 , 479 , 4 82–4 85 ].  Importantly,  the  strength  rein- forcements hardly hamper the Young’s modulus of the composites. As shown in Fig. 37 (a), PMMA composites in which pre-supported by CVD fabricated 3D-BNNS present excellent mechanical perfor- mances with simultaneous high modulus and strength [255] . The 3D networks act a crucial role for the outstanding mechanical per- formances.  Firstly,  the  continuous  interconnected  2D  nanosheets vanish the ubiquitous adverse stress concentrations in those sys- tems  with  random  dispersed  ﬁllers  [486]  and  offer  reinforced strength of polymers. Furthermore, the 3D architecture maximized the  ﬁller-matrix  interfacial  contact  area,  which  beneﬁt  transfer- ring  load  effectively  [34] .  Com pared  with  the  improved strength of polymers, the dominating advantage of 3D architecture reﬂected in their toughness enhancements. It is reported that the well dis- persed and oriented pores endow polymer extra toughening mech- anisms, thus present higher fracture toughness than the solid ones, as shown in Fig. 37 (b). While the graphene foam (GF)/epoxy com- posites present a high toughness with a remarkable enhancement of 70% than that of solid epoxy. The cellular 3D networks func- 
+
+Fig. 37.  (a) Stress-strain curves of the 3D h -BN nanorod-interlinked networks (3D-R-BN)/PMMA, the highly crystalized 3D h -BN nanosheet-interconnected frameworks (3D- NS-BN)/PMMA composites and their compression strengths and modulus. [255] , Copyright 2018. Reproduced with permission from John Wiley & Sons Inc (b) The fracture toughness of solid epoxy, porous epoxy and GF/epoxy composites. [479] , Copyright 2014. Reproduced with permission from American Chemical Society. (c) The fracture toughness of UL-UGA/epoxy, S-UGA/epoxy composites with graphene sheets aligned transverse to the load direction and their vertical cross section SEM images. [484] , Copyright 2018. Reproduced with permission from American Chemical Society. (d) The fracture toughness and schematics of fracture process of GWF/epoxy composites loaded in two different directions. [482] , Copyright 2015. Reproduced with permission from American Chemical Society. 
+
+tion as crack arresters to blunting or deﬂecting crack tip, which provide  rougher  fracture  surface  and  a  larger  surface  area  con- tribute  to  further  lift  fracture  toughness  of  polymer  composites [479] . However, the encouraging effect of 3D architecture also de- pends on 2D nanosheets lateral size. The unidirectional graphene aerogels  (UGAs)  prepared  by  using  high-quality  and  low-defect ultra-large (UL) GO nanosheets possess highly aligned pore walls with high orientation, UL-UGAs effectively enhanced the fracture toughness of epoxy by 69% at graphene volume fraction of 0.11 %. Whereas the pore walls in the counterparts fabricated with small GO nanosheets are random along with obvious defects, thus the toughness enhancement of their UGAs reinforced epoxy compos- ites is moderate, as shown in Fig. 37 (c) [484] . Subsequent research found that adjusting crack propagation direction could maximize the crack tip blunting effect of 3D porous architecture. As shown in Fig. 37 (d), the graphene woven fabrics (GWFs)/epoxy composites show desirable fracture toughness by tunning the graphene tubes (GTs)  direction at  45 ° to  the  crack running direction mainly  be- cause the further enhanced crack tip blunting effect [482] . 
+
+7. Summary and perspectives 
+
+
+Since the discovery of graphene, the prosperous 2D nanosheets are  synthesized  and  widely  employed  as  ﬁllers  to  develop  poly- mer  composites.  Despite  the  variations  of  sizes,  thicknesses  and surface defects of 2D nanosheets, the highly anisotropic properties originated from speciﬁc 2D structures endow their polymer com- posites  with  numerous  novel  and  tunable  performances.  In  this review, an introduction of 2D nanosheets preparation methods is summarized ﬁrstly. Subsequently, we have highlighted the recent research progresses in developing polymer composites containing various 2D nanosheets, especially regarding to their dielectric, ther- mal, electromagnetic and mechanical performances. The early re- 
+
+searches  started  from  simply  incorporating  2D  nanosheets  with polymers. Later, the tremendous efforts including surface modiﬁca- tion of 2D nanosheets, the multiphase ﬁller designs, the multilayer designs of composites and adjusting 2D nanosheets arrangements have been made to transfer the excellent anisotropic properties of 2D nanosheets to polymer matrix as much as possible. Therefore, a thorough understanding concerning ﬁller-matrix interface capac- ities, polymer composites microstructures and the corresponding novel performances is urgently required. 
+
+Despite  the  progress  of  polymer  composites  ﬁlled  with  2D nanosheets  towards  various  applications  has  been  achieved,  the challenges still remain to be resolved and the possible future per- spectives are proposed as follow: 
+
+(1) Although  the  2D  nanosheets  ﬁlled  polymers  composites  pos- sess  various  novel  characteristics,  till  now,  the  fabrication  of thin layered, high yield, low cost and environmentally friendly 2D nanosheets is still the most challenging bottleneck, which restricts the development of polymer composites. Meanwhile, the  surface  modiﬁcation  of  2D  nanosheets,  or  assembling  2D nanosheets into reasonable structures facilitate the realization of  multifunctional  polymer  composites,  due  to  the  improved ﬁller  dispersion  and  the  enhanced  interface  compatibilities. Therefore,  further  developing  the  2D  nanosheets  preparation processes  and  optimizing  these  surface/structural  treatment technologies will boost competitive advantages and widen the applications of polymer composites containing 2D nanosheets in the future. 
+
+(2) The  research  about  enhanced  short-term  breakdown  of  poly- mers  reinforced  by  2D  nanosheets  is  still  in  its  infancy.  Al- though some schematic models have been proposed, the inﬂu- ence mechanisms of the nanoﬁller effects and quantum size ef- fect of 2D nanosheets on polymer breakdown are still unclear. 
+
+2 O 
+
+
+3 et al.). The introduction of the ﬁrst two types 
+
+
+In engeneering applications, despite the fact that 2D nanosheets have been early used in enhancing the long-term electrical ag- ing performances of polymer dielectrics, the mechanism inves- tigation about how can the 2D nanosheets improve the electric aging  bearing  capacity  of  polymers  still  stays  at  the  stage  of model illustrating. The relevant effects of the 2D nanosheets on improving the long-term corona aging resistance or high-speed electron impact resistance of polymers need to be further ex- plored. At present, the primary ﬁllers used to improve dielectric prop- erties of polymer composites can be simply divided into three types, including conductive (graphene, MXene et al.), ferroelec- tric ceramic (BT, SBT, CNO et al.) and insulating 2D nanosheets (BN, MMT, Al 3 et al.). The introduction of the ﬁrst two types of 2D nanosheets beneﬁt brings the εr  enhancement of poly- mer  composites,  whereas  the  addition  of  3rd  type  counter- parts is primarily for the beneﬁt of improving their E b . How- ever,  it  is  still  challenging  to  enhance  energy  storage  perfor- mance  of  the  composites  because  it  is  required  to  enhance both εr and E b of composites simultaneously. To date, no desir- able pristine 2D nanosheets could enhance one of them with- b  seems  to  be  more out  sacriﬁcing  the  another  one.  High  E signiﬁcant in energy storage composites because the lifted εr always  accompanied  with  high  dielectric  loss.  Therefore,  the exploration  of  insulating  2D  nanosheets  with  moderate  εr  is urgently needed. In addition, the thermal conductivity of the 2D  nanosheets  should  be  considered  in  polymer  composites of high-temperature applications. The combination of conduc- tive  or  ceramic  2D  nanosheets  as  one  phase  and  the  insu- lating 2D nanosheets as another to construct multiphase sys- tem facilitates increasing energy storage performances of poly- mers, but the reinforcing mechanisms need to be further ex- plored.  The  surface  designs  of  2D  nanosheets  and  the  multi- layer designs of polymer composites containing 2D nanosheets are the frequently used and the highly eﬃcient methods, tak- ing  advantages  of  the  electric  ﬁled  redistribution  at  interface areas  or  in  interlayers.  Nevertheless,  the  preparation  meth- ods  for  scaling-up  these  composites  needed  to  be  further developed. 
+
+(3) The 2D nanosheets used for improving polymer λ mainly in- clude  conductive  graphene,  MXene  and  some  insulating  2D inorganic  nanosheets  represented  by  h -BNNS,  which  allows phonon  to  transport  quickly  and  eﬃciently.  The  λ enhance- ment of polymers is mainly dominated by the interface ther- mal  resistance  level  and  construction  of  interconnected  ther- mal  conductive  paths  or  networks.  Consequently,  large-sized 2D  nanosheets  with  high  crystalline  is  the  top  choice  in  de- signing  thermal  conductive  composites,  as  the  large  contact area and less ﬁller-matrix interfacial regions contribute to re- duce  thermal  conductive  resistance.  The  surface  modiﬁcation of  2D  nanosheets  promotes  improving  their  dispersion  and ﬁller-matrix  interfacial  compatibility,  thus  generates  higher  λ of  the  composites.  However,  how  to  form  the  strong  bond- ing between 2D nanosheets surfaces and polymer matrix with- out  destroying  their  crystalline  structure  is  still  a  challenge. Polymer composites with highly aligned 2D nanosheets always perform  ultrahigh λ in  a  speciﬁc  direction  taking  advantages of  the  anisotropy  properties  of  2D  nanosheets.  Assemble  2D nanosheets into a well-deﬁned 3D architecture in polymer ma- trix may realize high λ of the composites along both in-plane and  through-plane  directions.  These  advanced  methods  con- duce to attaining desirable thermal conductive performances of polymers at relatively low ﬁller loading. Nevertheless, it is still challenging to acquire high λ of polymer composites at low 2D nanosheets loading without sacriﬁcing their insulating or me- chanical performances owing to realizing the seamlessly inter- 
+
+connected 2D nanosheets within polymer matrix is still diﬃ- cult, which will be a future area to improve. 
+
+(4) Light-weight  and  ﬂexible  polymer-based  EMI  shielding  mate- rials  are  becoming  much  desirable  compared  with  the  tradi- tional heavy-massed shielding materials, for example, concretes and  metals.  The  incorporation  of  conducting  2D  nanosheets (such as graphene, MXene and TMDs et al.) enables polymers to shield the harmful electromagnetic irradiation. Among the com- plex shielding methods, the absorption in polymer EMI shield- ing  is  the  most  preferable  in  practical  applications  since  the secondary  reﬂection  should  be  avoided.  The  σ ,  which  dom- inates  EMI  shielding  performances  of  polymer  composites  is closely related to the 2D nanosheets sizes, thicknesses, defects and surface functional groups. In-depth investigation of defects and doping contents over nanostructure of 2D nanosheets such as  graphene  and  MXene  may  further  improve  EMI  SE  of  the composites. Besides, considering the inhibitory effect of MXene surface functional groups on their σ , while removing surface groups by the available techniques will cause their oxidation, thereby the removements of MXene surface groups will be an- other future concern in developing EMI shielding composites. Meanwhile, the decoration of metallic or magnetic nanoﬁllers onto  conductive  2D  nanosheets  brings  about  extra  magnetic loss, which beneﬁts in enhancing EMI SE of polymer compos- ites. Based on this, the exploration about new 2D nanosheets with both conducting and magnetic properties are worthy ef- forts  for  EMI  shielding  composites.  Recently,  assembling  2D nanosheets  into  a  porous  3D  architecture  is  investigated  to further optimize EMI shielding performance of polymer com- posites owing to the new structures’ contribution of maximiz- ing internal reﬂections and overall absorption. Please note that when  designing  MXene  ﬁlled  polymer  composites  using  this strategy, porosity must be well controlled as the MXene’s ox- idation rate will be accelerated. 
+
+(5) The  mechanical  performances  including  Young’s  modulus, strength and fracture toughness of polymers can be reinforced with some strong 2D nanosheets, such as graphene, MXene, h - BNNS  and  TMDs.  In  this  topic,  the  role  of  interfacial  contact area is the key factor. Therefore, the selection of 2D nanosheets with appropriate sizes and thicknesses is of vital importance. In addition, surface modiﬁcation of 2D nanosheets promotes fur- ther enhancement of load-bearing capacity of the composites. Whereas the arrangement of 2D nanosheets endow the com- posites with excellent fracture toughness. Up to date, there are still very few studies focusing solely on the mechanical proper- ties of polymer composites containing 2D nanosheets, and the reinforcing  mechanism  needs  to  be  further  studied  since  the mechanical performances of polymer composites are highly rel- evance and crucial for practical engineering applications. 
+
+The  recent  advances  in  polymer  composites  containing  2D nanosheets in terms of their novel electrical, thermal conductive, electromagnetic and mechanical properties have been highlighted in this review. Despite the efforts already made and the remaining challenges,  2D  nanosheets  are  advanced  reinforcement  ﬁllers  for polymer composites. In summary, the researches of 2D nanosheets ﬁlled polymer composites are in the initial stages of their devel- opment, untapped potential applications and opportunities of the composites are worth expecting since the 2D nanosheets exhibit many other remarkable properties. 
+
+The authors declare that they have no known competing ﬁnan- cial interests or personal relationships that could have appeared to inﬂuence the work reported in this paper. 
+
+Special thanks are given to Dr. Congcong Zhu and Dr. Dong Yue for  the  portion of  data collection,  special acknowledgements are given  to  Dr.  Bo  Su  for  helping  polish  the  language.  The  authors are grateful to Dr. He Zhao, Dr. Yanpeng Li, Dr. Congcong Zhu, and Dr.  Dong  Yue  for  the  proofreading  of  this  work.  This  work  was supported by National Natural Science Foundation of China (grant numbers  52177017,  51777047  and  51807041),  China  Postdoctoral Science  Foundation  (No.  2021M691998  and  2020T130156),  Hei- longjiang Postdoctoral Financial Assistance (No. LBH-Z18098), Key Laboratory of Engineering Dielectrics and Its Application (Harbin University  of  Science  and  Technology)  and  Ministry  of  Educa- tion (Grant No. KFM202006), Fundamental Research Foundation for Universities of Heilongjiang Province (No. 2019-KYYWF-0207 and 2018-KYYWF-1624)  and  Project  SKLD20M13  supported  by  State Key Laboratory of Power System and Generation Equipment. 
+

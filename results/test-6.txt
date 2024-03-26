@@ -1,0 +1,134 @@
+Enhanced thermal conductivity and ideal dielectric properties of epoxy composites containing polymer modiﬁed hexagonal boron nitride 
+
+Key Laboratory of Material Chemistry for Energy Conversion and Storage (HUST), Ministry of Education, School of Chemistry and Chemical Engineering, Huazhong University of Science and Technology, Wuhan 430074, China 
+
+Surface modiﬁcation of chemically-inert hexagonal boron nitride (h-BN) to reduce its interfacial thermal re- sistance remains problematic, thereby hindering its application in thermal conductive composites. Here, poly (glycidyl methacrylate) (PGMA) chains were grafted onto the surface of h-BN by using a simple free radical polymerization. The prepared PGMA grafted h-BN (h-BN-PGMA) was incorporated into epoxy (EP) to enhance the thermal conductivity of EP composites. Adding 3, 9 or 15 vol% of h-BN-PGMA into EP leads to 60%, 203% or 505% increases in thermal conductivity, respectively. Meanwhile, the surface modiﬁcation of h-BN is beneﬁt to enhance the compatibility between the ﬁllers and EP matrix, which reduces the apparent viscosity of composite materials. Furthermore, compared with EP/h-BN, EP/h-BN-PGMA composites with the same ﬁller-loading ex- hibit higher storage modulus and glass transition temperature. Additionally, the dielectric constant of the composites hardly depends on the testing frequency while the dielectric loss maintained at a very low level. 
+
+1. Introduction
+
+
+Epoxy (EP) is widely used in electronic packaging underﬁll process, contributing to the long service life and high performance of electronic devices [1–4]. However, its poor thermal conductivity (∼ 0.2 W/mK) and complex packaging process hamper its further development. The design and fabrication of EP-based electronic packaging materials with excellent thermal conductivity (> 1 W/mK), high electrical resistance, low viscosity (< 20 Pa⋅s at 25 °C) and high glass transition temperature and mechanical properties do remain challenging [5,6]. Furthermore, the dielectric constant is an important factor to the operational speed of integrated circuits, i.e., the lower the dielectric constant of packaging underﬁll materials, the faster the signal transmission speed [7,8]. Hence, improving thermal conductivities of EP-based composites while maintaining its low dielectric constant plays an important role in electronic packaging underﬁll process. 
+
+It is well known that an incorporation of ceramic particles with high thermal conductivity, such as aluminum nitride (AlN) [9–12], alumina (Al2O3) [13,14], silicon carbide (SiC) [7,15,16], and silicon nitride (Si3N4) [17,18], into matrix can greatly improve the heat-conduction of composites. However, the high thermal conductivity often requires a highly ﬁller loading to build a heat-conduction network. This method consequently leads to signiﬁcant increase in the viscosity of the com- posites, dramatic degradation of polymer matrix during the process, 
+
+and remarkable deterioration of material mechanical performance. More importantly, adding attractive thermal conductive ceramic ma- terials usually seriously deteriorates the dielectric properties of polymer composites. Boron nitride is also one kind of thermal conductive ceramic ﬁller containing three crystalline forms, hexagonal boron ni- tride (h-BN), cubic boron nitride (c-BN) and wurtzite boron nitride (w- BN). Among them, h-BN, known as white graphite, has obtained much concern due to its excellent comprehensive characteristics such as high thermal conductivity (250 ∼ 300 W/mK) and low dielectric constant comparing with traditional ceramic ﬁllers like Al2O3 and AlN. Although its thermal conductivity is much lower than that of graphene, its high electrical resistance and ideal dielectric property make it a viable candidate for use in electronic packaging underﬁll process [19,20]. For instance, Sato [21] fabricated polyimide (PI) composites containing 75 wt% of h-BN, while the thermal conductivity of PI composites reaches up to 7 W/mK. Chen et al [22] built cellulose and BNNS hybrid 3D aerogels (3D-C-BNNS) and introduced them into EP. The obtained EP/3D aerogel composites can show a thermal conductivity enhance- ment of about 1400% at a low BNNS loading of 9.6 vol%. The im- provement of heat-conduction indicates that the introduced BNNSs contributes to build the heat-conduction network in the composites. Many factors inﬂuence heat-conduction of EP-based composites, in- cluding microstructure of ﬁllers and their dispersion as well as inter- facial interactions between the heat conductive particles and EP matrix. 
+
+https://doi.org/10.1016/j.compositesa.2018.02.016 Received 11 September 2017; Received in revised form 8 February 2018; Accepted 9 February 2018 
+
+Inorganic ﬁller possessing large aspect ratio is of great beneﬁt to its dispersing well in polymer matrix, and then building more eﬀective thermal conductive network even if at low ﬁller loading. Meanwhile, grafting polymer on the heat conductive particle surface has been proved as a proper method to enhance both ﬁller dispersion and its compatibility with polymer matrix. And these will result in an increased heat-conduction of composites [23,24]. 
+
+In this study, two strategies were combined to improve the heat- conduction of EP composites. On the one hand, a large aspect ratio h- BN was chosen to build thermal conductive network at a low percola- tion threshold. On the other hand, a thin layer of poly (glycidyl me- thacrylate) (PGMA) was coated on the edge of h-BN to enhance the interfacial interaction between the h-BN and EP resin by using a simple free radical polymerization. The resulted strong chemical bonding be- tween h-BN and EP can reduce interface thermal resistance, thereby 
+
+Furthermore, the use of a low h-BN ﬁlling content may be a promising route to producing composites with ideal dielectric properties and low viscosity. 
+
+2. Experimental
+
+
+2.1. Materials
+
+
+h-BN powder (∼30 μm in size, ∼200 nm in thickness and ∼150 in aspect ratio) was purchased from Dandong Rijin Co., Ltd (China). γ- Mercaptopropyl trimethoxysilane (MPMS), benzoyl peroxide (BPO) and glycidyl methacrylate (GMA) were provided by Tokyo Chemical Reagent Co., Ltd (Japan). 
+
+2.2. Functionalization on h-BN surface
+
+
+The surface hydroxylation of h-BN was achieved by using strong alkali according to a previous report [25], and the resulting edge planes of h-BN successfully yielded hydroxyl groups bounded to the boron atoms. The resultant hydroxylated h-BN (h-BN-OH) was then grafted with coupling agent according to the scheme of Scheme 1. The speciﬁc process was as follows: h-BN-OH (2 g) and an appropriate amount of MPMS (1–2 wt% relative to the h-BN-OH) were ultrasonically dispersed into toluene (200 mL) for 15 min [26]. The resulting suspension was reﬂuxed and stirred for 12 h at 110 °C under N2 atmosphere. After the reaction suspension was ﬁltered and washed for many times, the MPMS grafted h-BN (h-BN-MPMS) was obtained. The last step, PGMA grafted h-BN (h-BN-PGMA) was prepared by using a simple free radical poly- merization. Brieﬂy, in a 500 mL three necked ﬂask equipped with a mechanical stirrer and reﬂux condenser, 1 g of h-BN-MPMS and 8 mL of GMA were put into 150 mL DMF and stirred for 1 h under N2 atmo- sphere. The obtained dispersion was then heated to 55 °C. After 0.083 g 
+
+Table 1 Apparent viscosity of neat EP and its composites ﬁlled with h-BN at 25 °C. 
+
+of BPO was slowly added into the dispersion, the grafting reaction took place and lasted for 12 h. Finally, the prepared h-BN-PGMA was dis- persed in ethanol for future use. 
+
+2.3. Formulation design and preparation of epoxy composites
+
+
+In order to ensure the smooth penetration of packaging material into small gaps, a viscosity lower than 20 Pa⋅s at 25 °C is necessary during the electronic packaging underﬁll process. The viscosity of EP and its composites were measured through a rheometer (Anton Paar MCR 302, Austria). Table 1 shows the apparent viscosity of EP/h-BN composites with diﬀerent loading. With ﬁller loading increasing, the apparent viscosity increases rapidly. In particular, the composite with 18 vol% of h-BN loading has high values of 38.7 Pa⋅s and 27.3 Pa⋅s at −1, respectively. These values are higher shear rates of 10 s than 20 Pa⋅s, i.e., the limit value for electronic packaging underﬁll process. Therefore, the ﬁller contents lower than 18 vol% were chosen for further experiments. 
+
+In a typical process, the h-BN or h-BN-PGMA suspension (dispersed in ethanol) was mixed together with a suitable amount of epoxy resin and any excess ethanol was removed by rotary evaporation. The ob- tained blend was subsequently combined with 8 wt% of curing agent based on epoxy resin and the mixture was poured into molds for further curing cycle. Finally, the disc specimens with a diameter of 100 mm and a thickness of 1 mm were produced. And the h-BN-PGMA loadings in the composites were set to 3, 9 and 15 vol%, respectively. And the ﬁnal epoxy composite were directly used for the thermal conductive mea- surement. The EP/h-BN composites were produced as the same proce- dure as EP/h-BN-PGMA composites. 
+
+2.4. Measurements
+
+
+Chemical structures of the raw h-BN and h-BN-PGMA were mea- sured using a FTIR spectrometer. The morphologies of h-BN and h-BN- PGMA were investigated with a ﬁeld emission-scanning electron 
+
+Fig. 1. SEM images of (a) pristine h-BN and (b) h-BN-PGMA, EDS result of (c) h-BN and (d) h-BN-PGMA. (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the web version of this article.) 
+
+microscope (FE-SEM, FEI Co., Netherlands) and transmission electron microscopy (TEM, FEI Co., Netherlands). Their compositional in- formation were also obtained by energy dispersive X-ray spectroscopy (EDX, EADX Inc., USA). Thermogravimetric analysis (TGA) tests were conducted using a thermogravimetric analyzer (TGA, Perkin Elmer TGA-7) with a scanning range from 30 °C to 800 °C and a heating rate of 10 °C/min under a nitrogen atmosphere. (Performance characterization of composites displayed in SI) 
+
+3. Results and discussion
+
+
+3.1. Surface treatment of thermal conductive ﬁller
+
+
+Fig. 1 displays the morphologies and elemental compositions of the h-BN and h-BN-PGMA. The h-BN possesses smooth surface with size of 30 ± 5.0 μm (Fig. 1a). The surface of the modiﬁed h-BN became rougher (Fig. 1b), which results from the formation of PGMA layers after surface treatment. The EDS for the h-BN shows the trace amount of C and O elements (Fig. 1c). This may be attributed to the impurities during the synthetic processes [23]. In contrast to the raw h-BN, the h- BN-PGMA owns much higher content of C and O, which is indicative of the successful grafting of PGMA on the ﬁller (Fig. 1d). The TEM results show a thin layer coating on the surface of ﬁller (Fig. 2), and a 7 nm of layer conﬁrms the successful surface treatment. 
+
+Fig. 3 displays the FT-IR result of surface modiﬁcation. With regard −1 are ascribed to the BeN to h-BN, the absorption of 817 and 1372 cm −1 can be attributed to the bond. Moreover, the broad peak of 3442 cm hydroxyl groups on the ﬁller, or to surface moisture. For the h-BN- −1. What’s more, PGMA, the peak of the ester group appears in 1740 cm 
+
+−1. The peaks at 2930 and the epoxide absorption appears at 908 cm −1 are ascribed to the eCH3 and eCH2e absorption vibration 2950 cm respectively. In conclusion, the FT-IR spectra show that PGMA have modiﬁed on the surface of the ﬁller. 
+
+TGA data further prove the successful modiﬁcation on the thermal conductive ﬁller. Fig. 4 shows that obvious weight loss can be observed in h-BN-PGMA. However, the weight grafting ratio is still low due to only a few hydroxyl group (eOH) is decorated on the h-BN [27]. At 800 °C, h-BN-PGMA exhibits 8.7% of weight loss, indicating that PGMA chains are successfully attached to the surface of the h-BN. 
+
+3.2. Dispersion and microstructure of ﬁller
+
+
+Forming the heat conductive network structure and achieving strong interfacial adhesion by using thermally conductive ﬁllers could enhance heat conduction and other properties of the composites [28,29]. To reveal any obvious diﬀerences of interfacial interactions in these composites, the brittle fracture surface morphologies of diﬀerent EP composites (Fig. 5) were characterized by SEM micrographs. The h- BN protrudes from the matrix, attesting a weak interfacial interaction in the composite (Fig. 5b). However, h-BN-PGMA was implanted into the EP and surrounded with absorbed EP (Fig. 5d), which results in strong interfacial interaction in the EP composite. Compared with h-BN, h-BN- PGMA shows no obvious diﬀerence in the dispersion state. With a 15 vol% of h-BN content (Fig. 5a, c), several h-BN microplatelets can be seen in the ﬁeld-of-view to be contacted. Under this situation, the dis- tinct heat conduction network constructed in the EP matrix. 
+
+Fig. 2. TEM images of (a) pristine h-BN and (b) h-BN-PGMA microplatelets. (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the web version of this article.) 
+
+displayed in Fig. 6. At the same loading of h-BN and h-BN-PGMA, si- milar G′ values are obtained, with similar frequency dependence, in- dicating that there is no signiﬁcant diﬀerence in ﬁller dispersion. These results related to the dispersion of h-BN and h-BN-PGMA sustain the fracture SEM analysis. This conﬁrms that the surface treatment of h-BN eﬀectively enhances the interfacial interaction between h-BN and EP, but doesn’t obviously improve the dispersion of h-BN. 
+
+3.4. Dynamic mechanical properties of composites
+
+
+Fig. 3. FTIR spectra of h-BN and h-BN-PGMA. (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the web version of this article.) 
+
+Fig. 4. TGA curves of h-BN and h-BN-PGMA. (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the web version of this article.) 
+
+Fig. 7a shows that the storage modulus of the composite increases with the increase of h-BN content. This is due to the mechanical re- inforcement accounting for h-BN. The stiﬀness of ﬁller allows a greater degree of stress transfer from the matrix to the ﬁller. Furthermore, the EP/h-BN-PGMA composite possesses higher storage modulus values than the EP/h-BN composite. For example, at a ﬁxed ﬁller loading of 3 vol%, the storage moduli at 40 °C is 2.29 GPa for EP/h-BN-PGMA and 2.05 GPa for EP/h-BN-PGMA. Such an improvement is caused by the interaction between the EP group at the edge of h-BN and the EP ma- trix; hence, an enhanced interfacial adhesion leads to improve the transfer of applied stress [30]. The loss tangent (tan δ) curves of EP and EP composites can be obtained through DMA analysis (Fig. 7b). Herein, the temperature at the maximum peak is determined as the glass transition temperature (Tg). At a given ﬁller loading of 3 vol%, the Tg increases to 146.1 °C for EP/h-BN-PGMA composite and 142.2 °C for EP/h-BN composite from 136.5 °C of neat EP. Note that the Tg shows the same trend when the ﬁller loading increases to 15 vol%. The strong interfacial interaction between EP matrix and ﬁllers partially restricts the motion of polymer segments and delays their relaxation at the glass transition region, leading to an increase of Tg [31]. In general, the Tg values for all composites with diﬀerent amount of h-BN-PGMA or h-BN are over 125 °C which is demanded for electronic packaging underﬁll material [32]. 
+
+3.3. Dynamic rheological properties of composites
+
+
+3.5. Thermal conductivity of composites
+
+
+Besides SEM results, the dynamic rheological properties also pro- vide a novel method to investigate the dispersed state of the ﬁller in matrix. Generally, the less the frequency dependence of the storage modulus G′, the greater the restraint exerted by the h-BN network on the EP chains, resulting in a better dispersion of ﬁllers. The storage modulus (G′) of the composites, as a function of angular frequency are 
+
+Building heat-conduction pathways and reducing interfacial contact resistance are eﬀective ways to enhance the thermal conductivity of EP composites [13,33–35]. Fig. 8 displays the thermal conductive prop- erties of these materials. As shown in Fig. 8a, the thermal conductivity of EP-based composite improves with increasing ﬁller content. The thermal conductivity enhancement (Φ) of the composites can be de- termined from the data in Fig. 8a according to the following equation. 
+
+Fig. 5. SEM images of fracture surface of the composites with 15 vol% of (a) h-BN and (b) enlarged view of (a); (c) h-BN-PGMA and (d) enlarged view of (c). (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the web version of this article.) 
+
+Fig. 6. Frequency response of the storage modulus for neat EP, EP/h-BN and EP/h-BN- PGMA composites with 3 and 15 vol%. (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the web version of this article.) 
+
+where Kc and Ke represent thermal conductivity of the EP composite and neat EP, respectively. The evolution of Φ value with ﬁller loading is plotted in Fig. 8b. It can be seen that the thermal conductivities of EP/ h-BN improve from 0.238 to 1.037 W/mK when the loading changes from 3 vol% to 15 vol%, while the Φ value consequently increases from 20% to 424%. Especially, when the ﬁller loading changes from 9 vol% to 15 vol%, the thermal conductivity of the composite increases more than twice. This is because heat-conduction increases rapidly when the thermal conductive network is fully constructed. At low volume frac- tions, h-BN was randomly embedded in the EP with no contact. With the enhancement of ﬁller loading, h-BN was better connected, leading to the increasing heat-conduction. Surface modiﬁcation is beneﬁt to 
+
+improve heat-conduction for EP composites. The thermal conductivity of the composite with a 15 vol% of h-BN-PGMA reaches 1.198 W/mK, which is 5.05 times larger than that of EP. However, a lower value of thermal conductivity is gotten with the same content of h-BN in the composite. These results can be explained by the PGMA possesses longer molecular chain which results in a stronger interfacial interac- tion [36,37]. Meanwhile, the epoxy groups in PGMA chains, like epoxy resin, can crosslink with the curing agent so that the PGMA chains play the bridging function between the h-BN and the epoxy resin (Fig. S1). As a result, the stronger interfacial interaction which has been con- ﬁrmed by SEM micrographs can reduce interfacial thermal resistance, resulting in a higher thermal conductivity. On the other hand, the en- hancement of compatibility and interfacial aﬃnity between the ﬁllers and the EP matrix are beneﬁt to reduce the apparent viscosity of composite materials. Noteworthy, as show in Fig. S2, the apparent viscosity of the composite is over 20 Pa⋅s when the h-BN-PGMA content exceeds 15 vol%, which is diﬃcult to meet the requirement of underﬁll technology. The viscosity, dielectric properties and thermal con- ductivity of epoxy composites compared with the previous reports are listed in Table 2. The BNNS aerogels (3D-BNNS) can build a three-di- mensional thermal conductive network in epoxy resin so that the epoxy composite with a lower ﬁller loading (< 10 vol%) possesses a very high thermal conductivity (∼3.0 W/m K) [22,38]. However, the 3D struc- ture of the ﬁller causes the composite to lose its ﬂow capacity. On the other hand, the aligned arrangement of BN in a polymer matrix will help the increase of ﬁller loading and signiﬁcant improvement of thermal conductivity of the composites [39,40]. The high ﬁller content and speciﬁc preparation methods make this type of composite not meet the low viscosity requirement for underﬁll process. The composites prepared by blending epoxy resin and BN or modiﬁed BN usually show lower thermal conductivity than EP/h-BN-PGMA composites in this work except EP/BN/AgNPs composite [41]. But the report on the EP/ BN/AgNPs composite didn’t provide with apparent viscosity data as well as ﬁlling AgNPs would signiﬁcantly increase the manufacturing 
+
+Fig. 7. (a) Storage modulus and (b) Loss factors versus temperature of neat EP and its composites at 3 and 15 vol% loading. (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the web version of this article.) 
+
+Fig. 8. Thermal conductive properties of neat EP and its composites: (a) Thermal conductivity and (b) Thermal conductivity enhancement. (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the web version of this article.) 
+
+Table 2 Thermal conductivity, dielectric properties and rheological properties of various polymer composites. 
+
+* Converting for mass fraction to volume fraction. ** TC is abbreviation of thermal conductivity. −1 and 25 °C. *** Value at a shear rate of 10 s −1 and 30 °C. **** Value at a shear rate of 10 s 
+
+cost of the EP/BN composites, limiting their application in electronic packaging ﬁeld. In a word, the EP/h-BN-PGMA composite with below 18 vol% ﬁller has relative high thermal conductivity and low apparent viscosity, which satisfy the demand for electronic packaging underﬁll process. 
+
+3.6. Dielectric properties of composites
+
+
+packaging underﬁll process, which aims to achieve excellent opera- tional speeds of integrated devices [42,43]. Fig. 9 shows dielectric properties of EP composites. From Fig. 9a, it can be seen that the di- electric constant of the composites shows a slight decrease with an increase in frequency. At a ﬁxed ﬁller loading, the dielectric constant of EP/h-BN-PGMA composite is found to be larger than that of EP/h-BN composite when the same frequency is maintained. For example, the dielectric constant of the EP/h-BN-PGMA composite containing 15 vol % ﬁller reaches 5.17 at 100 KHz which is a tad higher than 4.87, that of 
+
+Fig. 9. Dielectric properties of EP and its composites: (a) Frequency dependence of dielectric constants and (b) Dielectric loss tangent at 10 kHz. (For interpretation of the references to colour in this ﬁgure legend, the reader is referred to the web version of this article.) 
+
+the EP/h-BN composite with the same ﬁller content. This is because when PGMA is coated on the h-BN, as a ﬁller in the composite, the formation of bond bridge between organic and inorganic materials re- sults in an augmentation of both the interfacial polarization and the dielectric constant values of the composites [44–48]. Fig. 9b shows the dielectric loss of the composites with diﬀerent loadings at 10 kHz. With increases in the ﬁller loadings, the composites show a slightly increased dielectric loss. Nevertheless, the EP/h-BN-PGMA composites possess relatively low dielectric constants and dielectric losses comparing with previous reported polymer composites (Table 2). 
+
+4. Conclusions
+
+
+Epoxy-matrix composites containing uniformly dispersed surface modiﬁed h-BN or pristine h-BN were prepared. The surface modiﬁca- tion enhances the interfacial interactions between h-BN and EP, leading to improve thermal conductivity of composites. The thermal con- ductivity of the EP/modiﬁed h-BN composite with a 15 vol% ﬁller loading reaches 1.198 W/mK which is 5.05 times larger than that of EP, while a lower value of thermal conductivity is gotten by the EP/raw h- BN composite with the same ﬁller content. Meanwhile, the enhance- ment of compatibility is beneﬁt to reduce the apparent viscosity of composite materials. In summary, the EP/h-BN-PGMA composite pos- sesses ideal dielectric properties, excellent thermal conductivity and good rheological properties, making it a prospective candidate in the electronic packaging underﬁll process. 
+
+We thank the ﬁnancial support from the National Key R&D Program of China (2016YFB0302400), National Natural Science Foundation of China (51210004), and Fundamental Research Funds for the Central Universities (2016JCTD112). We also acknowledge access to SEM, TEM, EDAX, XRD and TGA facilities of the Analytical and Testing Center of Huazhong University of Science and Technology. 
+
+Supplementary data associated with this article can be found, in the online version, at http://dx.doi.org/10.1016/j.compositesa.2018.02. 016. 
+
